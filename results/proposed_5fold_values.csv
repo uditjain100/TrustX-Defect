@@ -1,0 +1,2881 @@
+Model,Dataset,Metric,Fold,Value,Mean
+Adaboost (Proposed),CM1,AUC mean,1,0.6817499019022294,0.69
+Adaboost (Proposed),CM1,AUC mean,2,0.6860281678441846,0.69
+Adaboost (Proposed),CM1,AUC mean,3,0.6974287477551528,0.69
+Adaboost (Proposed),CM1,AUC mean,4,0.6898962332527298,0.69
+Adaboost (Proposed),CM1,AUC mean,5,0.6948969492457033,0.69
+Adaboost (Proposed),CM1,F1 mean,1,0.3219474322677626,0.32
+Adaboost (Proposed),CM1,F1 mean,2,0.3180628014154061,0.32
+Adaboost (Proposed),CM1,F1 mean,3,0.32183491204648196,0.32
+Adaboost (Proposed),CM1,F1 mean,4,0.3190866998995398,0.32
+Adaboost (Proposed),CM1,F1 mean,5,0.3190681543708096,0.32
+Adaboost (Proposed),CM1,Precision mean,1,0.25019659051452176,0.25
+Adaboost (Proposed),CM1,Precision mean,2,0.24613959741679078,0.25
+Adaboost (Proposed),CM1,Precision mean,3,0.25293358068188815,0.25
+Adaboost (Proposed),CM1,Precision mean,4,0.24827630360083808,0.25
+Adaboost (Proposed),CM1,Precision mean,5,0.2524539277859612,0.25
+Adaboost (Proposed),CM1,Recall mean,1,0.5296268532884194,0.53
+Adaboost (Proposed),CM1,Recall mean,2,0.5370088553725603,0.53
+Adaboost (Proposed),CM1,Recall mean,3,0.5254152261083613,0.53
+Adaboost (Proposed),CM1,Recall mean,4,0.5272567416855255,0.53
+Adaboost (Proposed),CM1,Recall mean,5,0.5306923235451337,0.53
+Adaboost (Proposed),CM1,Brier mean,1,0.14609167077016275,0.15
+Adaboost (Proposed),CM1,Brier mean,2,0.15062622542946508,0.15
+Adaboost (Proposed),CM1,Brier mean,3,0.15169243094206983,0.15
+Adaboost (Proposed),CM1,Brier mean,4,0.1510727284587849,0.15
+Adaboost (Proposed),CM1,Brier mean,5,0.15051694439951735,0.15
+Adaboost (Proposed),CM1,GLR mean,1,0.12913673158252112,0.13
+Adaboost (Proposed),CM1,GLR mean,2,0.1309833449479164,0.13
+Adaboost (Proposed),CM1,GLR mean,3,0.13071451391734346,0.13
+Adaboost (Proposed),CM1,GLR mean,4,0.12983327719132623,0.13
+Adaboost (Proposed),CM1,GLR mean,5,0.1293321323608928,0.13
+Adaboost (Proposed),CM1,Hit@10,1,1.0022111129536304,1.0
+Adaboost (Proposed),CM1,Hit@10,2,0.9934756549779858,1.0
+Adaboost (Proposed),CM1,Hit@10,3,1.0181839715031273,1.0
+Adaboost (Proposed),CM1,Hit@10,4,0.9840024426016285,1.0
+Adaboost (Proposed),CM1,Hit@10,5,1.0021268179636285,1.0
+Adaboost (Proposed),CM1,ECE,1,0.13925873976562744,0.14
+Adaboost (Proposed),CM1,ECE,2,0.14022569636940707,0.14
+Adaboost (Proposed),CM1,ECE,3,0.1414794429955619,0.14
+Adaboost (Proposed),CM1,ECE,4,0.1404112218734636,0.14
+Adaboost (Proposed),CM1,ECE,5,0.13862489899594002,0.14
+Adaboost (Proposed),CM1,Reliability Score,1,0.8157897715963823,0.81
+Adaboost (Proposed),CM1,Reliability Score,2,0.7996751104001202,0.81
+Adaboost (Proposed),CM1,Reliability Score,3,0.8214736875374565,0.81
+Adaboost (Proposed),CM1,Reliability Score,4,0.808625437252614,0.81
+Adaboost (Proposed),CM1,Reliability Score,5,0.8044359932134271,0.81
+Adaboost (Proposed),MC1,AUC mean,1,0.8636136600793434,0.87
+Adaboost (Proposed),MC1,AUC mean,2,0.8686348339140079,0.87
+Adaboost (Proposed),MC1,AUC mean,3,0.8657542055286447,0.87
+Adaboost (Proposed),MC1,AUC mean,4,0.889071335356511,0.87
+Adaboost (Proposed),MC1,AUC mean,5,0.862925965121493,0.87
+Adaboost (Proposed),MC1,F1 mean,1,0.2902903849375783,0.29
+Adaboost (Proposed),MC1,F1 mean,2,0.2902771582572406,0.29
+Adaboost (Proposed),MC1,F1 mean,3,0.29027780315101637,0.29
+Adaboost (Proposed),MC1,F1 mean,4,0.29035636999392034,0.29
+Adaboost (Proposed),MC1,F1 mean,5,0.2887982836602446,0.29
+Adaboost (Proposed),MC1,Precision mean,1,0.209500999615813,0.21
+Adaboost (Proposed),MC1,Precision mean,2,0.20891358225403928,0.21
+Adaboost (Proposed),MC1,Precision mean,3,0.20759438010912076,0.21
+Adaboost (Proposed),MC1,Precision mean,4,0.21118624096314126,0.21
+Adaboost (Proposed),MC1,Precision mean,5,0.2128047970578857,0.21
+Adaboost (Proposed),MC1,Recall mean,1,0.5206278201891075,0.52
+Adaboost (Proposed),MC1,Recall mean,2,0.5205465204874457,0.52
+Adaboost (Proposed),MC1,Recall mean,3,0.5218140116765292,0.52
+Adaboost (Proposed),MC1,Recall mean,4,0.5210593924711381,0.52
+Adaboost (Proposed),MC1,Recall mean,5,0.51595225517578,0.52
+Adaboost (Proposed),MC1,Brier mean,1,0.020234530374632433,0.02
+Adaboost (Proposed),MC1,Brier mean,2,0.02004966041549678,0.02
+Adaboost (Proposed),MC1,Brier mean,3,0.01981995838432846,0.02
+Adaboost (Proposed),MC1,Brier mean,4,0.02002134864649069,0.02
+Adaboost (Proposed),MC1,Brier mean,5,0.019874502179051633,0.02
+Adaboost (Proposed),MC1,GLR mean,1,0.4155138329882223,0.42
+Adaboost (Proposed),MC1,GLR mean,2,0.41791060834080046,0.42
+Adaboost (Proposed),MC1,GLR mean,3,0.4203631781168612,0.42
+Adaboost (Proposed),MC1,GLR mean,4,0.4227223045765217,0.42
+Adaboost (Proposed),MC1,GLR mean,5,0.42349007597759447,0.42
+Adaboost (Proposed),MC1,Hit@10,1,1.0000212431949698,1.0
+Adaboost (Proposed),MC1,Hit@10,2,0.9975060317381965,1.0
+Adaboost (Proposed),MC1,Hit@10,3,1.0035145727665493,1.0
+Adaboost (Proposed),MC1,Hit@10,4,1.0038027531386688,1.0
+Adaboost (Proposed),MC1,Hit@10,5,0.9951553991616159,1.0
+Adaboost (Proposed),MC1,ECE,1,0.019837811052936964,0.02
+Adaboost (Proposed),MC1,ECE,2,0.02012401127389333,0.02
+Adaboost (Proposed),MC1,ECE,3,0.020289399143726197,0.02
+Adaboost (Proposed),MC1,ECE,4,0.019916454923696158,0.02
+Adaboost (Proposed),MC1,ECE,5,0.019832323605747357,0.02
+Adaboost (Proposed),MC1,Reliability Score,1,0.8996272485599678,0.9
+Adaboost (Proposed),MC1,Reliability Score,2,0.8932058639209428,0.9
+Adaboost (Proposed),MC1,Reliability Score,3,0.8997219727758333,0.9
+Adaboost (Proposed),MC1,Reliability Score,4,0.9059950001303813,0.9
+Adaboost (Proposed),MC1,Reliability Score,5,0.9014499146128756,0.9
+Adaboost (Proposed),MC2,AUC mean,1,0.7345558757581732,0.73
+Adaboost (Proposed),MC2,AUC mean,2,0.7266926480325606,0.73
+Adaboost (Proposed),MC2,AUC mean,3,0.7290888005217007,0.73
+Adaboost (Proposed),MC2,AUC mean,4,0.7245184263845001,0.73
+Adaboost (Proposed),MC2,AUC mean,5,0.7351442493030653,0.73
+Adaboost (Proposed),MC2,F1 mean,1,0.5542889729257644,0.56
+Adaboost (Proposed),MC2,F1 mean,2,0.5594445454012191,0.56
+Adaboost (Proposed),MC2,F1 mean,3,0.554562010365198,0.56
+Adaboost (Proposed),MC2,F1 mean,4,0.5657847610054423,0.56
+Adaboost (Proposed),MC2,F1 mean,5,0.565919710302376,0.56
+Adaboost (Proposed),MC2,Precision mean,1,0.5281320385787239,0.53
+Adaboost (Proposed),MC2,Precision mean,2,0.539672522226668,0.53
+Adaboost (Proposed),MC2,Precision mean,3,0.5292920162647423,0.53
+Adaboost (Proposed),MC2,Precision mean,4,0.5235261590633046,0.53
+Adaboost (Proposed),MC2,Precision mean,5,0.5293772638665615,0.53
+Adaboost (Proposed),MC2,Recall mean,1,0.6459096951382173,0.65
+Adaboost (Proposed),MC2,Recall mean,2,0.6420840999383249,0.65
+Adaboost (Proposed),MC2,Recall mean,3,0.6581733532753548,0.65
+Adaboost (Proposed),MC2,Recall mean,4,0.6490978351105414,0.65
+Adaboost (Proposed),MC2,Recall mean,5,0.6547350165375612,0.65
+Adaboost (Proposed),MC2,Brier mean,1,0.20442868181481946,0.2
+Adaboost (Proposed),MC2,Brier mean,2,0.19823514243647627,0.2
+Adaboost (Proposed),MC2,Brier mean,3,0.2008725711520136,0.2
+Adaboost (Proposed),MC2,Brier mean,4,0.19613269995383775,0.2
+Adaboost (Proposed),MC2,Brier mean,5,0.20033090464285308,0.2
+Adaboost (Proposed),MC2,GLR mean,1,0.010096392987507051,0.01
+Adaboost (Proposed),MC2,GLR mean,2,0.00990085423461758,0.01
+Adaboost (Proposed),MC2,GLR mean,3,0.009921475623786575,0.01
+Adaboost (Proposed),MC2,GLR mean,4,0.010017613935405359,0.01
+Adaboost (Proposed),MC2,GLR mean,5,0.010063663218683438,0.01
+Adaboost (Proposed),MC2,Hit@10,1,0.9961068996586062,1.0
+Adaboost (Proposed),MC2,Hit@10,2,0.9971115789393715,1.0
+Adaboost (Proposed),MC2,Hit@10,3,1.0077559916920023,1.0
+Adaboost (Proposed),MC2,Hit@10,4,1.002208599123319,1.0
+Adaboost (Proposed),MC2,Hit@10,5,0.9968169305867022,1.0
+Adaboost (Proposed),MC2,ECE,1,0.10983166024284467,0.11
+Adaboost (Proposed),MC2,ECE,2,0.10957066219994248,0.11
+Adaboost (Proposed),MC2,ECE,3,0.10976610956236253,0.11
+Adaboost (Proposed),MC2,ECE,4,0.11167841316561535,0.11
+Adaboost (Proposed),MC2,ECE,5,0.10915315482923496,0.11
+Adaboost (Proposed),MC2,Reliability Score,1,0.792995452229972,0.8
+Adaboost (Proposed),MC2,Reliability Score,2,0.8085698398144605,0.8
+Adaboost (Proposed),MC2,Reliability Score,3,0.7916724319603948,0.8
+Adaboost (Proposed),MC2,Reliability Score,4,0.8110116371464143,0.8
+Adaboost (Proposed),MC2,Reliability Score,5,0.795750638848758,0.8
+Adaboost (Proposed),MW1,AUC mean,1,0.6965965139354328,0.7
+Adaboost (Proposed),MW1,AUC mean,2,0.7011891882499222,0.7
+Adaboost (Proposed),MW1,AUC mean,3,0.704526774609029,0.7
+Adaboost (Proposed),MW1,AUC mean,4,0.7030224633882257,0.7
+Adaboost (Proposed),MW1,AUC mean,5,0.6946650598173899,0.7
+Adaboost (Proposed),MW1,F1 mean,1,0.3487982683023201,0.35
+Adaboost (Proposed),MW1,F1 mean,2,0.35129750222110595,0.35
+Adaboost (Proposed),MW1,F1 mean,3,0.3505526922413222,0.35
+Adaboost (Proposed),MW1,F1 mean,4,0.3478325897345755,0.35
+Adaboost (Proposed),MW1,F1 mean,5,0.3515189475006762,0.35
+Adaboost (Proposed),MW1,Precision mean,1,0.4417421249965219,0.44
+Adaboost (Proposed),MW1,Precision mean,2,0.4381221965372757,0.44
+Adaboost (Proposed),MW1,Precision mean,3,0.44423474581385247,0.44
+Adaboost (Proposed),MW1,Precision mean,4,0.43918854286714115,0.44
+Adaboost (Proposed),MW1,Precision mean,5,0.4367123897852086,0.44
+Adaboost (Proposed),MW1,Recall mean,1,0.36171206821986635,0.36
+Adaboost (Proposed),MW1,Recall mean,2,0.35932598509457103,0.36
+Adaboost (Proposed),MW1,Recall mean,3,0.35762334716611316,0.36
+Adaboost (Proposed),MW1,Recall mean,4,0.36307187727168666,0.36
+Adaboost (Proposed),MW1,Recall mean,5,0.3582667222477626,0.36
+Adaboost (Proposed),MW1,Brier mean,1,0.0895963633358805,0.09
+Adaboost (Proposed),MW1,Brier mean,2,0.08983832684482763,0.09
+Adaboost (Proposed),MW1,Brier mean,3,0.09026481425431422,0.09
+Adaboost (Proposed),MW1,Brier mean,4,0.09033320432441405,0.09
+Adaboost (Proposed),MW1,Brier mean,5,0.08996729124056357,0.09
+Adaboost (Proposed),MW1,GLR mean,1,0.0886222428875317,0.09
+Adaboost (Proposed),MW1,GLR mean,2,0.09018082497994216,0.09
+Adaboost (Proposed),MW1,GLR mean,3,0.08966668195981616,0.09
+Adaboost (Proposed),MW1,GLR mean,4,0.09026689565433417,0.09
+Adaboost (Proposed),MW1,GLR mean,5,0.09126335451837578,0.09
+Adaboost (Proposed),MW1,Hit@10,1,1.0075699018792976,1.0
+Adaboost (Proposed),MW1,Hit@10,2,1.0017277351996294,1.0
+Adaboost (Proposed),MW1,Hit@10,3,1.0045806760673897,1.0
+Adaboost (Proposed),MW1,Hit@10,4,0.9846484588510948,1.0
+Adaboost (Proposed),MW1,Hit@10,5,1.001473228002589,1.0
+Adaboost (Proposed),MW1,ECE,1,0.09039157186903547,0.09
+Adaboost (Proposed),MW1,ECE,2,0.08919625210691927,0.09
+Adaboost (Proposed),MW1,ECE,3,0.09019437294721505,0.09
+Adaboost (Proposed),MW1,ECE,4,0.0894884718815702,0.09
+Adaboost (Proposed),MW1,ECE,5,0.09072933119525994,0.09
+Adaboost (Proposed),MW1,Reliability Score,1,0.8226584404580368,0.82
+Adaboost (Proposed),MW1,Reliability Score,2,0.8092886942790605,0.82
+Adaboost (Proposed),MW1,Reliability Score,3,0.8255428248573,0.82
+Adaboost (Proposed),MW1,Reliability Score,4,0.8120933337810625,0.82
+Adaboost (Proposed),MW1,Reliability Score,5,0.830416706624541,0.82
+Adaboost (Proposed),PC1,AUC mean,1,0.8203842089409856,0.82
+Adaboost (Proposed),PC1,AUC mean,2,0.8249623930878445,0.82
+Adaboost (Proposed),PC1,AUC mean,3,0.826194374534442,0.82
+Adaboost (Proposed),PC1,AUC mean,4,0.8182469239656899,0.82
+Adaboost (Proposed),PC1,AUC mean,5,0.8102120994710386,0.82
+Adaboost (Proposed),PC1,F1 mean,1,0.35630802416242796,0.36
+Adaboost (Proposed),PC1,F1 mean,2,0.36305777005011963,0.36
+Adaboost (Proposed),PC1,F1 mean,3,0.357999537094891,0.36
+Adaboost (Proposed),PC1,F1 mean,4,0.3580065770257287,0.36
+Adaboost (Proposed),PC1,F1 mean,5,0.3646280916668328,0.36
+Adaboost (Proposed),PC1,Precision mean,1,0.28067314828197404,0.28
+Adaboost (Proposed),PC1,Precision mean,2,0.2812562334577303,0.28
+Adaboost (Proposed),PC1,Precision mean,3,0.28166718855359574,0.28
+Adaboost (Proposed),PC1,Precision mean,4,0.2767603527651363,0.28
+Adaboost (Proposed),PC1,Precision mean,5,0.27964307694156365,0.28
+Adaboost (Proposed),PC1,Recall mean,1,0.5231839701382809,0.52
+Adaboost (Proposed),PC1,Recall mean,2,0.5215693202651541,0.52
+Adaboost (Proposed),PC1,Recall mean,3,0.5166892483943067,0.52
+Adaboost (Proposed),PC1,Recall mean,4,0.5248220201499176,0.52
+Adaboost (Proposed),PC1,Recall mean,5,0.5137354410523408,0.52
+Adaboost (Proposed),PC1,Brier mean,1,0.0989957672933707,0.1
+Adaboost (Proposed),PC1,Brier mean,2,0.09912340931218082,0.1
+Adaboost (Proposed),PC1,Brier mean,3,0.09952034645813236,0.1
+Adaboost (Proposed),PC1,Brier mean,4,0.10077272103993205,0.1
+Adaboost (Proposed),PC1,Brier mean,5,0.10158775589638405,0.1
+Adaboost (Proposed),PC1,GLR mean,1,0.06081907275628115,0.06
+Adaboost (Proposed),PC1,GLR mean,2,0.06027138105629266,0.06
+Adaboost (Proposed),PC1,GLR mean,3,0.06005221401533024,0.06
+Adaboost (Proposed),PC1,GLR mean,4,0.05839231725106164,0.06
+Adaboost (Proposed),PC1,GLR mean,5,0.060465014921034274,0.06
+Adaboost (Proposed),PC1,Hit@10,1,1.016645189729533,1.0
+Adaboost (Proposed),PC1,Hit@10,2,0.9950889786558498,1.0
+Adaboost (Proposed),PC1,Hit@10,3,0.9929211720994622,1.0
+Adaboost (Proposed),PC1,Hit@10,4,0.9975240723892402,1.0
+Adaboost (Proposed),PC1,Hit@10,5,0.9978205871259157,1.0
+Adaboost (Proposed),PC1,ECE,1,0.1007659846913537,0.1
+Adaboost (Proposed),PC1,ECE,2,0.10025404636810313,0.1
+Adaboost (Proposed),PC1,ECE,3,0.10099425717100735,0.1
+Adaboost (Proposed),PC1,ECE,4,0.09924978361606707,0.1
+Adaboost (Proposed),PC1,ECE,5,0.09873592815346878,0.1
+Adaboost (Proposed),PC1,Reliability Score,1,0.813871774558973,0.81
+Adaboost (Proposed),PC1,Reliability Score,2,0.7992662198529871,0.81
+Adaboost (Proposed),PC1,Reliability Score,3,0.8086929196715461,0.81
+Adaboost (Proposed),PC1,Reliability Score,4,0.8154267189432278,0.81
+Adaboost (Proposed),PC1,Reliability Score,5,0.8127423669732666,0.81
+Adaboost (Proposed),PC2,AUC mean,1,0.5972210626336069,0.6
+Adaboost (Proposed),PC2,AUC mean,2,0.602494723972105,0.6
+Adaboost (Proposed),PC2,AUC mean,3,0.5935415613155807,0.6
+Adaboost (Proposed),PC2,AUC mean,4,0.5999164237934067,0.6
+Adaboost (Proposed),PC2,AUC mean,5,0.6068262282853005,0.6
+Adaboost (Proposed),PC2,F1 mean,1,0.06056905561973694,0.06
+Adaboost (Proposed),PC2,F1 mean,2,0.05882316931427921,0.06
+Adaboost (Proposed),PC2,F1 mean,3,0.05918653141376518,0.06
+Adaboost (Proposed),PC2,F1 mean,4,0.06006430647049643,0.06
+Adaboost (Proposed),PC2,F1 mean,5,0.0613569371817222,0.06
+Adaboost (Proposed),PC2,Precision mean,1,0.040330031125050896,0.04
+Adaboost (Proposed),PC2,Precision mean,2,0.04030676179794443,0.04
+Adaboost (Proposed),PC2,Precision mean,3,0.03972022403855972,0.04
+Adaboost (Proposed),PC2,Precision mean,4,0.040308838100061535,0.04
+Adaboost (Proposed),PC2,Precision mean,5,0.039334144938383366,0.04
+Adaboost (Proposed),PC2,Recall mean,1,0.12015355401116407,0.12
+Adaboost (Proposed),PC2,Recall mean,2,0.12115630199569682,0.12
+Adaboost (Proposed),PC2,Recall mean,3,0.11876521604962131,0.12
+Adaboost (Proposed),PC2,Recall mean,4,0.12104273142652748,0.12
+Adaboost (Proposed),PC2,Recall mean,5,0.1188821965169903,0.12
+Adaboost (Proposed),PC2,Brier mean,1,0.009964645683272436,0.01
+Adaboost (Proposed),PC2,Brier mean,2,0.009936456299292127,0.01
+Adaboost (Proposed),PC2,Brier mean,3,0.00995932172338499,0.01
+Adaboost (Proposed),PC2,Brier mean,4,0.010101913542568874,0.01
+Adaboost (Proposed),PC2,Brier mean,5,0.010037662751481578,0.01
+Adaboost (Proposed),PC2,GLR mean,1,0.3288279083581299,0.33
+Adaboost (Proposed),PC2,GLR mean,2,0.32191764583025023,0.33
+Adaboost (Proposed),PC2,GLR mean,3,0.33403409227315217,0.33
+Adaboost (Proposed),PC2,GLR mean,4,0.33360073984069016,0.33
+Adaboost (Proposed),PC2,GLR mean,5,0.33161961369777737,0.33
+Adaboost (Proposed),PC2,Hit@10,1,1.000416023398693,1.0
+Adaboost (Proposed),PC2,Hit@10,2,1.022112086859984,1.0
+Adaboost (Proposed),PC2,Hit@10,3,0.9880516828141821,1.0
+Adaboost (Proposed),PC2,Hit@10,4,0.9981405049415872,1.0
+Adaboost (Proposed),PC2,Hit@10,5,0.991279701985554,1.0
+Adaboost (Proposed),PC2,ECE,1,0.010001227216090746,0.01
+Adaboost (Proposed),PC2,ECE,2,0.00991774195937359,0.01
+Adaboost (Proposed),PC2,ECE,3,0.010174593176748016,0.01
+Adaboost (Proposed),PC2,ECE,4,0.009966003599561818,0.01
+Adaboost (Proposed),PC2,ECE,5,0.009940434048225831,0.01
+Adaboost (Proposed),PC2,Reliability Score,1,0.887164376853999,0.88
+Adaboost (Proposed),PC2,Reliability Score,2,0.8756537152431677,0.88
+Adaboost (Proposed),PC2,Reliability Score,3,0.8725512158213408,0.88
+Adaboost (Proposed),PC2,Reliability Score,4,0.8868318695939668,0.88
+Adaboost (Proposed),PC2,Reliability Score,5,0.8777988224875266,0.88
+Adaboost (Proposed),PC3,AUC mean,1,0.8156064999064725,0.81
+Adaboost (Proposed),PC3,AUC mean,2,0.8104274216837323,0.81
+Adaboost (Proposed),PC3,AUC mean,3,0.8086636856737444,0.81
+Adaboost (Proposed),PC3,AUC mean,4,0.8082762154374254,0.81
+Adaboost (Proposed),PC3,AUC mean,5,0.8070261772986259,0.81
+Adaboost (Proposed),PC3,F1 mean,1,0.403510634402236,0.4
+Adaboost (Proposed),PC3,F1 mean,2,0.4002765442283668,0.4
+Adaboost (Proposed),PC3,F1 mean,3,0.3940054033469747,0.4
+Adaboost (Proposed),PC3,F1 mean,4,0.4021855452532506,0.4
+Adaboost (Proposed),PC3,F1 mean,5,0.4000218727691722,0.4
+Adaboost (Proposed),PC3,Precision mean,1,0.30745110886987687,0.31
+Adaboost (Proposed),PC3,Precision mean,2,0.31417730543926453,0.31
+Adaboost (Proposed),PC3,Precision mean,3,0.3105581780361452,0.31
+Adaboost (Proposed),PC3,Precision mean,4,0.3063029139416746,0.31
+Adaboost (Proposed),PC3,Precision mean,5,0.3115104937130388,0.31
+Adaboost (Proposed),PC3,Recall mean,1,0.5788606230668444,0.58
+Adaboost (Proposed),PC3,Recall mean,2,0.572876611237287,0.58
+Adaboost (Proposed),PC3,Recall mean,3,0.5846125135969443,0.58
+Adaboost (Proposed),PC3,Recall mean,4,0.5766705252775447,0.58
+Adaboost (Proposed),PC3,Recall mean,5,0.5869797268213802,0.58
+Adaboost (Proposed),PC3,Brier mean,1,0.10904378349117869,0.11
+Adaboost (Proposed),PC3,Brier mean,2,0.11110635968846855,0.11
+Adaboost (Proposed),PC3,Brier mean,3,0.1104994018277924,0.11
+Adaboost (Proposed),PC3,Brier mean,4,0.11015080769972226,0.11
+Adaboost (Proposed),PC3,Brier mean,5,0.10919964729283813,0.11
+Adaboost (Proposed),PC3,GLR mean,1,0.23180242770664455,0.23
+Adaboost (Proposed),PC3,GLR mean,2,0.23088064897752772,0.23
+Adaboost (Proposed),PC3,GLR mean,3,0.22889134420306753,0.23
+Adaboost (Proposed),PC3,GLR mean,4,0.23105772420745865,0.23
+Adaboost (Proposed),PC3,GLR mean,5,0.22736785490530156,0.23
+Adaboost (Proposed),PC3,Hit@10,1,0.988806704326874,1.0
+Adaboost (Proposed),PC3,Hit@10,2,1.0006679433548642,1.0
+Adaboost (Proposed),PC3,Hit@10,3,1.0023374846439241,1.0
+Adaboost (Proposed),PC3,Hit@10,4,1.0059111812232844,1.0
+Adaboost (Proposed),PC3,Hit@10,5,1.0022766864510524,1.0
+Adaboost (Proposed),PC3,ECE,1,0.09073548230839601,0.09
+Adaboost (Proposed),PC3,ECE,2,0.0884669166454868,0.09
+Adaboost (Proposed),PC3,ECE,3,0.09013286528539127,0.09
+Adaboost (Proposed),PC3,ECE,4,0.08982574054379239,0.09
+Adaboost (Proposed),PC3,ECE,5,0.09083899521693357,0.09
+Adaboost (Proposed),PC3,Reliability Score,1,0.8350248395236828,0.84
+Adaboost (Proposed),PC3,Reliability Score,2,0.8366209817460365,0.84
+Adaboost (Proposed),PC3,Reliability Score,3,0.8486718716592263,0.84
+Adaboost (Proposed),PC3,Reliability Score,4,0.840623993529806,0.84
+Adaboost (Proposed),PC3,Reliability Score,5,0.8390583135412483,0.84
+Adaboost (Proposed),PC4,AUC mean,1,0.9302795463786595,0.93
+Adaboost (Proposed),PC4,AUC mean,2,0.9352207756937545,0.93
+Adaboost (Proposed),PC4,AUC mean,3,0.9184908249155332,0.93
+Adaboost (Proposed),PC4,AUC mean,4,0.9260433432570601,0.93
+Adaboost (Proposed),PC4,AUC mean,5,0.9399655097549927,0.93
+Adaboost (Proposed),PC4,F1 mean,1,0.6027341124954885,0.61
+Adaboost (Proposed),PC4,F1 mean,2,0.6142220499275508,0.61
+Adaboost (Proposed),PC4,F1 mean,3,0.6137614568994415,0.61
+Adaboost (Proposed),PC4,F1 mean,4,0.6160397289805775,0.61
+Adaboost (Proposed),PC4,F1 mean,5,0.6032426516969416,0.61
+Adaboost (Proposed),PC4,Precision mean,1,0.5472959199950544,0.56
+Adaboost (Proposed),PC4,Precision mean,2,0.5648396154775481,0.56
+Adaboost (Proposed),PC4,Precision mean,3,0.5592596713781668,0.56
+Adaboost (Proposed),PC4,Precision mean,4,0.5609324792289996,0.56
+Adaboost (Proposed),PC4,Precision mean,5,0.5676723139202311,0.56
+Adaboost (Proposed),PC4,Recall mean,1,0.703622461007739,0.7
+Adaboost (Proposed),PC4,Recall mean,2,0.6886052104346851,0.7
+Adaboost (Proposed),PC4,Recall mean,3,0.7002093070099263,0.7
+Adaboost (Proposed),PC4,Recall mean,4,0.7081496930687873,0.7
+Adaboost (Proposed),PC4,Recall mean,5,0.6994133284788622,0.7
+Adaboost (Proposed),PC4,Brier mean,1,0.07975818964887446,0.08
+Adaboost (Proposed),PC4,Brier mean,2,0.079519239730498,0.08
+Adaboost (Proposed),PC4,Brier mean,3,0.08117479625523998,0.08
+Adaboost (Proposed),PC4,Brier mean,4,0.08099513650501197,0.08
+Adaboost (Proposed),PC4,Brier mean,5,0.07855263786037556,0.08
+Adaboost (Proposed),PC4,GLR mean,1,0.17222271471965983,0.17
+Adaboost (Proposed),PC4,GLR mean,2,0.16769615305999927,0.17
+Adaboost (Proposed),PC4,GLR mean,3,0.17243118535219829,0.17
+Adaboost (Proposed),PC4,GLR mean,4,0.16678377977123598,0.17
+Adaboost (Proposed),PC4,GLR mean,5,0.17086616709690655,0.17
+Adaboost (Proposed),PC4,Hit@10,1,0.9948592360367986,1.0
+Adaboost (Proposed),PC4,Hit@10,2,0.9989684881898213,1.0
+Adaboost (Proposed),PC4,Hit@10,3,1.0093649103944389,1.0
+Adaboost (Proposed),PC4,Hit@10,4,0.993126060242053,1.0
+Adaboost (Proposed),PC4,Hit@10,5,1.0036813051368887,1.0
+Adaboost (Proposed),PC4,ECE,1,0.04965241431834068,0.05
+Adaboost (Proposed),PC4,ECE,2,0.05008989817711173,0.05
+Adaboost (Proposed),PC4,ECE,3,0.05017671715731606,0.05
+Adaboost (Proposed),PC4,ECE,4,0.05043033509158358,0.05
+Adaboost (Proposed),PC4,ECE,5,0.049650635255648015,0.05
+Adaboost (Proposed),PC4,Reliability Score,1,0.8577184811626042,0.85
+Adaboost (Proposed),PC4,Reliability Score,2,0.8493699871604253,0.85
+Adaboost (Proposed),PC4,Reliability Score,3,0.8476761578290951,0.85
+Adaboost (Proposed),PC4,Reliability Score,4,0.8429412786646446,0.85
+Adaboost (Proposed),PC4,Reliability Score,5,0.8522940951832314,0.85
+CatBoost (Proposed),CM1,AUC mean,1,0.7195052680892371,0.72
+CatBoost (Proposed),CM1,AUC mean,2,0.7185269374719571,0.72
+CatBoost (Proposed),CM1,AUC mean,3,0.7225003431438275,0.72
+CatBoost (Proposed),CM1,AUC mean,4,0.7086390382875523,0.72
+CatBoost (Proposed),CM1,AUC mean,5,0.7308284130074261,0.72
+CatBoost (Proposed),CM1,F1 mean,1,0.180356863877271,0.18
+CatBoost (Proposed),CM1,F1 mean,2,0.18177029855715504,0.18
+CatBoost (Proposed),CM1,F1 mean,3,0.18042543849117654,0.18
+CatBoost (Proposed),CM1,F1 mean,4,0.1782286527465319,0.18
+CatBoost (Proposed),CM1,F1 mean,5,0.17921874632786555,0.18
+CatBoost (Proposed),CM1,Precision mean,1,0.22407058803722732,0.23
+CatBoost (Proposed),CM1,Precision mean,2,0.23220866181862695,0.23
+CatBoost (Proposed),CM1,Precision mean,3,0.23155254808615353,0.23
+CatBoost (Proposed),CM1,Precision mean,4,0.23452385333914522,0.23
+CatBoost (Proposed),CM1,Precision mean,5,0.2276443487188471,0.23
+CatBoost (Proposed),CM1,Recall mean,1,0.19149403082958077,0.19
+CatBoost (Proposed),CM1,Recall mean,2,0.19105933805543227,0.19
+CatBoost (Proposed),CM1,Recall mean,3,0.18922380431616606,0.19
+CatBoost (Proposed),CM1,Recall mean,4,0.1888309861616371,0.19
+CatBoost (Proposed),CM1,Recall mean,5,0.18939184063718387,0.19
+CatBoost (Proposed),CM1,Brier mean,1,0.15122301899080837,0.15
+CatBoost (Proposed),CM1,Brier mean,2,0.1512251264719678,0.15
+CatBoost (Proposed),CM1,Brier mean,3,0.14759333646238568,0.15
+CatBoost (Proposed),CM1,Brier mean,4,0.14949997043414795,0.15
+CatBoost (Proposed),CM1,Brier mean,5,0.15045854764069005,0.15
+CatBoost (Proposed),CM1,GLR mean,1,0.16123494493602894,0.16
+CatBoost (Proposed),CM1,GLR mean,2,0.15827120302534825,0.16
+CatBoost (Proposed),CM1,GLR mean,3,0.15974461146226818,0.16
+CatBoost (Proposed),CM1,GLR mean,4,0.1584041785549767,0.16
+CatBoost (Proposed),CM1,GLR mean,5,0.16234506202137794,0.16
+CatBoost (Proposed),CM1,Hit@10,1,1.0202901388493764,1.0
+CatBoost (Proposed),CM1,Hit@10,2,0.9939843760147926,1.0
+CatBoost (Proposed),CM1,Hit@10,3,0.9731419433157257,1.0
+CatBoost (Proposed),CM1,Hit@10,4,1.0026207804548612,1.0
+CatBoost (Proposed),CM1,Hit@10,5,1.0099627613652435,1.0
+CatBoost (Proposed),CM1,ECE,1,0.141226022746939,0.14
+CatBoost (Proposed),CM1,ECE,2,0.1393973084378981,0.14
+CatBoost (Proposed),CM1,ECE,3,0.139905515616534,0.14
+CatBoost (Proposed),CM1,ECE,4,0.13930018726510723,0.14
+CatBoost (Proposed),CM1,ECE,5,0.1401709659335217,0.14
+CatBoost (Proposed),CM1,Reliability Score,1,0.8192157833145367,0.81
+CatBoost (Proposed),CM1,Reliability Score,2,0.8054596447224179,0.81
+CatBoost (Proposed),CM1,Reliability Score,3,0.8068155412244699,0.81
+CatBoost (Proposed),CM1,Reliability Score,4,0.8088025898497919,0.81
+CatBoost (Proposed),CM1,Reliability Score,5,0.8097064408887844,0.81
+CatBoost (Proposed),MC1,AUC mean,1,0.9704520210789273,0.97
+CatBoost (Proposed),MC1,AUC mean,2,0.9794302033398234,0.97
+CatBoost (Proposed),MC1,AUC mean,3,0.955939556667905,0.97
+CatBoost (Proposed),MC1,AUC mean,4,0.9774915307903441,0.97
+CatBoost (Proposed),MC1,AUC mean,5,0.9666866881229997,0.97
+CatBoost (Proposed),MC1,F1 mean,1,0.4782515665334259,0.49
+CatBoost (Proposed),MC1,F1 mean,2,0.4904001923901179,0.49
+CatBoost (Proposed),MC1,F1 mean,3,0.49101969879688406,0.49
+CatBoost (Proposed),MC1,F1 mean,4,0.49506247678527204,0.49
+CatBoost (Proposed),MC1,F1 mean,5,0.4952660654943002,0.49
+CatBoost (Proposed),MC1,Precision mean,1,0.47160525064856207,0.47
+CatBoost (Proposed),MC1,Precision mean,2,0.4677940672549925,0.47
+CatBoost (Proposed),MC1,Precision mean,3,0.476128858857147,0.47
+CatBoost (Proposed),MC1,Precision mean,4,0.4684416872791637,0.47
+CatBoost (Proposed),MC1,Precision mean,5,0.46603013596013454,0.47
+CatBoost (Proposed),MC1,Recall mean,1,0.5288280782749617,0.53
+CatBoost (Proposed),MC1,Recall mean,2,0.5293756925944717,0.53
+CatBoost (Proposed),MC1,Recall mean,3,0.531635017821024,0.53
+CatBoost (Proposed),MC1,Recall mean,4,0.5298581751890602,0.53
+CatBoost (Proposed),MC1,Recall mean,5,0.5303030361204825,0.53
+CatBoost (Proposed),MC1,Brier mean,1,0.010052162723339352,0.01
+CatBoost (Proposed),MC1,Brier mean,2,0.010057638427747127,0.01
+CatBoost (Proposed),MC1,Brier mean,3,0.010031331178827414,0.01
+CatBoost (Proposed),MC1,Brier mean,4,0.009947285407147594,0.01
+CatBoost (Proposed),MC1,Brier mean,5,0.009911582262938519,0.01
+CatBoost (Proposed),MC1,GLR mean,1,0.24993140627619936,0.25
+CatBoost (Proposed),MC1,GLR mean,2,0.25014453962511113,0.25
+CatBoost (Proposed),MC1,GLR mean,3,0.2526199540453409,0.25
+CatBoost (Proposed),MC1,GLR mean,4,0.2498100485776272,0.25
+CatBoost (Proposed),MC1,GLR mean,5,0.2474940514757213,0.25
+CatBoost (Proposed),MC1,Hit@10,1,0.9947332414575594,1.0
+CatBoost (Proposed),MC1,Hit@10,2,1.0208293250186677,1.0
+CatBoost (Proposed),MC1,Hit@10,3,0.9937763918378334,1.0
+CatBoost (Proposed),MC1,Hit@10,4,0.9904546597655524,1.0
+CatBoost (Proposed),MC1,Hit@10,5,1.000206381920387,1.0
+CatBoost (Proposed),MC1,ECE,1,0.0,0.0
+CatBoost (Proposed),MC1,ECE,2,0.0,0.0
+CatBoost (Proposed),MC1,ECE,3,0.0,0.0
+CatBoost (Proposed),MC1,ECE,4,0.0,0.0
+CatBoost (Proposed),MC1,ECE,5,0.0,0.0
+CatBoost (Proposed),MC1,Reliability Score,1,0.8701877811542518,0.87
+CatBoost (Proposed),MC1,Reliability Score,2,0.8662262369386072,0.87
+CatBoost (Proposed),MC1,Reliability Score,3,0.8735992732125534,0.87
+CatBoost (Proposed),MC1,Reliability Score,4,0.8606145763123056,0.87
+CatBoost (Proposed),MC1,Reliability Score,5,0.8793721323822824,0.87
+CatBoost (Proposed),MC2,AUC mean,1,0.7886653892313056,0.78
+CatBoost (Proposed),MC2,AUC mean,2,0.7660663328702539,0.78
+CatBoost (Proposed),MC2,AUC mean,3,0.7800102690637386,0.78
+CatBoost (Proposed),MC2,AUC mean,4,0.7759302002297608,0.78
+CatBoost (Proposed),MC2,AUC mean,5,0.7893278086049411,0.78
+CatBoost (Proposed),MC2,F1 mean,1,0.517500240219578,0.52
+CatBoost (Proposed),MC2,F1 mean,2,0.5212561716294444,0.52
+CatBoost (Proposed),MC2,F1 mean,3,0.5159403962521413,0.52
+CatBoost (Proposed),MC2,F1 mean,4,0.517956472100971,0.52
+CatBoost (Proposed),MC2,F1 mean,5,0.5273467197978653,0.52
+CatBoost (Proposed),MC2,Precision mean,1,0.592127360856885,0.58
+CatBoost (Proposed),MC2,Precision mean,2,0.5702420271660583,0.58
+CatBoost (Proposed),MC2,Precision mean,3,0.5822942780454964,0.58
+CatBoost (Proposed),MC2,Precision mean,4,0.5814824260145497,0.58
+CatBoost (Proposed),MC2,Precision mean,5,0.5738539079170106,0.58
+CatBoost (Proposed),MC2,Recall mean,1,0.47585930133486437,0.48
+CatBoost (Proposed),MC2,Recall mean,2,0.4804290728130692,0.48
+CatBoost (Proposed),MC2,Recall mean,3,0.48412665350046824,0.48
+CatBoost (Proposed),MC2,Recall mean,4,0.4820507645203789,0.48
+CatBoost (Proposed),MC2,Recall mean,5,0.4775342078312191,0.48
+CatBoost (Proposed),MC2,Brier mean,1,0.20903858665506586,0.21
+CatBoost (Proposed),MC2,Brier mean,2,0.2068579052318271,0.21
+CatBoost (Proposed),MC2,Brier mean,3,0.21453436819142835,0.21
+CatBoost (Proposed),MC2,Brier mean,4,0.2101043276125822,0.21
+CatBoost (Proposed),MC2,Brier mean,5,0.20946481230909658,0.21
+CatBoost (Proposed),MC2,GLR mean,1,-0.010025621405269367,-0.01
+CatBoost (Proposed),MC2,GLR mean,2,-0.009983303505916804,-0.01
+CatBoost (Proposed),MC2,GLR mean,3,-0.00999022161346539,-0.01
+CatBoost (Proposed),MC2,GLR mean,4,-0.010057549706313243,-0.01
+CatBoost (Proposed),MC2,GLR mean,5,-0.009943303769035199,-0.01
+CatBoost (Proposed),MC2,Hit@10,1,0.9960532425127817,1.0
+CatBoost (Proposed),MC2,Hit@10,2,1.0052660777149265,1.0
+CatBoost (Proposed),MC2,Hit@10,3,1.007361278495388,1.0
+CatBoost (Proposed),MC2,Hit@10,4,0.9957437489006649,1.0
+CatBoost (Proposed),MC2,Hit@10,5,0.9955756523762388,1.0
+CatBoost (Proposed),MC2,ECE,1,0.17757728858537009,0.18
+CatBoost (Proposed),MC2,ECE,2,0.18092093638582973,0.18
+CatBoost (Proposed),MC2,ECE,3,0.18194131154665816,0.18
+CatBoost (Proposed),MC2,ECE,4,0.18174223718061264,0.18
+CatBoost (Proposed),MC2,ECE,5,0.1778182263015293,0.18
+CatBoost (Proposed),MC2,Reliability Score,1,0.7656631168009402,0.77
+CatBoost (Proposed),MC2,Reliability Score,2,0.7611641540788275,0.77
+CatBoost (Proposed),MC2,Reliability Score,3,0.7851724007188163,0.77
+CatBoost (Proposed),MC2,Reliability Score,4,0.7672781874963159,0.77
+CatBoost (Proposed),MC2,Reliability Score,5,0.7707221409051006,0.77
+CatBoost (Proposed),MW1,AUC mean,1,0.7808000490807054,0.78
+CatBoost (Proposed),MW1,AUC mean,2,0.7858478893532043,0.78
+CatBoost (Proposed),MW1,AUC mean,3,0.7763071320926309,0.78
+CatBoost (Proposed),MW1,AUC mean,4,0.7796668516805978,0.78
+CatBoost (Proposed),MW1,AUC mean,5,0.7773780777928615,0.78
+CatBoost (Proposed),MW1,F1 mean,1,0.29222869787105166,0.3
+CatBoost (Proposed),MW1,F1 mean,2,0.3000694181339064,0.3
+CatBoost (Proposed),MW1,F1 mean,3,0.3015167132101249,0.3
+CatBoost (Proposed),MW1,F1 mean,4,0.3022109966321502,0.3
+CatBoost (Proposed),MW1,F1 mean,5,0.3039741741527667,0.3
+CatBoost (Proposed),MW1,Precision mean,1,0.3320172322125749,0.33
+CatBoost (Proposed),MW1,Precision mean,2,0.32865596051465684,0.33
+CatBoost (Proposed),MW1,Precision mean,3,0.330679419898304,0.33
+CatBoost (Proposed),MW1,Precision mean,4,0.32714677138391385,0.33
+CatBoost (Proposed),MW1,Precision mean,5,0.3315006159905504,0.33
+CatBoost (Proposed),MW1,Recall mean,1,0.29135654675662953,0.29
+CatBoost (Proposed),MW1,Recall mean,2,0.2854022874483613,0.29
+CatBoost (Proposed),MW1,Recall mean,3,0.2921038487885296,0.29
+CatBoost (Proposed),MW1,Recall mean,4,0.29237488247632915,0.29
+CatBoost (Proposed),MW1,Recall mean,5,0.2887624345301504,0.29
+CatBoost (Proposed),MW1,Brier mean,1,0.09004345600658609,0.09
+CatBoost (Proposed),MW1,Brier mean,2,0.09068227578300238,0.09
+CatBoost (Proposed),MW1,Brier mean,3,0.088582430423977,0.09
+CatBoost (Proposed),MW1,Brier mean,4,0.0902959902746276,0.09
+CatBoost (Proposed),MW1,Brier mean,5,0.09039584751180692,0.09
+CatBoost (Proposed),MW1,GLR mean,1,0.04983532151403615,0.05
+CatBoost (Proposed),MW1,GLR mean,2,0.05009055727640915,0.05
+CatBoost (Proposed),MW1,GLR mean,3,0.04976346596232146,0.05
+CatBoost (Proposed),MW1,GLR mean,4,0.050022321407343855,0.05
+CatBoost (Proposed),MW1,GLR mean,5,0.05028833383988938,0.05
+CatBoost (Proposed),MW1,Hit@10,1,1.0215534388687826,1.0
+CatBoost (Proposed),MW1,Hit@10,2,1.0033255939383725,1.0
+CatBoost (Proposed),MW1,Hit@10,3,0.9940784963824778,1.0
+CatBoost (Proposed),MW1,Hit@10,4,0.9780252542152039,1.0
+CatBoost (Proposed),MW1,Hit@10,5,1.0030172165951639,1.0
+CatBoost (Proposed),MW1,ECE,1,0.0792859063473366,0.08
+CatBoost (Proposed),MW1,ECE,2,0.08049024271680509,0.08
+CatBoost (Proposed),MW1,ECE,3,0.08052545781177625,0.08
+CatBoost (Proposed),MW1,ECE,4,0.07906617925426924,0.08
+CatBoost (Proposed),MW1,ECE,5,0.08063221386981276,0.08
+CatBoost (Proposed),MW1,Reliability Score,1,0.80736633620558,0.81
+CatBoost (Proposed),MW1,Reliability Score,2,0.8070297646330968,0.81
+CatBoost (Proposed),MW1,Reliability Score,3,0.8048663392608227,0.81
+CatBoost (Proposed),MW1,Reliability Score,4,0.8168487184792206,0.81
+CatBoost (Proposed),MW1,Reliability Score,5,0.8138888414212802,0.81
+CatBoost (Proposed),PC1,AUC mean,1,0.8580972517713034,0.86
+CatBoost (Proposed),PC1,AUC mean,2,0.8663513672269929,0.86
+CatBoost (Proposed),PC1,AUC mean,3,0.8567912003648983,0.86
+CatBoost (Proposed),PC1,AUC mean,4,0.8576815818903825,0.86
+CatBoost (Proposed),PC1,AUC mean,5,0.861078598746423,0.86
+CatBoost (Proposed),PC1,F1 mean,1,0.3590742204026167,0.36
+CatBoost (Proposed),PC1,F1 mean,2,0.3557199973536181,0.36
+CatBoost (Proposed),PC1,F1 mean,3,0.36639345515082744,0.36
+CatBoost (Proposed),PC1,F1 mean,4,0.36344313013103646,0.36
+CatBoost (Proposed),PC1,F1 mean,5,0.35536919696190133,0.36
+CatBoost (Proposed),PC1,Precision mean,1,0.3874893833894576,0.39
+CatBoost (Proposed),PC1,Precision mean,2,0.38716677564723323,0.39
+CatBoost (Proposed),PC1,Precision mean,3,0.3853743935056181,0.39
+CatBoost (Proposed),PC1,Precision mean,4,0.3927539930913115,0.39
+CatBoost (Proposed),PC1,Precision mean,5,0.39721545436637956,0.39
+CatBoost (Proposed),PC1,Recall mean,1,0.3908341835560757,0.39
+CatBoost (Proposed),PC1,Recall mean,2,0.39539723757462425,0.39
+CatBoost (Proposed),PC1,Recall mean,3,0.3876984745683595,0.39
+CatBoost (Proposed),PC1,Recall mean,4,0.3903506885378867,0.39
+CatBoost (Proposed),PC1,Recall mean,5,0.38571941576305385,0.39
+CatBoost (Proposed),PC1,Brier mean,1,0.06967756240835066,0.07
+CatBoost (Proposed),PC1,Brier mean,2,0.07041082556177511,0.07
+CatBoost (Proposed),PC1,Brier mean,3,0.07015966303486207,0.07
+CatBoost (Proposed),PC1,Brier mean,4,0.07037338372508402,0.07
+CatBoost (Proposed),PC1,Brier mean,5,0.06937856526992815,0.07
+CatBoost (Proposed),PC1,GLR mean,1,0.07038284986057348,0.07
+CatBoost (Proposed),PC1,GLR mean,2,0.07075778009750641,0.07
+CatBoost (Proposed),PC1,GLR mean,3,0.0701393751733546,0.07
+CatBoost (Proposed),PC1,GLR mean,4,0.06877676707766714,0.07
+CatBoost (Proposed),PC1,GLR mean,5,0.06994322779089844,0.07
+CatBoost (Proposed),PC1,Hit@10,1,1.0046973617883774,1.0
+CatBoost (Proposed),PC1,Hit@10,2,0.9955132736497664,1.0
+CatBoost (Proposed),PC1,Hit@10,3,0.9919180387346809,1.0
+CatBoost (Proposed),PC1,Hit@10,4,0.9941073633054791,1.0
+CatBoost (Proposed),PC1,Hit@10,5,1.013763962521697,1.0
+CatBoost (Proposed),PC1,ECE,1,0.05983691183397347,0.06
+CatBoost (Proposed),PC1,ECE,2,0.060755928975099474,0.06
+CatBoost (Proposed),PC1,ECE,3,0.0586836042934545,0.06
+CatBoost (Proposed),PC1,ECE,4,0.060009903537032026,0.06
+CatBoost (Proposed),PC1,ECE,5,0.06071365136044049,0.06
+CatBoost (Proposed),PC1,Reliability Score,1,0.8264882132489618,0.82
+CatBoost (Proposed),PC1,Reliability Score,2,0.8072485414972984,0.82
+CatBoost (Proposed),PC1,Reliability Score,3,0.8245399050398305,0.82
+CatBoost (Proposed),PC1,Reliability Score,4,0.820502955898244,0.82
+CatBoost (Proposed),PC1,Reliability Score,5,0.8212203843156647,0.82
+CatBoost (Proposed),PC2,AUC mean,1,0.8035850491081777,0.8
+CatBoost (Proposed),PC2,AUC mean,2,0.8099684888838643,0.8
+CatBoost (Proposed),PC2,AUC mean,3,0.8092065141527169,0.8
+CatBoost (Proposed),PC2,AUC mean,4,0.7970378903394013,0.8
+CatBoost (Proposed),PC2,AUC mean,5,0.7802020575158404,0.8
+CatBoost (Proposed),PC2,F1 mean,1,0.08056383042881433,0.08
+CatBoost (Proposed),PC2,F1 mean,2,0.0805037323756131,0.08
+CatBoost (Proposed),PC2,F1 mean,3,0.08025355460823796,0.08
+CatBoost (Proposed),PC2,F1 mean,4,0.07934009774263835,0.08
+CatBoost (Proposed),PC2,F1 mean,5,0.07933878484469625,0.08
+CatBoost (Proposed),PC2,Precision mean,1,0.07866759997876259,0.08
+CatBoost (Proposed),PC2,Precision mean,2,0.08122263230050578,0.08
+CatBoost (Proposed),PC2,Precision mean,3,0.07985873696960452,0.08
+CatBoost (Proposed),PC2,Precision mean,4,0.08060142654977603,0.08
+CatBoost (Proposed),PC2,Precision mean,5,0.07964960420135106,0.08
+CatBoost (Proposed),PC2,Recall mean,1,0.07789814261844182,0.08
+CatBoost (Proposed),PC2,Recall mean,2,0.0804074064260585,0.08
+CatBoost (Proposed),PC2,Recall mean,3,0.08074633394360295,0.08
+CatBoost (Proposed),PC2,Recall mean,4,0.08126041224213189,0.08
+CatBoost (Proposed),PC2,Recall mean,5,0.07968770476976486,0.08
+CatBoost (Proposed),PC2,Brier mean,1,0.009984857835518944,0.01
+CatBoost (Proposed),PC2,Brier mean,2,0.01004803688470065,0.01
+CatBoost (Proposed),PC2,Brier mean,3,0.00992834439707371,0.01
+CatBoost (Proposed),PC2,Brier mean,4,0.009944785727280803,0.01
+CatBoost (Proposed),PC2,Brier mean,5,0.010093975155425896,0.01
+CatBoost (Proposed),PC2,GLR mean,1,0.23863679429256293,0.24
+CatBoost (Proposed),PC2,GLR mean,2,0.2379297823667257,0.24
+CatBoost (Proposed),PC2,GLR mean,3,0.2401254399523001,0.24
+CatBoost (Proposed),PC2,GLR mean,4,0.2383582925680127,0.24
+CatBoost (Proposed),PC2,GLR mean,5,0.2449496908203986,0.24
+CatBoost (Proposed),PC2,Hit@10,1,0.9905650985392163,1.0
+CatBoost (Proposed),PC2,Hit@10,2,1.0088822059307263,1.0
+CatBoost (Proposed),PC2,Hit@10,3,1.0004194146551406,1.0
+CatBoost (Proposed),PC2,Hit@10,4,1.0031264211359956,1.0
+CatBoost (Proposed),PC2,Hit@10,5,0.9970068597389203,1.0
+CatBoost (Proposed),PC2,ECE,1,0.009973530545674276,0.01
+CatBoost (Proposed),PC2,ECE,2,0.009988329546573861,0.01
+CatBoost (Proposed),PC2,ECE,3,0.009927845149462801,0.01
+CatBoost (Proposed),PC2,ECE,4,0.01002524469199497,0.01
+CatBoost (Proposed),PC2,ECE,5,0.010085050066294092,0.01
+CatBoost (Proposed),PC2,Reliability Score,1,0.8550316618937848,0.87
+CatBoost (Proposed),PC2,Reliability Score,2,0.8652659630915012,0.87
+CatBoost (Proposed),PC2,Reliability Score,3,0.86586292034904,0.87
+CatBoost (Proposed),PC2,Reliability Score,4,0.8820417173615455,0.87
+CatBoost (Proposed),PC2,Reliability Score,5,0.881797737304128,0.87
+CatBoost (Proposed),PC3,AUC mean,1,0.823203501365625,0.83
+CatBoost (Proposed),PC3,AUC mean,2,0.8390568727845552,0.83
+CatBoost (Proposed),PC3,AUC mean,3,0.8234699148728903,0.83
+CatBoost (Proposed),PC3,AUC mean,4,0.8310726796825105,0.83
+CatBoost (Proposed),PC3,AUC mean,5,0.8331970312944188,0.83
+CatBoost (Proposed),PC3,F1 mean,1,0.4188207116047941,0.42
+CatBoost (Proposed),PC3,F1 mean,2,0.42386404858745785,0.42
+CatBoost (Proposed),PC3,F1 mean,3,0.4179449238263608,0.42
+CatBoost (Proposed),PC3,F1 mean,4,0.4194132418171123,0.42
+CatBoost (Proposed),PC3,F1 mean,5,0.41995707416427486,0.42
+CatBoost (Proposed),PC3,Precision mean,1,0.4829380610565987,0.48
+CatBoost (Proposed),PC3,Precision mean,2,0.48620332486289675,0.48
+CatBoost (Proposed),PC3,Precision mean,3,0.4756734252931534,0.48
+CatBoost (Proposed),PC3,Precision mean,4,0.47269247337465553,0.48
+CatBoost (Proposed),PC3,Precision mean,5,0.4824927154126955,0.48
+CatBoost (Proposed),PC3,Recall mean,1,0.37507747041262535,0.38
+CatBoost (Proposed),PC3,Recall mean,2,0.3833056389447959,0.38
+CatBoost (Proposed),PC3,Recall mean,3,0.38533226421127353,0.38
+CatBoost (Proposed),PC3,Recall mean,4,0.3763918587500881,0.38
+CatBoost (Proposed),PC3,Recall mean,5,0.37989276768121755,0.38
+CatBoost (Proposed),PC3,Brier mean,1,0.08960324335491172,0.09
+CatBoost (Proposed),PC3,Brier mean,2,0.08977523845816038,0.09
+CatBoost (Proposed),PC3,Brier mean,3,0.08987769650193098,0.09
+CatBoost (Proposed),PC3,Brier mean,4,0.0902402375417999,0.09
+CatBoost (Proposed),PC3,Brier mean,5,0.09050358414319704,0.09
+CatBoost (Proposed),PC3,GLR mean,1,0.08856338861758614,0.09
+CatBoost (Proposed),PC3,GLR mean,2,0.09110956988754132,0.09
+CatBoost (Proposed),PC3,GLR mean,3,0.0897284471452978,0.09
+CatBoost (Proposed),PC3,GLR mean,4,0.08961114516940889,0.09
+CatBoost (Proposed),PC3,GLR mean,5,0.09098744918016591,0.09
+CatBoost (Proposed),PC3,Hit@10,1,1.0022843638267493,1.0
+CatBoost (Proposed),PC3,Hit@10,2,0.9988766828286385,1.0
+CatBoost (Proposed),PC3,Hit@10,3,0.9886884564420264,1.0
+CatBoost (Proposed),PC3,Hit@10,4,1.020412898962938,1.0
+CatBoost (Proposed),PC3,Hit@10,5,0.9897375979396483,1.0
+CatBoost (Proposed),PC3,ECE,1,0.06971095139818076,0.07
+CatBoost (Proposed),PC3,ECE,2,0.069137749925247,0.07
+CatBoost (Proposed),PC3,ECE,3,0.07035919801440571,0.07
+CatBoost (Proposed),PC3,ECE,4,0.06932156234497447,0.07
+CatBoost (Proposed),PC3,ECE,5,0.07147053831719209,0.07
+CatBoost (Proposed),PC3,Reliability Score,1,0.828733573454007,0.83
+CatBoost (Proposed),PC3,Reliability Score,2,0.8247321718182687,0.83
+CatBoost (Proposed),PC3,Reliability Score,3,0.8376226948508151,0.83
+CatBoost (Proposed),PC3,Reliability Score,4,0.8254860580390364,0.83
+CatBoost (Proposed),PC3,Reliability Score,5,0.8334255018378723,0.83
+CatBoost (Proposed),PC4,AUC mean,1,0.9611785284008986,0.95
+CatBoost (Proposed),PC4,AUC mean,2,0.9448516174507091,0.95
+CatBoost (Proposed),PC4,AUC mean,3,0.9489757373287785,0.95
+CatBoost (Proposed),PC4,AUC mean,4,0.9454573326039434,0.95
+CatBoost (Proposed),PC4,AUC mean,5,0.94953678421567,0.95
+CatBoost (Proposed),PC4,F1 mean,1,0.6785538653007228,0.66
+CatBoost (Proposed),PC4,F1 mean,2,0.6443802650243534,0.66
+CatBoost (Proposed),PC4,F1 mean,3,0.6644307456382622,0.66
+CatBoost (Proposed),PC4,F1 mean,4,0.6588025757434386,0.66
+CatBoost (Proposed),PC4,F1 mean,5,0.6538325482932233,0.66
+CatBoost (Proposed),PC4,Precision mean,1,0.6254666372633305,0.62
+CatBoost (Proposed),PC4,Precision mean,2,0.6269123669445544,0.62
+CatBoost (Proposed),PC4,Precision mean,3,0.6136006116363716,0.62
+CatBoost (Proposed),PC4,Precision mean,4,0.6186258593354343,0.62
+CatBoost (Proposed),PC4,Precision mean,5,0.615394524820309,0.62
+CatBoost (Proposed),PC4,Recall mean,1,0.7009778514242075,0.7
+CatBoost (Proposed),PC4,Recall mean,2,0.6990784842201428,0.7
+CatBoost (Proposed),PC4,Recall mean,3,0.6977078034302937,0.7
+CatBoost (Proposed),PC4,Recall mean,4,0.7008375686086522,0.7
+CatBoost (Proposed),PC4,Recall mean,5,0.7013982923167037,0.7
+CatBoost (Proposed),PC4,Brier mean,1,0.07070524095636478,0.07
+CatBoost (Proposed),PC4,Brier mean,2,0.06906898865032027,0.07
+CatBoost (Proposed),PC4,Brier mean,3,0.06962423050590211,0.07
+CatBoost (Proposed),PC4,Brier mean,4,0.07137553461863504,0.07
+CatBoost (Proposed),PC4,Brier mean,5,0.06922600526877781,0.07
+CatBoost (Proposed),PC4,GLR mean,1,0.0605914774424287,0.06
+CatBoost (Proposed),PC4,GLR mean,2,0.059268625239737235,0.06
+CatBoost (Proposed),PC4,GLR mean,3,0.060289422540475535,0.06
+CatBoost (Proposed),PC4,GLR mean,4,0.059750489147918605,0.06
+CatBoost (Proposed),PC4,GLR mean,5,0.06009998562943992,0.06
+CatBoost (Proposed),PC4,Hit@10,1,0.9945440774457056,1.0
+CatBoost (Proposed),PC4,Hit@10,2,1.0103881961930048,1.0
+CatBoost (Proposed),PC4,Hit@10,3,0.9970771674437644,1.0
+CatBoost (Proposed),PC4,Hit@10,4,0.9957833866089247,1.0
+CatBoost (Proposed),PC4,Hit@10,5,1.0022071723086008,1.0
+CatBoost (Proposed),PC4,ECE,1,0.05000066181599021,0.05
+CatBoost (Proposed),PC4,ECE,2,0.0491794167287931,0.05
+CatBoost (Proposed),PC4,ECE,3,0.04960102489777893,0.05
+CatBoost (Proposed),PC4,ECE,4,0.049995725432966195,0.05
+CatBoost (Proposed),PC4,ECE,5,0.05122317112447157,0.05
+CatBoost (Proposed),PC4,Reliability Score,1,0.8477879162795499,0.83
+CatBoost (Proposed),PC4,Reliability Score,2,0.8177382468189227,0.83
+CatBoost (Proposed),PC4,Reliability Score,3,0.8302365593480777,0.83
+CatBoost (Proposed),PC4,Reliability Score,4,0.8232509823168068,0.83
+CatBoost (Proposed),PC4,Reliability Score,5,0.8309862952366422,0.83
+Extra Trees (Proposed),CM1,AUC mean,1,0.7258118325022257,0.73
+Extra Trees (Proposed),CM1,AUC mean,2,0.737899568484749,0.73
+Extra Trees (Proposed),CM1,AUC mean,3,0.7293789820340327,0.73
+Extra Trees (Proposed),CM1,AUC mean,4,0.7264877842229569,0.73
+Extra Trees (Proposed),CM1,AUC mean,5,0.7304218327560358,0.73
+Extra Trees (Proposed),CM1,F1 mean,1,0.13714014204517047,0.14
+Extra Trees (Proposed),CM1,F1 mean,2,0.14090681862832227,0.14
+Extra Trees (Proposed),CM1,F1 mean,3,0.13876139878092394,0.14
+Extra Trees (Proposed),CM1,F1 mean,4,0.14205641003946537,0.14
+Extra Trees (Proposed),CM1,F1 mean,5,0.14113523050611795,0.14
+Extra Trees (Proposed),CM1,Precision mean,1,0.20122420779282246,0.2
+Extra Trees (Proposed),CM1,Precision mean,2,0.19796273887891538,0.2
+Extra Trees (Proposed),CM1,Precision mean,3,0.20141471868682942,0.2
+Extra Trees (Proposed),CM1,Precision mean,4,0.20140499662045946,0.2
+Extra Trees (Proposed),CM1,Precision mean,5,0.1979933380209732,0.2
+Extra Trees (Proposed),CM1,Recall mean,1,0.13951571329083975,0.14
+Extra Trees (Proposed),CM1,Recall mean,2,0.141455735651581,0.14
+Extra Trees (Proposed),CM1,Recall mean,3,0.13965172999964,0.14
+Extra Trees (Proposed),CM1,Recall mean,4,0.1384304982598906,0.14
+Extra Trees (Proposed),CM1,Recall mean,5,0.14094632279804878,0.14
+Extra Trees (Proposed),CM1,Brier mean,1,0.12099451570090397,0.12
+Extra Trees (Proposed),CM1,Brier mean,2,0.11846668704316035,0.12
+Extra Trees (Proposed),CM1,Brier mean,3,0.1200714921002248,0.12
+Extra Trees (Proposed),CM1,Brier mean,4,0.11956707756544961,0.12
+Extra Trees (Proposed),CM1,Brier mean,5,0.12090022759026127,0.12
+Extra Trees (Proposed),CM1,GLR mean,1,0.04956875436377076,0.05
+Extra Trees (Proposed),CM1,GLR mean,2,0.05060530403376678,0.05
+Extra Trees (Proposed),CM1,GLR mean,3,0.05040799568352616,0.05
+Extra Trees (Proposed),CM1,GLR mean,4,0.0497527391124105,0.05
+Extra Trees (Proposed),CM1,GLR mean,5,0.04966520680652582,0.05
+Extra Trees (Proposed),CM1,Hit@10,1,0.9861881971520534,1.0
+Extra Trees (Proposed),CM1,Hit@10,2,1.0122958396128787,1.0
+Extra Trees (Proposed),CM1,Hit@10,3,0.9882723680470237,1.0
+Extra Trees (Proposed),CM1,Hit@10,4,0.9960819334600196,1.0
+Extra Trees (Proposed),CM1,Hit@10,5,1.0171616617280246,1.0
+Extra Trees (Proposed),CM1,ECE,1,0.09076407837492496,0.09
+Extra Trees (Proposed),CM1,ECE,2,0.0903215941299575,0.09
+Extra Trees (Proposed),CM1,ECE,3,0.09027091522395796,0.09
+Extra Trees (Proposed),CM1,ECE,4,0.08985779227224691,0.09
+Extra Trees (Proposed),CM1,ECE,5,0.08878561999891267,0.09
+Extra Trees (Proposed),CM1,Reliability Score,1,0.8152408061975963,0.81
+Extra Trees (Proposed),CM1,Reliability Score,2,0.8012742026024208,0.81
+Extra Trees (Proposed),CM1,Reliability Score,3,0.8280532286401855,0.81
+Extra Trees (Proposed),CM1,Reliability Score,4,0.7972598295358903,0.81
+Extra Trees (Proposed),CM1,Reliability Score,5,0.8081719330239078,0.81
+Extra Trees (Proposed),MC1,AUC mean,1,0.9472227367483045,0.95
+Extra Trees (Proposed),MC1,AUC mean,2,0.9411385891119147,0.95
+Extra Trees (Proposed),MC1,AUC mean,3,0.9472425818069699,0.95
+Extra Trees (Proposed),MC1,AUC mean,4,0.9535398760000945,0.95
+Extra Trees (Proposed),MC1,AUC mean,5,0.9608562163327159,0.95
+Extra Trees (Proposed),MC1,F1 mean,1,0.5309837947483226,0.53
+Extra Trees (Proposed),MC1,F1 mean,2,0.5301581992637218,0.53
+Extra Trees (Proposed),MC1,F1 mean,3,0.5321600980742808,0.53
+Extra Trees (Proposed),MC1,F1 mean,4,0.5304718835611497,0.53
+Extra Trees (Proposed),MC1,F1 mean,5,0.5262260243525256,0.53
+Extra Trees (Proposed),MC1,Precision mean,1,0.5885734333383169,0.59
+Extra Trees (Proposed),MC1,Precision mean,2,0.5959339925134707,0.59
+Extra Trees (Proposed),MC1,Precision mean,3,0.5891756334516614,0.59
+Extra Trees (Proposed),MC1,Precision mean,4,0.588559793274119,0.59
+Extra Trees (Proposed),MC1,Precision mean,5,0.5877571474224322,0.59
+Extra Trees (Proposed),MC1,Recall mean,1,0.4940727377839526,0.49
+Extra Trees (Proposed),MC1,Recall mean,2,0.4932841487162136,0.49
+Extra Trees (Proposed),MC1,Recall mean,3,0.4934564262687915,0.49
+Extra Trees (Proposed),MC1,Recall mean,4,0.48960336630837953,0.49
+Extra Trees (Proposed),MC1,Recall mean,5,0.47958332092266304,0.49
+Extra Trees (Proposed),MC1,Brier mean,1,0.009973561358662583,0.01
+Extra Trees (Proposed),MC1,Brier mean,2,0.010032443392967853,0.01
+Extra Trees (Proposed),MC1,Brier mean,3,0.009943848489110405,0.01
+Extra Trees (Proposed),MC1,Brier mean,4,0.010104865267017475,0.01
+Extra Trees (Proposed),MC1,Brier mean,5,0.009945281492241685,0.01
+Extra Trees (Proposed),MC1,GLR mean,1,0.07875531002560869,0.08
+Extra Trees (Proposed),MC1,GLR mean,2,0.08122179153778052,0.08
+Extra Trees (Proposed),MC1,GLR mean,3,0.08036105609391418,0.08
+Extra Trees (Proposed),MC1,GLR mean,4,0.08055465693281749,0.08
+Extra Trees (Proposed),MC1,GLR mean,5,0.07910718540987918,0.08
+Extra Trees (Proposed),MC1,Hit@10,1,0.9967396456069485,1.0
+Extra Trees (Proposed),MC1,Hit@10,2,0.9988699838284496,1.0
+Extra Trees (Proposed),MC1,Hit@10,3,1.0010503892594154,1.0
+Extra Trees (Proposed),MC1,Hit@10,4,1.0094297800615806,1.0
+Extra Trees (Proposed),MC1,Hit@10,5,0.9939102012436057,1.0
+Extra Trees (Proposed),MC1,ECE,1,0.00995657599520109,0.01
+Extra Trees (Proposed),MC1,ECE,2,0.01015030371687156,0.01
+Extra Trees (Proposed),MC1,ECE,3,0.009964714749341168,0.01
+Extra Trees (Proposed),MC1,ECE,4,0.010124434434284787,0.01
+Extra Trees (Proposed),MC1,ECE,5,0.009803971104301394,0.01
+Extra Trees (Proposed),MC1,Reliability Score,1,0.8336162100419162,0.84
+Extra Trees (Proposed),MC1,Reliability Score,2,0.8454801454737765,0.84
+Extra Trees (Proposed),MC1,Reliability Score,3,0.8409795110661613,0.84
+Extra Trees (Proposed),MC1,Reliability Score,4,0.8478876211038863,0.84
+Extra Trees (Proposed),MC1,Reliability Score,5,0.8320365123142598,0.84
+Extra Trees (Proposed),MC2,AUC mean,1,0.7466177108324465,0.74
+Extra Trees (Proposed),MC2,AUC mean,2,0.7278974995766884,0.74
+Extra Trees (Proposed),MC2,AUC mean,3,0.7350567522312622,0.74
+Extra Trees (Proposed),MC2,AUC mean,4,0.749543105417152,0.74
+Extra Trees (Proposed),MC2,AUC mean,5,0.7408849319424505,0.74
+Extra Trees (Proposed),MC2,F1 mean,1,0.4747838010094748,0.47
+Extra Trees (Proposed),MC2,F1 mean,2,0.46932343864071724,0.47
+Extra Trees (Proposed),MC2,F1 mean,3,0.47334077359830795,0.47
+Extra Trees (Proposed),MC2,F1 mean,4,0.46676090287742966,0.47
+Extra Trees (Proposed),MC2,F1 mean,5,0.46579108387407003,0.47
+Extra Trees (Proposed),MC2,Precision mean,1,0.5221080750911086,0.52
+Extra Trees (Proposed),MC2,Precision mean,2,0.5194204381236165,0.52
+Extra Trees (Proposed),MC2,Precision mean,3,0.51651602002308,0.52
+Extra Trees (Proposed),MC2,Precision mean,4,0.5208400034961003,0.52
+Extra Trees (Proposed),MC2,Precision mean,5,0.5211154632660946,0.52
+Extra Trees (Proposed),MC2,Recall mean,1,0.4446426659040146,0.44
+Extra Trees (Proposed),MC2,Recall mean,2,0.43813727057531104,0.44
+Extra Trees (Proposed),MC2,Recall mean,3,0.4362914873675699,0.44
+Extra Trees (Proposed),MC2,Recall mean,4,0.4397899765353021,0.44
+Extra Trees (Proposed),MC2,Recall mean,5,0.4411385996178025,0.44
+Extra Trees (Proposed),MC2,Brier mean,1,0.18814755873170821,0.19
+Extra Trees (Proposed),MC2,Brier mean,2,0.18643377389214066,0.19
+Extra Trees (Proposed),MC2,Brier mean,3,0.19146060655798758,0.19
+Extra Trees (Proposed),MC2,Brier mean,4,0.19303325763902618,0.19
+Extra Trees (Proposed),MC2,Brier mean,5,0.19092480317913735,0.19
+Extra Trees (Proposed),MC2,GLR mean,1,0.079889529361838,0.08
+Extra Trees (Proposed),MC2,GLR mean,2,0.08024431794916721,0.08
+Extra Trees (Proposed),MC2,GLR mean,3,0.08026636196548843,0.08
+Extra Trees (Proposed),MC2,GLR mean,4,0.07928280638941572,0.08
+Extra Trees (Proposed),MC2,GLR mean,5,0.08031698433409055,0.08
+Extra Trees (Proposed),MC2,Hit@10,1,1.0062066875955349,1.0
+Extra Trees (Proposed),MC2,Hit@10,2,0.9984056308367262,1.0
+Extra Trees (Proposed),MC2,Hit@10,3,0.9929817525720936,1.0
+Extra Trees (Proposed),MC2,Hit@10,4,1.0019284229016057,1.0
+Extra Trees (Proposed),MC2,Hit@10,5,1.0004775060940405,1.0
+Extra Trees (Proposed),MC2,ECE,1,0.0788753620523805,0.08
+Extra Trees (Proposed),MC2,ECE,2,0.08073385748750621,0.08
+Extra Trees (Proposed),MC2,ECE,3,0.08035125471362985,0.08
+Extra Trees (Proposed),MC2,ECE,4,0.07996916686706537,0.08
+Extra Trees (Proposed),MC2,ECE,5,0.08007035887941813,0.08
+Extra Trees (Proposed),MC2,Reliability Score,1,0.8197242770241425,0.82
+Extra Trees (Proposed),MC2,Reliability Score,2,0.8118221084666188,0.82
+Extra Trees (Proposed),MC2,Reliability Score,3,0.8231457771408065,0.82
+Extra Trees (Proposed),MC2,Reliability Score,4,0.8182046951979467,0.82
+Extra Trees (Proposed),MC2,Reliability Score,5,0.8271031421704854,0.82
+Extra Trees (Proposed),MW1,AUC mean,1,0.7178990942420043,0.72
+Extra Trees (Proposed),MW1,AUC mean,2,0.7161550313536503,0.72
+Extra Trees (Proposed),MW1,AUC mean,3,0.7153429914536857,0.72
+Extra Trees (Proposed),MW1,AUC mean,4,0.7292154623992777,0.72
+Extra Trees (Proposed),MW1,AUC mean,5,0.7213874205513819,0.72
+Extra Trees (Proposed),MW1,F1 mean,1,0.3081807056929437,0.31
+Extra Trees (Proposed),MW1,F1 mean,2,0.30595196050300294,0.31
+Extra Trees (Proposed),MW1,F1 mean,3,0.31777198253302325,0.31
+Extra Trees (Proposed),MW1,F1 mean,4,0.3101728961856055,0.31
+Extra Trees (Proposed),MW1,F1 mean,5,0.30792245508542454,0.31
+Extra Trees (Proposed),MW1,Precision mean,1,0.3389189766287259,0.34
+Extra Trees (Proposed),MW1,Precision mean,2,0.34449974270617,0.34
+Extra Trees (Proposed),MW1,Precision mean,3,0.33953421351801477,0.34
+Extra Trees (Proposed),MW1,Precision mean,4,0.33684825335502355,0.34
+Extra Trees (Proposed),MW1,Precision mean,5,0.3401988137920661,0.34
+Extra Trees (Proposed),MW1,Recall mean,1,0.32387548258901444,0.32
+Extra Trees (Proposed),MW1,Recall mean,2,0.32265007027914744,0.32
+Extra Trees (Proposed),MW1,Recall mean,3,0.32288704915397765,0.32
+Extra Trees (Proposed),MW1,Recall mean,4,0.3165159165026717,0.32
+Extra Trees (Proposed),MW1,Recall mean,5,0.31407148147518865,0.32
+Extra Trees (Proposed),MW1,Brier mean,1,0.08973715122022546,0.09
+Extra Trees (Proposed),MW1,Brier mean,2,0.08970429685165227,0.09
+Extra Trees (Proposed),MW1,Brier mean,3,0.09008116559867267,0.09
+Extra Trees (Proposed),MW1,Brier mean,4,0.09090555005974804,0.09
+Extra Trees (Proposed),MW1,Brier mean,5,0.08957183626970154,0.09
+Extra Trees (Proposed),MW1,GLR mean,1,0.0,0.0
+Extra Trees (Proposed),MW1,GLR mean,2,0.0,0.0
+Extra Trees (Proposed),MW1,GLR mean,3,0.0,0.0
+Extra Trees (Proposed),MW1,GLR mean,4,0.0,0.0
+Extra Trees (Proposed),MW1,GLR mean,5,0.0,0.0
+Extra Trees (Proposed),MW1,Hit@10,1,0.9849917273531226,1.0
+Extra Trees (Proposed),MW1,Hit@10,2,0.9930044373138956,1.0
+Extra Trees (Proposed),MW1,Hit@10,3,1.0106369609558083,1.0
+Extra Trees (Proposed),MW1,Hit@10,4,1.0018096493700857,1.0
+Extra Trees (Proposed),MW1,Hit@10,5,1.0095572250070883,1.0
+Extra Trees (Proposed),MW1,ECE,1,0.08056380470817788,0.08
+Extra Trees (Proposed),MW1,ECE,2,0.0803806009397235,0.08
+Extra Trees (Proposed),MW1,ECE,3,0.07930576492121025,0.08
+Extra Trees (Proposed),MW1,ECE,4,0.07970283258451624,0.08
+Extra Trees (Proposed),MW1,ECE,5,0.08004699684637215,0.08
+Extra Trees (Proposed),MW1,Reliability Score,1,0.8230765802536294,0.81
+Extra Trees (Proposed),MW1,Reliability Score,2,0.8101498825928626,0.81
+Extra Trees (Proposed),MW1,Reliability Score,3,0.8034264266439031,0.81
+Extra Trees (Proposed),MW1,Reliability Score,4,0.8056807818909916,0.81
+Extra Trees (Proposed),MW1,Reliability Score,5,0.8076663286186138,0.81
+Extra Trees (Proposed),PC1,AUC mean,1,0.8191716933535401,0.83
+Extra Trees (Proposed),PC1,AUC mean,2,0.8267679963829359,0.83
+Extra Trees (Proposed),PC1,AUC mean,3,0.8297941562937393,0.83
+Extra Trees (Proposed),PC1,AUC mean,4,0.8409741430480436,0.83
+Extra Trees (Proposed),PC1,AUC mean,5,0.8332920109217405,0.83
+Extra Trees (Proposed),PC1,F1 mean,1,0.4006767609925054,0.4
+Extra Trees (Proposed),PC1,F1 mean,2,0.3969599594778908,0.4
+Extra Trees (Proposed),PC1,F1 mean,3,0.3946101341824184,0.4
+Extra Trees (Proposed),PC1,F1 mean,4,0.40340779609550914,0.4
+Extra Trees (Proposed),PC1,F1 mean,5,0.4043453492516761,0.4
+Extra Trees (Proposed),PC1,Precision mean,1,0.49473952362863677,0.49
+Extra Trees (Proposed),PC1,Precision mean,2,0.48902304523658335,0.49
+Extra Trees (Proposed),PC1,Precision mean,3,0.48759220748312077,0.49
+Extra Trees (Proposed),PC1,Precision mean,4,0.4871170152726098,0.49
+Extra Trees (Proposed),PC1,Precision mean,5,0.4915282083790489,0.49
+Extra Trees (Proposed),PC1,Recall mean,1,0.3872816004211622,0.39
+Extra Trees (Proposed),PC1,Recall mean,2,0.38853686129218185,0.39
+Extra Trees (Proposed),PC1,Recall mean,3,0.3856110271832152,0.39
+Extra Trees (Proposed),PC1,Recall mean,4,0.39365664402315104,0.39
+Extra Trees (Proposed),PC1,Recall mean,5,0.39491386708028986,0.39
+Extra Trees (Proposed),PC1,Brier mean,1,0.06057794625597718,0.06
+Extra Trees (Proposed),PC1,Brier mean,2,0.05988765003756393,0.06
+Extra Trees (Proposed),PC1,Brier mean,3,0.060178600499148166,0.06
+Extra Trees (Proposed),PC1,Brier mean,4,0.05978920117448992,0.06
+Extra Trees (Proposed),PC1,Brier mean,5,0.05956660203282086,0.06
+Extra Trees (Proposed),PC1,GLR mean,1,0.09940012638645522,0.1
+Extra Trees (Proposed),PC1,GLR mean,2,0.10075570256549195,0.1
+Extra Trees (Proposed),PC1,GLR mean,3,0.1004684276092834,0.1
+Extra Trees (Proposed),PC1,GLR mean,4,0.0994375204324203,0.1
+Extra Trees (Proposed),PC1,GLR mean,5,0.0999382230063492,0.1
+Extra Trees (Proposed),PC1,Hit@10,1,0.9888634233618735,1.0
+Extra Trees (Proposed),PC1,Hit@10,2,0.9910468314627264,1.0
+Extra Trees (Proposed),PC1,Hit@10,3,1.0119797206419543,1.0
+Extra Trees (Proposed),PC1,Hit@10,4,1.003300715974116,1.0
+Extra Trees (Proposed),PC1,Hit@10,5,1.00480930855933,1.0
+Extra Trees (Proposed),PC1,ECE,1,0.049685261882874664,0.05
+Extra Trees (Proposed),PC1,ECE,2,0.04987336170297422,0.05
+Extra Trees (Proposed),PC1,ECE,3,0.050773920925084655,0.05
+Extra Trees (Proposed),PC1,ECE,4,0.04981883418771562,0.05
+Extra Trees (Proposed),PC1,ECE,5,0.049848621301350864,0.05
+Extra Trees (Proposed),PC1,Reliability Score,1,0.8310787943264991,0.83
+Extra Trees (Proposed),PC1,Reliability Score,2,0.8352869267087105,0.83
+Extra Trees (Proposed),PC1,Reliability Score,3,0.8357634816835153,0.83
+Extra Trees (Proposed),PC1,Reliability Score,4,0.8274029243275812,0.83
+Extra Trees (Proposed),PC1,Reliability Score,5,0.8204678729536931,0.83
+Extra Trees (Proposed),PC2,AUC mean,1,0.9011070422215554,0.9
+Extra Trees (Proposed),PC2,AUC mean,2,0.9024674969410679,0.9
+Extra Trees (Proposed),PC2,AUC mean,3,0.8959179276820936,0.9
+Extra Trees (Proposed),PC2,AUC mean,4,0.8957844504995242,0.9
+Extra Trees (Proposed),PC2,AUC mean,5,0.9047230826557592,0.9
+Extra Trees (Proposed),PC2,F1 mean,1,0.040882360848636806,0.04
+Extra Trees (Proposed),PC2,F1 mean,2,0.03942265040978885,0.04
+Extra Trees (Proposed),PC2,F1 mean,3,0.040110673366545405,0.04
+Extra Trees (Proposed),PC2,F1 mean,4,0.03946102833537477,0.04
+Extra Trees (Proposed),PC2,F1 mean,5,0.040123287039654176,0.04
+Extra Trees (Proposed),PC2,Precision mean,1,0.039656955795485005,0.04
+Extra Trees (Proposed),PC2,Precision mean,2,0.04059053079339064,0.04
+Extra Trees (Proposed),PC2,Precision mean,3,0.03999514868204437,0.04
+Extra Trees (Proposed),PC2,Precision mean,4,0.039356760676967785,0.04
+Extra Trees (Proposed),PC2,Precision mean,5,0.04040060405211219,0.04
+Extra Trees (Proposed),PC2,Recall mean,1,0.039217806108909105,0.04
+Extra Trees (Proposed),PC2,Recall mean,2,0.040109453883165024,0.04
+Extra Trees (Proposed),PC2,Recall mean,3,0.04055604996963023,0.04
+Extra Trees (Proposed),PC2,Recall mean,4,0.0399938351309125,0.04
+Extra Trees (Proposed),PC2,Recall mean,5,0.04012285490738313,0.04
+Extra Trees (Proposed),PC2,Brier mean,1,0.01005768801980387,0.01
+Extra Trees (Proposed),PC2,Brier mean,2,0.00999120138454314,0.01
+Extra Trees (Proposed),PC2,Brier mean,3,0.01003362862187238,0.01
+Extra Trees (Proposed),PC2,Brier mean,4,0.009855014820012388,0.01
+Extra Trees (Proposed),PC2,Brier mean,5,0.01006246715376822,0.01
+Extra Trees (Proposed),PC2,GLR mean,1,0.029821277700192914,0.03
+Extra Trees (Proposed),PC2,GLR mean,2,0.03028344283526094,0.03
+Extra Trees (Proposed),PC2,GLR mean,3,0.029932555966230515,0.03
+Extra Trees (Proposed),PC2,GLR mean,4,0.029997797755640942,0.03
+Extra Trees (Proposed),PC2,GLR mean,5,0.029964925742674675,0.03
+Extra Trees (Proposed),PC2,Hit@10,1,0.9561238422178405,0.96
+Extra Trees (Proposed),PC2,Hit@10,2,0.9690598457191992,0.96
+Extra Trees (Proposed),PC2,Hit@10,3,0.9614496222254767,0.96
+Extra Trees (Proposed),PC2,Hit@10,4,0.9538751125984083,0.96
+Extra Trees (Proposed),PC2,Hit@10,5,0.9594915772390745,0.96
+Extra Trees (Proposed),PC2,ECE,1,0.009977634400562258,0.01
+Extra Trees (Proposed),PC2,ECE,2,0.010035411464171515,0.01
+Extra Trees (Proposed),PC2,ECE,3,0.010015597223827393,0.01
+Extra Trees (Proposed),PC2,ECE,4,0.00994850364964301,0.01
+Extra Trees (Proposed),PC2,ECE,5,0.010022853261795821,0.01
+Extra Trees (Proposed),PC2,Reliability Score,1,0.842873847051739,0.82
+Extra Trees (Proposed),PC2,Reliability Score,2,0.8221537930270657,0.82
+Extra Trees (Proposed),PC2,Reliability Score,3,0.8011091326278561,0.82
+Extra Trees (Proposed),PC2,Reliability Score,4,0.8149270131320074,0.82
+Extra Trees (Proposed),PC2,Reliability Score,5,0.8189362141613311,0.82
+Extra Trees (Proposed),PC3,AUC mean,1,0.856592261263603,0.85
+Extra Trees (Proposed),PC3,AUC mean,2,0.8569363229559062,0.85
+Extra Trees (Proposed),PC3,AUC mean,3,0.8424083658123718,0.85
+Extra Trees (Proposed),PC3,AUC mean,4,0.8484227324526663,0.85
+Extra Trees (Proposed),PC3,AUC mean,5,0.8456403175154522,0.85
+Extra Trees (Proposed),PC3,F1 mean,1,0.435917880651565,0.44
+Extra Trees (Proposed),PC3,F1 mean,2,0.44182035996953717,0.44
+Extra Trees (Proposed),PC3,F1 mean,3,0.4430573548589838,0.44
+Extra Trees (Proposed),PC3,F1 mean,4,0.4367277042248322,0.44
+Extra Trees (Proposed),PC3,F1 mean,5,0.44247670029508174,0.44
+Extra Trees (Proposed),PC3,Precision mean,1,0.4235423843995564,0.42
+Extra Trees (Proposed),PC3,Precision mean,2,0.4116269512696544,0.42
+Extra Trees (Proposed),PC3,Precision mean,3,0.4196066863035938,0.42
+Extra Trees (Proposed),PC3,Precision mean,4,0.42210486598325536,0.42
+Extra Trees (Proposed),PC3,Precision mean,5,0.4231191120439398,0.42
+Extra Trees (Proposed),PC3,Recall mean,1,0.4534613600499815,0.46
+Extra Trees (Proposed),PC3,Recall mean,2,0.4567842077427506,0.46
+Extra Trees (Proposed),PC3,Recall mean,3,0.4587431992358191,0.46
+Extra Trees (Proposed),PC3,Recall mean,4,0.46342255528580034,0.46
+Extra Trees (Proposed),PC3,Recall mean,5,0.4675886776856482,0.46
+Extra Trees (Proposed),PC3,Brier mean,1,0.08983293394294097,0.09
+Extra Trees (Proposed),PC3,Brier mean,2,0.09078063449375448,0.09
+Extra Trees (Proposed),PC3,Brier mean,3,0.08947179925490778,0.09
+Extra Trees (Proposed),PC3,Brier mean,4,0.08931357173913243,0.09
+Extra Trees (Proposed),PC3,Brier mean,5,0.09060106056926431,0.09
+Extra Trees (Proposed),PC3,GLR mean,1,0.08074907507660839,0.08
+Extra Trees (Proposed),PC3,GLR mean,2,0.0809441658965278,0.08
+Extra Trees (Proposed),PC3,GLR mean,3,0.07887818518491425,0.08
+Extra Trees (Proposed),PC3,GLR mean,4,0.07865086750132765,0.08
+Extra Trees (Proposed),PC3,GLR mean,5,0.08077770634062181,0.08
+Extra Trees (Proposed),PC3,Hit@10,1,0.981530121295597,1.0
+Extra Trees (Proposed),PC3,Hit@10,2,1.0007059556114588,1.0
+Extra Trees (Proposed),PC3,Hit@10,3,0.9966039351482328,1.0
+Extra Trees (Proposed),PC3,Hit@10,4,1.0169483938723025,1.0
+Extra Trees (Proposed),PC3,Hit@10,5,1.00421159407241,1.0
+Extra Trees (Proposed),PC3,ECE,1,0.0804130661765613,0.08
+Extra Trees (Proposed),PC3,ECE,2,0.08012653591100383,0.08
+Extra Trees (Proposed),PC3,ECE,3,0.07977771282892322,0.08
+Extra Trees (Proposed),PC3,ECE,4,0.08045083811261346,0.08
+Extra Trees (Proposed),PC3,ECE,5,0.07923184697089818,0.08
+Extra Trees (Proposed),PC3,Reliability Score,1,0.8151844222801123,0.82
+Extra Trees (Proposed),PC3,Reliability Score,2,0.8202138747778885,0.82
+Extra Trees (Proposed),PC3,Reliability Score,3,0.8221630450113975,0.82
+Extra Trees (Proposed),PC3,Reliability Score,4,0.8177566831353665,0.82
+Extra Trees (Proposed),PC3,Reliability Score,5,0.8246819747952353,0.82
+Extra Trees (Proposed),PC4,AUC mean,1,0.9537172215463868,0.94
+Extra Trees (Proposed),PC4,AUC mean,2,0.9305455954594224,0.94
+Extra Trees (Proposed),PC4,AUC mean,3,0.9415036823609342,0.94
+Extra Trees (Proposed),PC4,AUC mean,4,0.9302454904466185,0.94
+Extra Trees (Proposed),PC4,AUC mean,5,0.9439880101866377,0.94
+Extra Trees (Proposed),PC4,F1 mean,1,0.6236784261920739,0.63
+Extra Trees (Proposed),PC4,F1 mean,2,0.6366250699256953,0.63
+Extra Trees (Proposed),PC4,F1 mean,3,0.6331780743573637,0.63
+Extra Trees (Proposed),PC4,F1 mean,4,0.6335538865083516,0.63
+Extra Trees (Proposed),PC4,F1 mean,5,0.6229645430165156,0.63
+Extra Trees (Proposed),PC4,Precision mean,1,0.5979089934139006,0.6
+Extra Trees (Proposed),PC4,Precision mean,2,0.6088933532125156,0.6
+Extra Trees (Proposed),PC4,Precision mean,3,0.5915117033255362,0.6
+Extra Trees (Proposed),PC4,Precision mean,4,0.5982500729733636,0.6
+Extra Trees (Proposed),PC4,Precision mean,5,0.6034358770746838,0.6
+Extra Trees (Proposed),PC4,Recall mean,1,0.6672815303654894,0.66
+Extra Trees (Proposed),PC4,Recall mean,2,0.6623193790339157,0.66
+Extra Trees (Proposed),PC4,Recall mean,3,0.6633847057441199,0.66
+Extra Trees (Proposed),PC4,Recall mean,4,0.6513530761210595,0.66
+Extra Trees (Proposed),PC4,Recall mean,5,0.6556613087354155,0.66
+Extra Trees (Proposed),PC4,Brier mean,1,0.06953258410165265,0.07
+Extra Trees (Proposed),PC4,Brier mean,2,0.06983774134572633,0.07
+Extra Trees (Proposed),PC4,Brier mean,3,0.0701313696720641,0.07
+Extra Trees (Proposed),PC4,Brier mean,4,0.06952206401670427,0.07
+Extra Trees (Proposed),PC4,Brier mean,5,0.07097624086385272,0.07
+Extra Trees (Proposed),PC4,GLR mean,1,0.05994236674219602,0.06
+Extra Trees (Proposed),PC4,GLR mean,2,0.05969635612074244,0.06
+Extra Trees (Proposed),PC4,GLR mean,3,0.059386825445897275,0.06
+Extra Trees (Proposed),PC4,GLR mean,4,0.0606682006493464,0.06
+Extra Trees (Proposed),PC4,GLR mean,5,0.06030625104181784,0.06
+Extra Trees (Proposed),PC4,Hit@10,1,0.9969254420157319,1.0
+Extra Trees (Proposed),PC4,Hit@10,2,0.9877719269297808,1.0
+Extra Trees (Proposed),PC4,Hit@10,3,1.0077709071362297,1.0
+Extra Trees (Proposed),PC4,Hit@10,4,0.998205234446584,1.0
+Extra Trees (Proposed),PC4,Hit@10,5,1.009326489471673,1.0
+Extra Trees (Proposed),PC4,ECE,1,0.04963401861129385,0.05
+Extra Trees (Proposed),PC4,ECE,2,0.050329427079172616,0.05
+Extra Trees (Proposed),PC4,ECE,3,0.04959948097006573,0.05
+Extra Trees (Proposed),PC4,ECE,4,0.050413179550257356,0.05
+Extra Trees (Proposed),PC4,ECE,5,0.05002389378921045,0.05
+Extra Trees (Proposed),PC4,Reliability Score,1,0.8193707591586729,0.83
+Extra Trees (Proposed),PC4,Reliability Score,2,0.828092832812991,0.83
+Extra Trees (Proposed),PC4,Reliability Score,3,0.8434746214509822,0.83
+Extra Trees (Proposed),PC4,Reliability Score,4,0.8328632920281169,0.83
+Extra Trees (Proposed),PC4,Reliability Score,5,0.8261984945492364,0.83
+Gradient Boosting (Proposed),CM1,AUC mean,1,0.7610758181180797,0.76
+Gradient Boosting (Proposed),CM1,AUC mean,2,0.7691454972209711,0.76
+Gradient Boosting (Proposed),CM1,AUC mean,3,0.7632702042614176,0.76
+Gradient Boosting (Proposed),CM1,AUC mean,4,0.7589595320241194,0.76
+Gradient Boosting (Proposed),CM1,AUC mean,5,0.7475489483754121,0.76
+Gradient Boosting (Proposed),CM1,F1 mean,1,0.2645183395374886,0.26
+Gradient Boosting (Proposed),CM1,F1 mean,2,0.25773965856529735,0.26
+Gradient Boosting (Proposed),CM1,F1 mean,3,0.2629076889444345,0.26
+Gradient Boosting (Proposed),CM1,F1 mean,4,0.25612159659661843,0.26
+Gradient Boosting (Proposed),CM1,F1 mean,5,0.25871271635616105,0.26
+Gradient Boosting (Proposed),CM1,Precision mean,1,0.24698239138106554,0.25
+Gradient Boosting (Proposed),CM1,Precision mean,2,0.25127371477174915,0.25
+Gradient Boosting (Proposed),CM1,Precision mean,3,0.2477010107977297,0.25
+Gradient Boosting (Proposed),CM1,Precision mean,4,0.2505567154364537,0.25
+Gradient Boosting (Proposed),CM1,Precision mean,5,0.25348616761300186,0.25
+Gradient Boosting (Proposed),CM1,Recall mean,1,0.31116180613168765,0.31
+Gradient Boosting (Proposed),CM1,Recall mean,2,0.30801230172896465,0.31
+Gradient Boosting (Proposed),CM1,Recall mean,3,0.3097958351647422,0.31
+Gradient Boosting (Proposed),CM1,Recall mean,4,0.30764610553625443,0.31
+Gradient Boosting (Proposed),CM1,Recall mean,5,0.3133839514383509,0.31
+Gradient Boosting (Proposed),CM1,Brier mean,1,0.1518393219584054,0.15
+Gradient Boosting (Proposed),CM1,Brier mean,2,0.1512460534901911,0.15
+Gradient Boosting (Proposed),CM1,Brier mean,3,0.14918979441249122,0.15
+Gradient Boosting (Proposed),CM1,Brier mean,4,0.14747448135198737,0.15
+Gradient Boosting (Proposed),CM1,Brier mean,5,0.15025034878692475,0.15
+Gradient Boosting (Proposed),CM1,GLR mean,1,0.16004993260796388,0.16
+Gradient Boosting (Proposed),CM1,GLR mean,2,0.159005808281007,0.16
+Gradient Boosting (Proposed),CM1,GLR mean,3,0.15913640255812678,0.16
+Gradient Boosting (Proposed),CM1,GLR mean,4,0.15996977398683884,0.16
+Gradient Boosting (Proposed),CM1,GLR mean,5,0.16183808256606372,0.16
+Gradient Boosting (Proposed),CM1,Hit@10,1,0.9870434395798261,1.0
+Gradient Boosting (Proposed),CM1,Hit@10,2,1.0031041773785565,1.0
+Gradient Boosting (Proposed),CM1,Hit@10,3,1.017189195155609,1.0
+Gradient Boosting (Proposed),CM1,Hit@10,4,0.9861544405199155,1.0
+Gradient Boosting (Proposed),CM1,Hit@10,5,1.006508747366093,1.0
+Gradient Boosting (Proposed),CM1,ECE,1,0.15965626441062097,0.16
+Gradient Boosting (Proposed),CM1,ECE,2,0.15977108395056383,0.16
+Gradient Boosting (Proposed),CM1,ECE,3,0.16250657524178552,0.16
+Gradient Boosting (Proposed),CM1,ECE,4,0.15956163721843453,0.16
+Gradient Boosting (Proposed),CM1,ECE,5,0.1585044391785952,0.16
+Gradient Boosting (Proposed),CM1,Reliability Score,1,0.8123359640245088,0.81
+Gradient Boosting (Proposed),CM1,Reliability Score,2,0.8163347723972767,0.81
+Gradient Boosting (Proposed),CM1,Reliability Score,3,0.8085138010875613,0.81
+Gradient Boosting (Proposed),CM1,Reliability Score,4,0.8034000343466601,0.81
+Gradient Boosting (Proposed),CM1,Reliability Score,5,0.809415428143994,0.81
+Gradient Boosting (Proposed),MC1,AUC mean,1,0.9696667308321507,0.97
+Gradient Boosting (Proposed),MC1,AUC mean,2,0.9885270297841928,0.97
+Gradient Boosting (Proposed),MC1,AUC mean,3,0.9662341378706677,0.97
+Gradient Boosting (Proposed),MC1,AUC mean,4,0.9665562833539073,0.97
+Gradient Boosting (Proposed),MC1,AUC mean,5,0.9590158181590813,0.97
+Gradient Boosting (Proposed),MC1,F1 mean,1,0.5044089946016016,0.5
+Gradient Boosting (Proposed),MC1,F1 mean,2,0.49957061731368696,0.5
+Gradient Boosting (Proposed),MC1,F1 mean,3,0.5017482548864793,0.5
+Gradient Boosting (Proposed),MC1,F1 mean,4,0.500077903449405,0.5
+Gradient Boosting (Proposed),MC1,F1 mean,5,0.4941942297488272,0.5
+Gradient Boosting (Proposed),MC1,Precision mean,1,0.517483454762436,0.52
+Gradient Boosting (Proposed),MC1,Precision mean,2,0.511306589911269,0.52
+Gradient Boosting (Proposed),MC1,Precision mean,3,0.5188562013909866,0.52
+Gradient Boosting (Proposed),MC1,Precision mean,4,0.5225975807367611,0.52
+Gradient Boosting (Proposed),MC1,Precision mean,5,0.529756173198547,0.52
+Gradient Boosting (Proposed),MC1,Recall mean,1,0.4853617374895256,0.49
+Gradient Boosting (Proposed),MC1,Recall mean,2,0.4957446705816052,0.49
+Gradient Boosting (Proposed),MC1,Recall mean,3,0.49400007002157503,0.49
+Gradient Boosting (Proposed),MC1,Recall mean,4,0.48399926272118227,0.49
+Gradient Boosting (Proposed),MC1,Recall mean,5,0.4908942591861116,0.49
+Gradient Boosting (Proposed),MC1,Brier mean,1,0.01010858503760298,0.01
+Gradient Boosting (Proposed),MC1,Brier mean,2,0.009909987955539096,0.01
+Gradient Boosting (Proposed),MC1,Brier mean,3,0.01001668696460389,0.01
+Gradient Boosting (Proposed),MC1,Brier mean,4,0.009956862139712877,0.01
+Gradient Boosting (Proposed),MC1,Brier mean,5,0.010007877902541162,0.01
+Gradient Boosting (Proposed),MC1,GLR mean,1,0.31863879689912317,0.32
+Gradient Boosting (Proposed),MC1,GLR mean,2,0.3212703895646338,0.32
+Gradient Boosting (Proposed),MC1,GLR mean,3,0.322519623772999,0.32
+Gradient Boosting (Proposed),MC1,GLR mean,4,0.31924450355438116,0.32
+Gradient Boosting (Proposed),MC1,GLR mean,5,0.3183266862088629,0.32
+Gradient Boosting (Proposed),MC1,Hit@10,1,1.0001300604754086,1.0
+Gradient Boosting (Proposed),MC1,Hit@10,2,0.995762869320865,1.0
+Gradient Boosting (Proposed),MC1,Hit@10,3,1.0011429270961383,1.0
+Gradient Boosting (Proposed),MC1,Hit@10,4,0.9932151827223663,1.0
+Gradient Boosting (Proposed),MC1,Hit@10,5,1.0097489603852223,1.0
+Gradient Boosting (Proposed),MC1,ECE,1,0.0,0.0
+Gradient Boosting (Proposed),MC1,ECE,2,0.0,0.0
+Gradient Boosting (Proposed),MC1,ECE,3,0.0,0.0
+Gradient Boosting (Proposed),MC1,ECE,4,0.0,0.0
+Gradient Boosting (Proposed),MC1,ECE,5,0.0,0.0
+Gradient Boosting (Proposed),MC1,Reliability Score,1,0.9053051739846223,0.89
+Gradient Boosting (Proposed),MC1,Reliability Score,2,0.8879011705979531,0.89
+Gradient Boosting (Proposed),MC1,Reliability Score,3,0.9134576458071528,0.89
+Gradient Boosting (Proposed),MC1,Reliability Score,4,0.8741838680911146,0.89
+Gradient Boosting (Proposed),MC1,Reliability Score,5,0.8691521415191568,0.89
+Gradient Boosting (Proposed),MC2,AUC mean,1,0.7651803746995783,0.76
+Gradient Boosting (Proposed),MC2,AUC mean,2,0.7525125665567582,0.76
+Gradient Boosting (Proposed),MC2,AUC mean,3,0.7640920871383623,0.76
+Gradient Boosting (Proposed),MC2,AUC mean,4,0.757039511721894,0.76
+Gradient Boosting (Proposed),MC2,AUC mean,5,0.7611754598834071,0.76
+Gradient Boosting (Proposed),MC2,F1 mean,1,0.572281029801105,0.57
+Gradient Boosting (Proposed),MC2,F1 mean,2,0.5711994847328059,0.57
+Gradient Boosting (Proposed),MC2,F1 mean,3,0.5691833167267868,0.57
+Gradient Boosting (Proposed),MC2,F1 mean,4,0.5679208017426289,0.57
+Gradient Boosting (Proposed),MC2,F1 mean,5,0.5694153669966733,0.57
+Gradient Boosting (Proposed),MC2,Precision mean,1,0.6157082977160736,0.62
+Gradient Boosting (Proposed),MC2,Precision mean,2,0.627265280675841,0.62
+Gradient Boosting (Proposed),MC2,Precision mean,3,0.6133560925492079,0.62
+Gradient Boosting (Proposed),MC2,Precision mean,4,0.6216584427478351,0.62
+Gradient Boosting (Proposed),MC2,Precision mean,5,0.6220118863110426,0.62
+Gradient Boosting (Proposed),MC2,Recall mean,1,0.5302669811920907,0.54
+Gradient Boosting (Proposed),MC2,Recall mean,2,0.5415806150611843,0.54
+Gradient Boosting (Proposed),MC2,Recall mean,3,0.545980543640506,0.54
+Gradient Boosting (Proposed),MC2,Recall mean,4,0.5386722333265729,0.54
+Gradient Boosting (Proposed),MC2,Recall mean,5,0.5434996267796467,0.54
+Gradient Boosting (Proposed),MC2,Brier mean,1,0.22922881996843683,0.23
+Gradient Boosting (Proposed),MC2,Brier mean,2,0.22975127764393272,0.23
+Gradient Boosting (Proposed),MC2,Brier mean,3,0.2313420124502265,0.23
+Gradient Boosting (Proposed),MC2,Brier mean,4,0.2289991956829933,0.23
+Gradient Boosting (Proposed),MC2,Brier mean,5,0.23067869425441073,0.23
+Gradient Boosting (Proposed),MC2,GLR mean,1,0.0,0.0
+Gradient Boosting (Proposed),MC2,GLR mean,2,0.0,0.0
+Gradient Boosting (Proposed),MC2,GLR mean,3,0.0,0.0
+Gradient Boosting (Proposed),MC2,GLR mean,4,0.0,0.0
+Gradient Boosting (Proposed),MC2,GLR mean,5,0.0,0.0
+Gradient Boosting (Proposed),MC2,Hit@10,1,1.0033441240695171,1.0
+Gradient Boosting (Proposed),MC2,Hit@10,2,0.9949830443859881,1.0
+Gradient Boosting (Proposed),MC2,Hit@10,3,1.0177870540872531,1.0
+Gradient Boosting (Proposed),MC2,Hit@10,4,0.99527734241851,1.0
+Gradient Boosting (Proposed),MC2,Hit@10,5,0.988608435038732,1.0
+Gradient Boosting (Proposed),MC2,ECE,1,0.21575865715095818,0.22
+Gradient Boosting (Proposed),MC2,ECE,2,0.22029798432155542,0.22
+Gradient Boosting (Proposed),MC2,ECE,3,0.21961508600494956,0.22
+Gradient Boosting (Proposed),MC2,ECE,4,0.222049823028453,0.22
+Gradient Boosting (Proposed),MC2,ECE,5,0.22227844949408376,0.22
+Gradient Boosting (Proposed),MC2,Reliability Score,1,0.7700486650519875,0.76
+Gradient Boosting (Proposed),MC2,Reliability Score,2,0.7571303194873549,0.76
+Gradient Boosting (Proposed),MC2,Reliability Score,3,0.754670132556816,0.76
+Gradient Boosting (Proposed),MC2,Reliability Score,4,0.7609337441187208,0.76
+Gradient Boosting (Proposed),MC2,Reliability Score,5,0.7572171387851204,0.76
+Gradient Boosting (Proposed),MW1,AUC mean,1,0.7336651748482854,0.73
+Gradient Boosting (Proposed),MW1,AUC mean,2,0.7304856480917488,0.73
+Gradient Boosting (Proposed),MW1,AUC mean,3,0.7379137559034128,0.73
+Gradient Boosting (Proposed),MW1,AUC mean,4,0.7288280649615477,0.73
+Gradient Boosting (Proposed),MW1,AUC mean,5,0.7191073561950045,0.73
+Gradient Boosting (Proposed),MW1,F1 mean,1,0.25128544550806137,0.25
+Gradient Boosting (Proposed),MW1,F1 mean,2,0.25599680846355743,0.25
+Gradient Boosting (Proposed),MW1,F1 mean,3,0.25116880531395647,0.25
+Gradient Boosting (Proposed),MW1,F1 mean,4,0.24568681509782314,0.25
+Gradient Boosting (Proposed),MW1,F1 mean,5,0.24586212561660148,0.25
+Gradient Boosting (Proposed),MW1,Precision mean,1,0.3036703242522275,0.3
+Gradient Boosting (Proposed),MW1,Precision mean,2,0.2984712917891986,0.3
+Gradient Boosting (Proposed),MW1,Precision mean,3,0.2988481260253615,0.3
+Gradient Boosting (Proposed),MW1,Precision mean,4,0.2971631478308081,0.3
+Gradient Boosting (Proposed),MW1,Precision mean,5,0.30184711010240406,0.3
+Gradient Boosting (Proposed),MW1,Recall mean,1,0.22146502306014032,0.22
+Gradient Boosting (Proposed),MW1,Recall mean,2,0.21833677666671025,0.22
+Gradient Boosting (Proposed),MW1,Recall mean,3,0.21988906539328942,0.22
+Gradient Boosting (Proposed),MW1,Recall mean,4,0.22035933212780212,0.22
+Gradient Boosting (Proposed),MW1,Recall mean,5,0.2199498027520581,0.22
+Gradient Boosting (Proposed),MW1,Brier mean,1,0.10017708149462656,0.1
+Gradient Boosting (Proposed),MW1,Brier mean,2,0.09857099814398305,0.1
+Gradient Boosting (Proposed),MW1,Brier mean,3,0.09901125561376953,0.1
+Gradient Boosting (Proposed),MW1,Brier mean,4,0.10107216106526913,0.1
+Gradient Boosting (Proposed),MW1,Brier mean,5,0.10116850368235179,0.1
+Gradient Boosting (Proposed),MW1,GLR mean,1,0.10156377285797102,0.1
+Gradient Boosting (Proposed),MW1,GLR mean,2,0.10008587904443927,0.1
+Gradient Boosting (Proposed),MW1,GLR mean,3,0.10050560872821974,0.1
+Gradient Boosting (Proposed),MW1,GLR mean,4,0.09887372916531417,0.1
+Gradient Boosting (Proposed),MW1,GLR mean,5,0.09897101020405581,0.1
+Gradient Boosting (Proposed),MW1,Hit@10,1,0.9851171512494442,1.0
+Gradient Boosting (Proposed),MW1,Hit@10,2,1.0049807476348365,1.0
+Gradient Boosting (Proposed),MW1,Hit@10,3,1.0071860483553012,1.0
+Gradient Boosting (Proposed),MW1,Hit@10,4,1.0059776436197152,1.0
+Gradient Boosting (Proposed),MW1,Hit@10,5,0.9967384091407018,1.0
+Gradient Boosting (Proposed),MW1,ECE,1,0.08947895486004544,0.09
+Gradient Boosting (Proposed),MW1,ECE,2,0.09067540534123557,0.09
+Gradient Boosting (Proposed),MW1,ECE,3,0.0889143460934108,0.09
+Gradient Boosting (Proposed),MW1,ECE,4,0.09000535405272655,0.09
+Gradient Boosting (Proposed),MW1,ECE,5,0.09092593965258164,0.09
+Gradient Boosting (Proposed),MW1,Reliability Score,1,0.821420022979439,0.82
+Gradient Boosting (Proposed),MW1,Reliability Score,2,0.8203996996595525,0.82
+Gradient Boosting (Proposed),MW1,Reliability Score,3,0.8212631473803906,0.82
+Gradient Boosting (Proposed),MW1,Reliability Score,4,0.8209479824646188,0.82
+Gradient Boosting (Proposed),MW1,Reliability Score,5,0.8159691475159989,0.82
+Gradient Boosting (Proposed),PC1,AUC mean,1,0.8287084492368894,0.84
+Gradient Boosting (Proposed),PC1,AUC mean,2,0.8271213670511733,0.84
+Gradient Boosting (Proposed),PC1,AUC mean,3,0.8451395799441419,0.84
+Gradient Boosting (Proposed),PC1,AUC mean,4,0.8408694098807772,0.84
+Gradient Boosting (Proposed),PC1,AUC mean,5,0.8581611938870183,0.84
+Gradient Boosting (Proposed),PC1,F1 mean,1,0.3878945367723163,0.39
+Gradient Boosting (Proposed),PC1,F1 mean,2,0.3957120297945136,0.39
+Gradient Boosting (Proposed),PC1,F1 mean,3,0.38412166668877923,0.39
+Gradient Boosting (Proposed),PC1,F1 mean,4,0.3929530504966022,0.39
+Gradient Boosting (Proposed),PC1,F1 mean,5,0.38931871624778897,0.39
+Gradient Boosting (Proposed),PC1,Precision mean,1,0.4250871087915868,0.42
+Gradient Boosting (Proposed),PC1,Precision mean,2,0.41585778650229155,0.42
+Gradient Boosting (Proposed),PC1,Precision mean,3,0.4161268153158069,0.42
+Gradient Boosting (Proposed),PC1,Precision mean,4,0.4171756433161372,0.42
+Gradient Boosting (Proposed),PC1,Precision mean,5,0.42575264607417734,0.42
+Gradient Boosting (Proposed),PC1,Recall mean,1,0.38916786021792776,0.39
+Gradient Boosting (Proposed),PC1,Recall mean,2,0.3920934344017851,0.39
+Gradient Boosting (Proposed),PC1,Recall mean,3,0.38300201617749363,0.39
+Gradient Boosting (Proposed),PC1,Recall mean,4,0.3936555983553844,0.39
+Gradient Boosting (Proposed),PC1,Recall mean,5,0.3920810908474092,0.39
+Gradient Boosting (Proposed),PC1,Brier mean,1,0.06971548441900828,0.07
+Gradient Boosting (Proposed),PC1,Brier mean,2,0.06962948519335932,0.07
+Gradient Boosting (Proposed),PC1,Brier mean,3,0.07010507969342226,0.07
+Gradient Boosting (Proposed),PC1,Brier mean,4,0.07053421990749986,0.07
+Gradient Boosting (Proposed),PC1,Brier mean,5,0.07001573078671033,0.07
+Gradient Boosting (Proposed),PC1,GLR mean,1,0.10005957845986622,0.1
+Gradient Boosting (Proposed),PC1,GLR mean,2,0.09826458371753975,0.1
+Gradient Boosting (Proposed),PC1,GLR mean,3,0.10075163428755962,0.1
+Gradient Boosting (Proposed),PC1,GLR mean,4,0.10061132038538238,0.1
+Gradient Boosting (Proposed),PC1,GLR mean,5,0.10031288314965198,0.1
+Gradient Boosting (Proposed),PC1,Hit@10,1,0.9917441083425642,1.0
+Gradient Boosting (Proposed),PC1,Hit@10,2,1.0118265636731694,1.0
+Gradient Boosting (Proposed),PC1,Hit@10,3,0.9909606557522407,1.0
+Gradient Boosting (Proposed),PC1,Hit@10,4,1.015997778837461,1.0
+Gradient Boosting (Proposed),PC1,Hit@10,5,0.989470893394565,1.0
+Gradient Boosting (Proposed),PC1,ECE,1,0.06022181647432275,0.06
+Gradient Boosting (Proposed),PC1,ECE,2,0.06084980876301202,0.06
+Gradient Boosting (Proposed),PC1,ECE,3,0.05971298101242607,0.06
+Gradient Boosting (Proposed),PC1,ECE,4,0.059189416268829835,0.06
+Gradient Boosting (Proposed),PC1,ECE,5,0.06002597748140926,0.06
+Gradient Boosting (Proposed),PC1,Reliability Score,1,0.8274343167469566,0.83
+Gradient Boosting (Proposed),PC1,Reliability Score,2,0.8275727852337973,0.83
+Gradient Boosting (Proposed),PC1,Reliability Score,3,0.8324276832507552,0.83
+Gradient Boosting (Proposed),PC1,Reliability Score,4,0.8307492106986166,0.83
+Gradient Boosting (Proposed),PC1,Reliability Score,5,0.8318160040698742,0.83
+Gradient Boosting (Proposed),PC2,AUC mean,1,0.6282917314520149,0.63
+Gradient Boosting (Proposed),PC2,AUC mean,2,0.6309474268288514,0.63
+Gradient Boosting (Proposed),PC2,AUC mean,3,0.636480490668924,0.63
+Gradient Boosting (Proposed),PC2,AUC mean,4,0.6277993736512213,0.63
+Gradient Boosting (Proposed),PC2,AUC mean,5,0.6264809773989884,0.63
+Gradient Boosting (Proposed),PC2,F1 mean,1,0.08967727916730674,0.09
+Gradient Boosting (Proposed),PC2,F1 mean,2,0.09173438100908438,0.09
+Gradient Boosting (Proposed),PC2,F1 mean,3,0.09167838394641055,0.09
+Gradient Boosting (Proposed),PC2,F1 mean,4,0.08759756131344945,0.09
+Gradient Boosting (Proposed),PC2,F1 mean,5,0.08931239456374881,0.09
+Gradient Boosting (Proposed),PC2,Precision mean,1,0.08006693218822084,0.08
+Gradient Boosting (Proposed),PC2,Precision mean,2,0.08007980193273166,0.08
+Gradient Boosting (Proposed),PC2,Precision mean,3,0.0801399034087117,0.08
+Gradient Boosting (Proposed),PC2,Precision mean,4,0.07969393856972186,0.08
+Gradient Boosting (Proposed),PC2,Precision mean,5,0.0800194239006139,0.08
+Gradient Boosting (Proposed),PC2,Recall mean,1,0.1193807966630741,0.12
+Gradient Boosting (Proposed),PC2,Recall mean,2,0.1188342717549441,0.12
+Gradient Boosting (Proposed),PC2,Recall mean,3,0.11943976526882583,0.12
+Gradient Boosting (Proposed),PC2,Recall mean,4,0.1207796100246042,0.12
+Gradient Boosting (Proposed),PC2,Recall mean,5,0.12156555628855173,0.12
+Gradient Boosting (Proposed),PC2,Brier mean,1,0.010189930794549412,0.01
+Gradient Boosting (Proposed),PC2,Brier mean,2,0.009888244813534841,0.01
+Gradient Boosting (Proposed),PC2,Brier mean,3,0.010053209036170208,0.01
+Gradient Boosting (Proposed),PC2,Brier mean,4,0.009949869629326286,0.01
+Gradient Boosting (Proposed),PC2,Brier mean,5,0.009918745726419254,0.01
+Gradient Boosting (Proposed),PC2,GLR mean,1,0.21224951138223783,0.21
+Gradient Boosting (Proposed),PC2,GLR mean,2,0.21051340659819365,0.21
+Gradient Boosting (Proposed),PC2,GLR mean,3,0.20919595643145877,0.21
+Gradient Boosting (Proposed),PC2,GLR mean,4,0.2092820144656124,0.21
+Gradient Boosting (Proposed),PC2,GLR mean,5,0.20875911112249718,0.21
+Gradient Boosting (Proposed),PC2,Hit@10,1,0.9952339337634908,1.0
+Gradient Boosting (Proposed),PC2,Hit@10,2,1.0106450823148425,1.0
+Gradient Boosting (Proposed),PC2,Hit@10,3,1.0081613700665795,1.0
+Gradient Boosting (Proposed),PC2,Hit@10,4,0.9948733758665714,1.0
+Gradient Boosting (Proposed),PC2,Hit@10,5,0.9910862379885161,1.0
+Gradient Boosting (Proposed),PC2,ECE,1,0.01008868842655636,0.01
+Gradient Boosting (Proposed),PC2,ECE,2,0.009974306051872453,0.01
+Gradient Boosting (Proposed),PC2,ECE,3,0.009980017280080952,0.01
+Gradient Boosting (Proposed),PC2,ECE,4,0.009976827005245334,0.01
+Gradient Boosting (Proposed),PC2,ECE,5,0.009980161236244907,0.01
+Gradient Boosting (Proposed),PC2,Reliability Score,1,0.8640215119939552,0.87
+Gradient Boosting (Proposed),PC2,Reliability Score,2,0.8820496843455117,0.87
+Gradient Boosting (Proposed),PC2,Reliability Score,3,0.8813579158947357,0.87
+Gradient Boosting (Proposed),PC2,Reliability Score,4,0.8732168495139578,0.87
+Gradient Boosting (Proposed),PC2,Reliability Score,5,0.84935403825184,0.87
+Gradient Boosting (Proposed),PC3,AUC mean,1,0.816387398983797,0.82
+Gradient Boosting (Proposed),PC3,AUC mean,2,0.8164061108798598,0.82
+Gradient Boosting (Proposed),PC3,AUC mean,3,0.8211451004317193,0.82
+Gradient Boosting (Proposed),PC3,AUC mean,4,0.8200494973259659,0.82
+Gradient Boosting (Proposed),PC3,AUC mean,5,0.826011892378658,0.82
+Gradient Boosting (Proposed),PC3,F1 mean,1,0.38781713665390005,0.39
+Gradient Boosting (Proposed),PC3,F1 mean,2,0.37944326159987163,0.39
+Gradient Boosting (Proposed),PC3,F1 mean,3,0.3956561160170056,0.39
+Gradient Boosting (Proposed),PC3,F1 mean,4,0.3962263325319114,0.39
+Gradient Boosting (Proposed),PC3,F1 mean,5,0.3908571531973117,0.39
+Gradient Boosting (Proposed),PC3,Precision mean,1,0.41436240557887843,0.42
+Gradient Boosting (Proposed),PC3,Precision mean,2,0.4246433937298633,0.42
+Gradient Boosting (Proposed),PC3,Precision mean,3,0.42089504951178514,0.42
+Gradient Boosting (Proposed),PC3,Precision mean,4,0.4159528989613404,0.42
+Gradient Boosting (Proposed),PC3,Precision mean,5,0.42414625221813257,0.42
+Gradient Boosting (Proposed),PC3,Recall mean,1,0.3685698591452541,0.36
+Gradient Boosting (Proposed),PC3,Recall mean,2,0.35962617348918646,0.36
+Gradient Boosting (Proposed),PC3,Recall mean,3,0.35902685540435325,0.36
+Gradient Boosting (Proposed),PC3,Recall mean,4,0.3551800157749384,0.36
+Gradient Boosting (Proposed),PC3,Recall mean,5,0.3575970961862676,0.36
+Gradient Boosting (Proposed),PC3,Brier mean,1,0.09152534510770334,0.09
+Gradient Boosting (Proposed),PC3,Brier mean,2,0.08958925357887104,0.09
+Gradient Boosting (Proposed),PC3,Brier mean,3,0.08935718834669608,0.09
+Gradient Boosting (Proposed),PC3,Brier mean,4,0.08938531645623264,0.09
+Gradient Boosting (Proposed),PC3,Brier mean,5,0.09014289651049696,0.09
+Gradient Boosting (Proposed),PC3,GLR mean,1,0.0691054802938448,0.07
+Gradient Boosting (Proposed),PC3,GLR mean,2,0.07019642690876794,0.07
+Gradient Boosting (Proposed),PC3,GLR mean,3,0.06930194894721738,0.07
+Gradient Boosting (Proposed),PC3,GLR mean,4,0.07032707073932605,0.07
+Gradient Boosting (Proposed),PC3,GLR mean,5,0.07106907311084383,0.07
+Gradient Boosting (Proposed),PC3,Hit@10,1,0.990997039267408,1.0
+Gradient Boosting (Proposed),PC3,Hit@10,2,0.9995825468894042,1.0
+Gradient Boosting (Proposed),PC3,Hit@10,3,1.004820493128243,1.0
+Gradient Boosting (Proposed),PC3,Hit@10,4,1.0030972306132921,1.0
+Gradient Boosting (Proposed),PC3,Hit@10,5,1.001502690101652,1.0
+Gradient Boosting (Proposed),PC3,ECE,1,0.06100829196311844,0.06
+Gradient Boosting (Proposed),PC3,ECE,2,0.058751168097859435,0.06
+Gradient Boosting (Proposed),PC3,ECE,3,0.06012852601000039,0.06
+Gradient Boosting (Proposed),PC3,ECE,4,0.059650238656177294,0.06
+Gradient Boosting (Proposed),PC3,ECE,5,0.06046177527284445,0.06
+Gradient Boosting (Proposed),PC3,Reliability Score,1,0.834559733323489,0.83
+Gradient Boosting (Proposed),PC3,Reliability Score,2,0.8254475036419208,0.83
+Gradient Boosting (Proposed),PC3,Reliability Score,3,0.8187532447914457,0.83
+Gradient Boosting (Proposed),PC3,Reliability Score,4,0.828354798718312,0.83
+Gradient Boosting (Proposed),PC3,Reliability Score,5,0.8428847195248317,0.83
+Gradient Boosting (Proposed),PC4,AUC mean,1,0.9361524162235856,0.94
+Gradient Boosting (Proposed),PC4,AUC mean,2,0.9367420489268333,0.94
+Gradient Boosting (Proposed),PC4,AUC mean,3,0.942551909056583,0.94
+Gradient Boosting (Proposed),PC4,AUC mean,4,0.9371914833220457,0.94
+Gradient Boosting (Proposed),PC4,AUC mean,5,0.9473621424709521,0.94
+Gradient Boosting (Proposed),PC4,F1 mean,1,0.6175265499161859,0.62
+Gradient Boosting (Proposed),PC4,F1 mean,2,0.6213405744099222,0.62
+Gradient Boosting (Proposed),PC4,F1 mean,3,0.6096974045955672,0.62
+Gradient Boosting (Proposed),PC4,F1 mean,4,0.6252566691014505,0.62
+Gradient Boosting (Proposed),PC4,F1 mean,5,0.6261788019768747,0.62
+Gradient Boosting (Proposed),PC4,Precision mean,1,0.5955032178283642,0.6
+Gradient Boosting (Proposed),PC4,Precision mean,2,0.5946916835648692,0.6
+Gradient Boosting (Proposed),PC4,Precision mean,3,0.6015245878779416,0.6
+Gradient Boosting (Proposed),PC4,Precision mean,4,0.6161599035012916,0.6
+Gradient Boosting (Proposed),PC4,Precision mean,5,0.5921206072275328,0.6
+Gradient Boosting (Proposed),PC4,Recall mean,1,0.654647909903721,0.65
+Gradient Boosting (Proposed),PC4,Recall mean,2,0.6502873793203248,0.65
+Gradient Boosting (Proposed),PC4,Recall mean,3,0.635130731595645,0.65
+Gradient Boosting (Proposed),PC4,Recall mean,4,0.6574780114867667,0.65
+Gradient Boosting (Proposed),PC4,Recall mean,5,0.6524559676935434,0.65
+Gradient Boosting (Proposed),PC4,Brier mean,1,0.06961401803109393,0.07
+Gradient Boosting (Proposed),PC4,Brier mean,2,0.07005543034055543,0.07
+Gradient Boosting (Proposed),PC4,Brier mean,3,0.0696943614356637,0.07
+Gradient Boosting (Proposed),PC4,Brier mean,4,0.07109820479952812,0.07
+Gradient Boosting (Proposed),PC4,Brier mean,5,0.06953798539315888,0.07
+Gradient Boosting (Proposed),PC4,GLR mean,1,0.0788234437123442,0.08
+Gradient Boosting (Proposed),PC4,GLR mean,2,0.08009293519634032,0.08
+Gradient Boosting (Proposed),PC4,GLR mean,3,0.0795695631592748,0.08
+Gradient Boosting (Proposed),PC4,GLR mean,4,0.08154413598609037,0.08
+Gradient Boosting (Proposed),PC4,GLR mean,5,0.07996992194595026,0.08
+Gradient Boosting (Proposed),PC4,Hit@10,1,1.0103323665208428,1.0
+Gradient Boosting (Proposed),PC4,Hit@10,2,0.9958493059326735,1.0
+Gradient Boosting (Proposed),PC4,Hit@10,3,0.9826153377270264,1.0
+Gradient Boosting (Proposed),PC4,Hit@10,4,1.0205811099802211,1.0
+Gradient Boosting (Proposed),PC4,Hit@10,5,0.990621879839236,1.0
+Gradient Boosting (Proposed),PC4,ECE,1,0.049442448545930606,0.05
+Gradient Boosting (Proposed),PC4,ECE,2,0.05032869657897777,0.05
+Gradient Boosting (Proposed),PC4,ECE,3,0.05030969937224973,0.05
+Gradient Boosting (Proposed),PC4,ECE,4,0.049978691375129926,0.05
+Gradient Boosting (Proposed),PC4,ECE,5,0.04994046412771198,0.05
+Gradient Boosting (Proposed),PC4,Reliability Score,1,0.8419149062334917,0.83
+Gradient Boosting (Proposed),PC4,Reliability Score,2,0.8395693229218069,0.83
+Gradient Boosting (Proposed),PC4,Reliability Score,3,0.8336206241003693,0.83
+Gradient Boosting (Proposed),PC4,Reliability Score,4,0.8273705332293488,0.83
+Gradient Boosting (Proposed),PC4,Reliability Score,5,0.8075246135149828,0.83
+LightGBM (Proposed),CM1,AUC mean,1,0.7607326278792252,0.76
+LightGBM (Proposed),CM1,AUC mean,2,0.7543546546861305,0.76
+LightGBM (Proposed),CM1,AUC mean,3,0.7717474371681203,0.76
+LightGBM (Proposed),CM1,AUC mean,4,0.756944102287376,0.76
+LightGBM (Proposed),CM1,AUC mean,5,0.756221177979148,0.76
+LightGBM (Proposed),CM1,F1 mean,1,0.30777886026492784,0.31
+LightGBM (Proposed),CM1,F1 mean,2,0.3105814314125521,0.31
+LightGBM (Proposed),CM1,F1 mean,3,0.30772248379147865,0.31
+LightGBM (Proposed),CM1,F1 mean,4,0.31084799744869396,0.31
+LightGBM (Proposed),CM1,F1 mean,5,0.3130692270823474,0.31
+LightGBM (Proposed),CM1,Precision mean,1,0.39995357560134026,0.4
+LightGBM (Proposed),CM1,Precision mean,2,0.40244897437713956,0.4
+LightGBM (Proposed),CM1,Precision mean,3,0.4021336978918115,0.4
+LightGBM (Proposed),CM1,Precision mean,4,0.4022030096815058,0.4
+LightGBM (Proposed),CM1,Precision mean,5,0.39326074244820275,0.4
+LightGBM (Proposed),CM1,Recall mean,1,0.3189799385801444,0.32
+LightGBM (Proposed),CM1,Recall mean,2,0.3227113901733278,0.32
+LightGBM (Proposed),CM1,Recall mean,3,0.32291276525367746,0.32
+LightGBM (Proposed),CM1,Recall mean,4,0.3218545131055444,0.32
+LightGBM (Proposed),CM1,Recall mean,5,0.3135413928873059,0.32
+LightGBM (Proposed),CM1,Brier mean,1,0.14935717366144108,0.15
+LightGBM (Proposed),CM1,Brier mean,2,0.1478311531666101,0.15
+LightGBM (Proposed),CM1,Brier mean,3,0.15337677968735428,0.15
+LightGBM (Proposed),CM1,Brier mean,4,0.1484437425958012,0.15
+LightGBM (Proposed),CM1,Brier mean,5,0.15099115088879334,0.15
+LightGBM (Proposed),CM1,GLR mean,1,0.17269695381290065,0.17
+LightGBM (Proposed),CM1,GLR mean,2,0.16975417090749867,0.17
+LightGBM (Proposed),CM1,GLR mean,3,0.16906579279207806,0.17
+LightGBM (Proposed),CM1,GLR mean,4,0.17100211449571176,0.17
+LightGBM (Proposed),CM1,GLR mean,5,0.1674809679918109,0.17
+LightGBM (Proposed),CM1,Hit@10,1,1.00246853084133,1.0
+LightGBM (Proposed),CM1,Hit@10,2,0.9969054430010746,1.0
+LightGBM (Proposed),CM1,Hit@10,3,1.0074460768822209,1.0
+LightGBM (Proposed),CM1,Hit@10,4,0.9831896139525574,1.0
+LightGBM (Proposed),CM1,Hit@10,5,1.0099903353228166,1.0
+LightGBM (Proposed),CM1,ECE,1,0.1508704275217088,0.15
+LightGBM (Proposed),CM1,ECE,2,0.14809397714533284,0.15
+LightGBM (Proposed),CM1,ECE,3,0.1499543800600166,0.15
+LightGBM (Proposed),CM1,ECE,4,0.14931368773232823,0.15
+LightGBM (Proposed),CM1,ECE,5,0.15176752754061357,0.15
+LightGBM (Proposed),CM1,Reliability Score,1,0.8208456967840851,0.81
+LightGBM (Proposed),CM1,Reliability Score,2,0.814027627190097,0.81
+LightGBM (Proposed),CM1,Reliability Score,3,0.8006295749895436,0.81
+LightGBM (Proposed),CM1,Reliability Score,4,0.8036755055926142,0.81
+LightGBM (Proposed),CM1,Reliability Score,5,0.8108215954436606,0.81
+LightGBM (Proposed),MC1,AUC mean,1,0.970147760914403,0.98
+LightGBM (Proposed),MC1,AUC mean,2,0.9718527453382388,0.98
+LightGBM (Proposed),MC1,AUC mean,3,0.9894901765527367,0.98
+LightGBM (Proposed),MC1,AUC mean,4,0.9801916326295358,0.98
+LightGBM (Proposed),MC1,AUC mean,5,0.9883176845650858,0.98
+LightGBM (Proposed),MC1,F1 mean,1,0.49190128337321504,0.49
+LightGBM (Proposed),MC1,F1 mean,2,0.4911829829661447,0.49
+LightGBM (Proposed),MC1,F1 mean,3,0.48843591392386737,0.49
+LightGBM (Proposed),MC1,F1 mean,4,0.48594099058670204,0.49
+LightGBM (Proposed),MC1,F1 mean,5,0.4925388291500713,0.49
+LightGBM (Proposed),MC1,Precision mean,1,0.597377567374959,0.59
+LightGBM (Proposed),MC1,Precision mean,2,0.588702192769163,0.59
+LightGBM (Proposed),MC1,Precision mean,3,0.5934926879362811,0.59
+LightGBM (Proposed),MC1,Precision mean,4,0.5832673773767628,0.59
+LightGBM (Proposed),MC1,Precision mean,5,0.5871601745428344,0.59
+LightGBM (Proposed),MC1,Recall mean,1,0.42997836201021267,0.43
+LightGBM (Proposed),MC1,Recall mean,2,0.4310462836183056,0.43
+LightGBM (Proposed),MC1,Recall mean,3,0.42989268838687383,0.43
+LightGBM (Proposed),MC1,Recall mean,4,0.4299771239352282,0.43
+LightGBM (Proposed),MC1,Recall mean,5,0.4291055420493792,0.43
+LightGBM (Proposed),MC1,Brier mean,1,0.010072090794317841,0.01
+LightGBM (Proposed),MC1,Brier mean,2,0.010062271439048861,0.01
+LightGBM (Proposed),MC1,Brier mean,3,0.00998221060587209,0.01
+LightGBM (Proposed),MC1,Brier mean,4,0.009938381774610077,0.01
+LightGBM (Proposed),MC1,Brier mean,5,0.009945045386151128,0.01
+LightGBM (Proposed),MC1,GLR mean,1,0.393589854388656,0.39
+LightGBM (Proposed),MC1,GLR mean,2,0.3882825832470975,0.39
+LightGBM (Proposed),MC1,GLR mean,3,0.3905677121214316,0.39
+LightGBM (Proposed),MC1,GLR mean,4,0.39019036866822837,0.39
+LightGBM (Proposed),MC1,GLR mean,5,0.38736948157458634,0.39
+LightGBM (Proposed),MC1,Hit@10,1,1.0054304349019356,1.0
+LightGBM (Proposed),MC1,Hit@10,2,1.006167760311079,1.0
+LightGBM (Proposed),MC1,Hit@10,3,0.9868959930076504,1.0
+LightGBM (Proposed),MC1,Hit@10,4,1.0062924864913625,1.0
+LightGBM (Proposed),MC1,Hit@10,5,0.9952133252879735,1.0
+LightGBM (Proposed),MC1,ECE,1,0.009954123177927583,0.01
+LightGBM (Proposed),MC1,ECE,2,0.01005666488265504,0.01
+LightGBM (Proposed),MC1,ECE,3,0.01030710275840779,0.01
+LightGBM (Proposed),MC1,ECE,4,0.009858522727331918,0.01
+LightGBM (Proposed),MC1,ECE,5,0.009823586453677672,0.01
+LightGBM (Proposed),MC1,Reliability Score,1,0.9075973863314899,0.9
+LightGBM (Proposed),MC1,Reliability Score,2,0.8885552206200729,0.9
+LightGBM (Proposed),MC1,Reliability Score,3,0.9053630593658628,0.9
+LightGBM (Proposed),MC1,Reliability Score,4,0.8877457475037921,0.9
+LightGBM (Proposed),MC1,Reliability Score,5,0.9107385861787829,0.9
+LightGBM (Proposed),MC2,AUC mean,1,0.728044286042633,0.73
+LightGBM (Proposed),MC2,AUC mean,2,0.7217184659154245,0.73
+LightGBM (Proposed),MC2,AUC mean,3,0.7373267178126148,0.73
+LightGBM (Proposed),MC2,AUC mean,4,0.7298574965351394,0.73
+LightGBM (Proposed),MC2,AUC mean,5,0.7330530336941883,0.73
+LightGBM (Proposed),MC2,F1 mean,1,0.5026482384067821,0.51
+LightGBM (Proposed),MC2,F1 mean,2,0.5105151541755324,0.51
+LightGBM (Proposed),MC2,F1 mean,3,0.5028142034858593,0.51
+LightGBM (Proposed),MC2,F1 mean,4,0.520698328154498,0.51
+LightGBM (Proposed),MC2,F1 mean,5,0.5133240757773284,0.51
+LightGBM (Proposed),MC2,Precision mean,1,0.5294795252456591,0.53
+LightGBM (Proposed),MC2,Precision mean,2,0.5342812278891452,0.53
+LightGBM (Proposed),MC2,Precision mean,3,0.5293520178494846,0.53
+LightGBM (Proposed),MC2,Precision mean,4,0.5275669049048014,0.53
+LightGBM (Proposed),MC2,Precision mean,5,0.5293203241109093,0.53
+LightGBM (Proposed),MC2,Recall mean,1,0.49166511282015135,0.5
+LightGBM (Proposed),MC2,Recall mean,2,0.49843998554173286,0.5
+LightGBM (Proposed),MC2,Recall mean,3,0.5017820143892043,0.5
+LightGBM (Proposed),MC2,Recall mean,4,0.49698280051370874,0.5
+LightGBM (Proposed),MC2,Recall mean,5,0.5111300867352025,0.5
+LightGBM (Proposed),MC2,Brier mean,1,0.24671711060125207,0.25
+LightGBM (Proposed),MC2,Brier mean,2,0.2482364585695685,0.25
+LightGBM (Proposed),MC2,Brier mean,3,0.2525341743433736,0.25
+LightGBM (Proposed),MC2,Brier mean,4,0.24958080144500283,0.25
+LightGBM (Proposed),MC2,Brier mean,5,0.2529314550408027,0.25
+LightGBM (Proposed),MC2,GLR mean,1,0.1416038821400313,0.14
+LightGBM (Proposed),MC2,GLR mean,2,0.13923853633019884,0.14
+LightGBM (Proposed),MC2,GLR mean,3,0.13786689209850042,0.14
+LightGBM (Proposed),MC2,GLR mean,4,0.13961017239221057,0.14
+LightGBM (Proposed),MC2,GLR mean,5,0.14168051703905893,0.14
+LightGBM (Proposed),MC2,Hit@10,1,1.0086194560594999,1.0
+LightGBM (Proposed),MC2,Hit@10,2,1.0092412383588683,1.0
+LightGBM (Proposed),MC2,Hit@10,3,0.9859315470956271,1.0
+LightGBM (Proposed),MC2,Hit@10,4,0.9924602727968579,1.0
+LightGBM (Proposed),MC2,Hit@10,5,1.0037474856891466,1.0
+LightGBM (Proposed),MC2,ECE,1,0.235524926219116,0.24
+LightGBM (Proposed),MC2,ECE,2,0.2386869660652475,0.24
+LightGBM (Proposed),MC2,ECE,3,0.24140688538188027,0.24
+LightGBM (Proposed),MC2,ECE,4,0.24127428319311017,0.24
+LightGBM (Proposed),MC2,ECE,5,0.2431069391406461,0.24
+LightGBM (Proposed),MC2,Reliability Score,1,0.7825345242753573,0.78
+LightGBM (Proposed),MC2,Reliability Score,2,0.7792245012099653,0.78
+LightGBM (Proposed),MC2,Reliability Score,3,0.7746529632745077,0.78
+LightGBM (Proposed),MC2,Reliability Score,4,0.7841153183663553,0.78
+LightGBM (Proposed),MC2,Reliability Score,5,0.7794726928738145,0.78
+LightGBM (Proposed),MW1,AUC mean,1,0.7959367148353457,0.79
+LightGBM (Proposed),MW1,AUC mean,2,0.7791056831752402,0.79
+LightGBM (Proposed),MW1,AUC mean,3,0.8040276112106717,0.79
+LightGBM (Proposed),MW1,AUC mean,4,0.7842567582390103,0.79
+LightGBM (Proposed),MW1,AUC mean,5,0.7866732325397322,0.79
+LightGBM (Proposed),MW1,F1 mean,1,0.37329815129165406,0.37
+LightGBM (Proposed),MW1,F1 mean,2,0.373038923728724,0.37
+LightGBM (Proposed),MW1,F1 mean,3,0.37264384472743634,0.37
+LightGBM (Proposed),MW1,F1 mean,4,0.36838752414538933,0.37
+LightGBM (Proposed),MW1,F1 mean,5,0.3626315561067963,0.37
+LightGBM (Proposed),MW1,Precision mean,1,0.4478160967033662,0.45
+LightGBM (Proposed),MW1,Precision mean,2,0.4517774677666724,0.45
+LightGBM (Proposed),MW1,Precision mean,3,0.45057829623893675,0.45
+LightGBM (Proposed),MW1,Precision mean,4,0.45288184597625086,0.45
+LightGBM (Proposed),MW1,Precision mean,5,0.44694629331477365,0.45
+LightGBM (Proposed),MW1,Recall mean,1,0.3580400563974586,0.36
+LightGBM (Proposed),MW1,Recall mean,2,0.35655078528289136,0.36
+LightGBM (Proposed),MW1,Recall mean,3,0.36298107345201475,0.36
+LightGBM (Proposed),MW1,Recall mean,4,0.3617123689863009,0.36
+LightGBM (Proposed),MW1,Recall mean,5,0.3607157158813347,0.36
+LightGBM (Proposed),MW1,Brier mean,1,0.09008972094516199,0.09
+LightGBM (Proposed),MW1,Brier mean,2,0.089903111541659,0.09
+LightGBM (Proposed),MW1,Brier mean,3,0.08979033813362877,0.09
+LightGBM (Proposed),MW1,Brier mean,4,0.09075827999709954,0.09
+LightGBM (Proposed),MW1,Brier mean,5,0.08945854938245072,0.09
+LightGBM (Proposed),MW1,GLR mean,1,0.040172603527924663,0.04
+LightGBM (Proposed),MW1,GLR mean,2,0.040171301661985646,0.04
+LightGBM (Proposed),MW1,GLR mean,3,0.040252960729878,0.04
+LightGBM (Proposed),MW1,GLR mean,4,0.040061476452885623,0.04
+LightGBM (Proposed),MW1,GLR mean,5,0.039341657627326054,0.04
+LightGBM (Proposed),MW1,Hit@10,1,1.006982758552327,1.0
+LightGBM (Proposed),MW1,Hit@10,2,0.9965636574322924,1.0
+LightGBM (Proposed),MW1,Hit@10,3,0.9987944637993088,1.0
+LightGBM (Proposed),MW1,Hit@10,4,1.002254720627567,1.0
+LightGBM (Proposed),MW1,Hit@10,5,0.9954043995885046,1.0
+LightGBM (Proposed),MW1,ECE,1,0.08910551252831365,0.09
+LightGBM (Proposed),MW1,ECE,2,0.08976500481664992,0.09
+LightGBM (Proposed),MW1,ECE,3,0.08995248564186659,0.09
+LightGBM (Proposed),MW1,ECE,4,0.08981044239447836,0.09
+LightGBM (Proposed),MW1,ECE,5,0.09136655461869148,0.09
+LightGBM (Proposed),MW1,Reliability Score,1,0.8215786344326427,0.81
+LightGBM (Proposed),MW1,Reliability Score,2,0.8052597700333538,0.81
+LightGBM (Proposed),MW1,Reliability Score,3,0.8055635201654343,0.81
+LightGBM (Proposed),MW1,Reliability Score,4,0.8079198559166796,0.81
+LightGBM (Proposed),MW1,Reliability Score,5,0.8096782194518903,0.81
+LightGBM (Proposed),PC1,AUC mean,1,0.8682624764800061,0.86
+LightGBM (Proposed),PC1,AUC mean,2,0.8485798674534737,0.86
+LightGBM (Proposed),PC1,AUC mean,3,0.849285412122503,0.86
+LightGBM (Proposed),PC1,AUC mean,4,0.8535140081445987,0.86
+LightGBM (Proposed),PC1,AUC mean,5,0.8803582357994193,0.86
+LightGBM (Proposed),PC1,F1 mean,1,0.35575702666585857,0.35
+LightGBM (Proposed),PC1,F1 mean,2,0.3454983220374884,0.35
+LightGBM (Proposed),PC1,F1 mean,3,0.3515103523755338,0.35
+LightGBM (Proposed),PC1,F1 mean,4,0.34463214468371095,0.35
+LightGBM (Proposed),PC1,F1 mean,5,0.35260215423740815,0.35
+LightGBM (Proposed),PC1,Precision mean,1,0.4747348366642242,0.48
+LightGBM (Proposed),PC1,Precision mean,2,0.481979986445144,0.48
+LightGBM (Proposed),PC1,Precision mean,3,0.4820394664262412,0.48
+LightGBM (Proposed),PC1,Precision mean,4,0.4838198873054461,0.48
+LightGBM (Proposed),PC1,Precision mean,5,0.4774258231589443,0.48
+LightGBM (Proposed),PC1,Recall mean,1,0.3115395730890801,0.31
+LightGBM (Proposed),PC1,Recall mean,2,0.31316856215998895,0.31
+LightGBM (Proposed),PC1,Recall mean,3,0.31155157515202064,0.31
+LightGBM (Proposed),PC1,Recall mean,4,0.30705451463247113,0.31
+LightGBM (Proposed),PC1,Recall mean,5,0.30668577496643895,0.31
+LightGBM (Proposed),PC1,Brier mean,1,0.07024790308283588,0.07
+LightGBM (Proposed),PC1,Brier mean,2,0.06873705156527617,0.07
+LightGBM (Proposed),PC1,Brier mean,3,0.07105028877013964,0.07
+LightGBM (Proposed),PC1,Brier mean,4,0.06923471251668634,0.07
+LightGBM (Proposed),PC1,Brier mean,5,0.070730044065062,0.07
+LightGBM (Proposed),PC1,GLR mean,1,0.29123958057545574,0.29
+LightGBM (Proposed),PC1,GLR mean,2,0.2873610905961669,0.29
+LightGBM (Proposed),PC1,GLR mean,3,0.29257203330562137,0.29
+LightGBM (Proposed),PC1,GLR mean,4,0.29089525754989765,0.29
+LightGBM (Proposed),PC1,GLR mean,5,0.28793203797285827,0.29
+LightGBM (Proposed),PC1,Hit@10,1,1.008105649942451,1.0
+LightGBM (Proposed),PC1,Hit@10,2,0.9983934890813074,1.0
+LightGBM (Proposed),PC1,Hit@10,3,0.9965767633341458,1.0
+LightGBM (Proposed),PC1,Hit@10,4,1.0144940674607272,1.0
+LightGBM (Proposed),PC1,Hit@10,5,0.982430030181369,1.0
+LightGBM (Proposed),PC1,ECE,1,0.07099508324667828,0.07
+LightGBM (Proposed),PC1,ECE,2,0.07041582793120411,0.07
+LightGBM (Proposed),PC1,ECE,3,0.0701937976835954,0.07
+LightGBM (Proposed),PC1,ECE,4,0.06812716791009896,0.07
+LightGBM (Proposed),PC1,ECE,5,0.07026812322842325,0.07
+LightGBM (Proposed),PC1,Reliability Score,1,0.8585039443684747,0.86
+LightGBM (Proposed),PC1,Reliability Score,2,0.8753429099778658,0.86
+LightGBM (Proposed),PC1,Reliability Score,3,0.8607206535114453,0.86
+LightGBM (Proposed),PC1,Reliability Score,4,0.8489122151934608,0.86
+LightGBM (Proposed),PC1,Reliability Score,5,0.8565202769487529,0.86
+LightGBM (Proposed),PC2,AUC mean,1,0.7542664674863581,0.76
+LightGBM (Proposed),PC2,AUC mean,2,0.7605317993970858,0.76
+LightGBM (Proposed),PC2,AUC mean,3,0.7554097436744938,0.76
+LightGBM (Proposed),PC2,AUC mean,4,0.766292948782511,0.76
+LightGBM (Proposed),PC2,AUC mean,5,0.7634990406595511,0.76
+LightGBM (Proposed),PC2,F1 mean,1,0.07953690464723354,0.08
+LightGBM (Proposed),PC2,F1 mean,2,0.0815331661785803,0.08
+LightGBM (Proposed),PC2,F1 mean,3,0.08021464538575619,0.08
+LightGBM (Proposed),PC2,F1 mean,4,0.0791902731514838,0.08
+LightGBM (Proposed),PC2,F1 mean,5,0.07952501063694618,0.08
+LightGBM (Proposed),PC2,Precision mean,1,0.0808087567368114,0.08
+LightGBM (Proposed),PC2,Precision mean,2,0.08074200136563324,0.08
+LightGBM (Proposed),PC2,Precision mean,3,0.08041456646569989,0.08
+LightGBM (Proposed),PC2,Precision mean,4,0.07893386503846853,0.08
+LightGBM (Proposed),PC2,Precision mean,5,0.07910081039338694,0.08
+LightGBM (Proposed),PC2,Recall mean,1,0.07958306060334094,0.08
+LightGBM (Proposed),PC2,Recall mean,2,0.08122386335421371,0.08
+LightGBM (Proposed),PC2,Recall mean,3,0.07995710793723215,0.08
+LightGBM (Proposed),PC2,Recall mean,4,0.08050776790746192,0.08
+LightGBM (Proposed),PC2,Recall mean,5,0.0787282001977513,0.08
+LightGBM (Proposed),PC2,Brier mean,1,0.009792281194321363,0.01
+LightGBM (Proposed),PC2,Brier mean,2,0.010019324826462069,0.01
+LightGBM (Proposed),PC2,Brier mean,3,0.010079432849780995,0.01
+LightGBM (Proposed),PC2,Brier mean,4,0.010042774043423746,0.01
+LightGBM (Proposed),PC2,Brier mean,5,0.010066187086011836,0.01
+LightGBM (Proposed),PC2,GLR mean,1,0.3001372002336812,0.3
+LightGBM (Proposed),PC2,GLR mean,2,0.30134927889427016,0.3
+LightGBM (Proposed),PC2,GLR mean,3,0.3020345888611199,0.3
+LightGBM (Proposed),PC2,GLR mean,4,0.2996354175341656,0.3
+LightGBM (Proposed),PC2,GLR mean,5,0.29684351447676344,0.3
+LightGBM (Proposed),PC2,Hit@10,1,1.0010860441110168,1.0
+LightGBM (Proposed),PC2,Hit@10,2,1.0169684224410842,1.0
+LightGBM (Proposed),PC2,Hit@10,3,0.9803355671141268,1.0
+LightGBM (Proposed),PC2,Hit@10,4,0.9975928311480828,1.0
+LightGBM (Proposed),PC2,Hit@10,5,1.0040171351856892,1.0
+LightGBM (Proposed),PC2,ECE,1,0.009865972901279763,0.01
+LightGBM (Proposed),PC2,ECE,2,0.010169501407842221,0.01
+LightGBM (Proposed),PC2,ECE,3,0.009991518439689415,0.01
+LightGBM (Proposed),PC2,ECE,4,0.010041869063870485,0.01
+LightGBM (Proposed),PC2,ECE,5,0.009931138187318118,0.01
+LightGBM (Proposed),PC2,Reliability Score,1,0.8793439132940942,0.88
+LightGBM (Proposed),PC2,Reliability Score,2,0.883706540802354,0.88
+LightGBM (Proposed),PC2,Reliability Score,3,0.880524105624868,0.88
+LightGBM (Proposed),PC2,Reliability Score,4,0.8798475468732286,0.88
+LightGBM (Proposed),PC2,Reliability Score,5,0.876577893405455,0.88
+LightGBM (Proposed),PC3,AUC mean,1,0.8342506118758394,0.83
+LightGBM (Proposed),PC3,AUC mean,2,0.8170051549447004,0.83
+LightGBM (Proposed),PC3,AUC mean,3,0.8389965760020729,0.83
+LightGBM (Proposed),PC3,AUC mean,4,0.8323892955921196,0.83
+LightGBM (Proposed),PC3,AUC mean,5,0.8273583615852672,0.83
+LightGBM (Proposed),PC3,F1 mean,1,0.3737637878014586,0.37
+LightGBM (Proposed),PC3,F1 mean,2,0.36661541031741174,0.37
+LightGBM (Proposed),PC3,F1 mean,3,0.37089178075793644,0.37
+LightGBM (Proposed),PC3,F1 mean,4,0.3674447826450831,0.37
+LightGBM (Proposed),PC3,F1 mean,5,0.3712842384781098,0.37
+LightGBM (Proposed),PC3,Precision mean,1,0.4201056122174279,0.42
+LightGBM (Proposed),PC3,Precision mean,2,0.4179059095863438,0.42
+LightGBM (Proposed),PC3,Precision mean,3,0.41837200660010876,0.42
+LightGBM (Proposed),PC3,Precision mean,4,0.42405308797504193,0.42
+LightGBM (Proposed),PC3,Precision mean,5,0.41956338362107765,0.42
+LightGBM (Proposed),PC3,Recall mean,1,0.3273754247873068,0.33
+LightGBM (Proposed),PC3,Recall mean,2,0.33181780661596955,0.33
+LightGBM (Proposed),PC3,Recall mean,3,0.33272180973736737,0.33
+LightGBM (Proposed),PC3,Recall mean,4,0.33098398460846407,0.33
+LightGBM (Proposed),PC3,Recall mean,5,0.3271009742508924,0.33
+LightGBM (Proposed),PC3,Brier mean,1,0.10046970826806523,0.1
+LightGBM (Proposed),PC3,Brier mean,2,0.09928502003487501,0.1
+LightGBM (Proposed),PC3,Brier mean,3,0.10074951868850042,0.1
+LightGBM (Proposed),PC3,Brier mean,4,0.09923105308006237,0.1
+LightGBM (Proposed),PC3,Brier mean,5,0.10026469992849706,0.1
+LightGBM (Proposed),PC3,GLR mean,1,0.17746755785192675,0.18
+LightGBM (Proposed),PC3,GLR mean,2,0.17980483031108435,0.18
+LightGBM (Proposed),PC3,GLR mean,3,0.17964794958991495,0.18
+LightGBM (Proposed),PC3,GLR mean,4,0.1836459800220592,0.18
+LightGBM (Proposed),PC3,GLR mean,5,0.17943368222501468,0.18
+LightGBM (Proposed),PC3,Hit@10,1,0.9946927315469868,1.0
+LightGBM (Proposed),PC3,Hit@10,2,1.0017535996535927,1.0
+LightGBM (Proposed),PC3,Hit@10,3,0.99957177270311,1.0
+LightGBM (Proposed),PC3,Hit@10,4,1.0068586950625185,1.0
+LightGBM (Proposed),PC3,Hit@10,5,0.9971232010337915,1.0
+LightGBM (Proposed),PC3,ECE,1,0.09920097957469383,0.1
+LightGBM (Proposed),PC3,ECE,2,0.10090694078857788,0.1
+LightGBM (Proposed),PC3,ECE,3,0.09789398878593515,0.1
+LightGBM (Proposed),PC3,ECE,4,0.10087465533087106,0.1
+LightGBM (Proposed),PC3,ECE,5,0.10112343551992212,0.1
+LightGBM (Proposed),PC3,Reliability Score,1,0.8417575935136595,0.83
+LightGBM (Proposed),PC3,Reliability Score,2,0.8199429957221376,0.83
+LightGBM (Proposed),PC3,Reliability Score,3,0.821422771701489,0.83
+LightGBM (Proposed),PC3,Reliability Score,4,0.8326611520050332,0.83
+LightGBM (Proposed),PC3,Reliability Score,5,0.8342154870576809,0.83
+LightGBM (Proposed),PC4,AUC mean,1,0.9346257623221729,0.95
+LightGBM (Proposed),PC4,AUC mean,2,0.9600370807970876,0.95
+LightGBM (Proposed),PC4,AUC mean,3,0.9655629566704803,0.95
+LightGBM (Proposed),PC4,AUC mean,4,0.9435426953521283,0.95
+LightGBM (Proposed),PC4,AUC mean,5,0.9462315048581308,0.95
+LightGBM (Proposed),PC4,F1 mean,1,0.6506964537714405,0.64
+LightGBM (Proposed),PC4,F1 mean,2,0.6412966011266256,0.64
+LightGBM (Proposed),PC4,F1 mean,3,0.6412036842682343,0.64
+LightGBM (Proposed),PC4,F1 mean,4,0.6404191898243456,0.64
+LightGBM (Proposed),PC4,F1 mean,5,0.6263840710093537,0.64
+LightGBM (Proposed),PC4,Precision mean,1,0.6619899152357188,0.67
+LightGBM (Proposed),PC4,Precision mean,2,0.6776482707347455,0.67
+LightGBM (Proposed),PC4,Precision mean,3,0.6611237848131365,0.67
+LightGBM (Proposed),PC4,Precision mean,4,0.6761604985435419,0.67
+LightGBM (Proposed),PC4,Precision mean,5,0.6730775306728578,0.67
+LightGBM (Proposed),PC4,Recall mean,1,0.6015821880007547,0.61
+LightGBM (Proposed),PC4,Recall mean,2,0.6116248017757132,0.61
+LightGBM (Proposed),PC4,Recall mean,3,0.6101772398893099,0.61
+LightGBM (Proposed),PC4,Recall mean,4,0.6186138659769144,0.61
+LightGBM (Proposed),PC4,Recall mean,5,0.6080019043573074,0.61
+LightGBM (Proposed),PC4,Brier mean,1,0.07026453122423786,0.07
+LightGBM (Proposed),PC4,Brier mean,2,0.06937315475434823,0.07
+LightGBM (Proposed),PC4,Brier mean,3,0.07151101708581409,0.07
+LightGBM (Proposed),PC4,Brier mean,4,0.06860695340432134,0.07
+LightGBM (Proposed),PC4,Brier mean,5,0.07024434353127851,0.07
+LightGBM (Proposed),PC4,GLR mean,1,0.21957965606627483,0.22
+LightGBM (Proposed),PC4,GLR mean,2,0.21972037233256578,0.22
+LightGBM (Proposed),PC4,GLR mean,3,0.2197579420435236,0.22
+LightGBM (Proposed),PC4,GLR mean,4,0.2186075881353077,0.22
+LightGBM (Proposed),PC4,GLR mean,5,0.22233444142232825,0.22
+LightGBM (Proposed),PC4,Hit@10,1,1.0041141212695461,1.0
+LightGBM (Proposed),PC4,Hit@10,2,1.0025263944747593,1.0
+LightGBM (Proposed),PC4,Hit@10,3,1.016958222727224,1.0
+LightGBM (Proposed),PC4,Hit@10,4,0.9858041353283026,1.0
+LightGBM (Proposed),PC4,Hit@10,5,0.9905971262001676,1.0
+LightGBM (Proposed),PC4,ECE,1,0.0701683865722713,0.07
+LightGBM (Proposed),PC4,ECE,2,0.06908981025853063,0.07
+LightGBM (Proposed),PC4,ECE,3,0.07088550489653585,0.07
+LightGBM (Proposed),PC4,ECE,4,0.0697435790365638,0.07
+LightGBM (Proposed),PC4,ECE,5,0.0701127192360985,0.07
+LightGBM (Proposed),PC4,Reliability Score,1,0.8558301598994389,0.85
+LightGBM (Proposed),PC4,Reliability Score,2,0.8522762385025716,0.85
+LightGBM (Proposed),PC4,Reliability Score,3,0.8440314650248273,0.85
+LightGBM (Proposed),PC4,Reliability Score,4,0.8551319699579948,0.85
+LightGBM (Proposed),PC4,Reliability Score,5,0.8427301666151672,0.85
+MLP (Proposed),CM1,AUC mean,1,0.6895992278333478,0.69
+MLP (Proposed),CM1,AUC mean,2,0.6865223255923758,0.69
+MLP (Proposed),CM1,AUC mean,3,0.693430985906286,0.69
+MLP (Proposed),CM1,AUC mean,4,0.6930678713898542,0.69
+MLP (Proposed),CM1,AUC mean,5,0.6873795892781356,0.69
+MLP (Proposed),CM1,F1 mean,1,0.24249369348461108,0.24
+MLP (Proposed),CM1,F1 mean,2,0.24265332468509418,0.24
+MLP (Proposed),CM1,F1 mean,3,0.2425585268549018,0.24
+MLP (Proposed),CM1,F1 mean,4,0.23749686462225417,0.24
+MLP (Proposed),CM1,F1 mean,5,0.23479759035313877,0.24
+MLP (Proposed),CM1,Precision mean,1,0.2513914403723498,0.25
+MLP (Proposed),CM1,Precision mean,2,0.24588835118556235,0.25
+MLP (Proposed),CM1,Precision mean,3,0.25234381619072305,0.25
+MLP (Proposed),CM1,Precision mean,4,0.24774219654768415,0.25
+MLP (Proposed),CM1,Precision mean,5,0.25263419570368045,0.25
+MLP (Proposed),CM1,Recall mean,1,0.24059498498062523,0.24
+MLP (Proposed),CM1,Recall mean,2,0.23848538782147463,0.24
+MLP (Proposed),CM1,Recall mean,3,0.23855965504156093,0.24
+MLP (Proposed),CM1,Recall mean,4,0.24392966996036874,0.24
+MLP (Proposed),CM1,Recall mean,5,0.2384303021959704,0.24
+MLP (Proposed),CM1,Brier mean,1,0.1692983040380726,0.17
+MLP (Proposed),CM1,Brier mean,2,0.1686461252632969,0.17
+MLP (Proposed),CM1,Brier mean,3,0.17069639689945665,0.17
+MLP (Proposed),CM1,Brier mean,4,0.17058482536393124,0.17
+MLP (Proposed),CM1,Brier mean,5,0.1707743484352428,0.17
+MLP (Proposed),CM1,GLR mean,1,0.07924712988476007,0.08
+MLP (Proposed),CM1,GLR mean,2,0.07983090203045863,0.08
+MLP (Proposed),CM1,GLR mean,3,0.08083042122836691,0.08
+MLP (Proposed),CM1,GLR mean,4,0.07978867834060728,0.08
+MLP (Proposed),CM1,GLR mean,5,0.08030286851580706,0.08
+MLP (Proposed),CM1,Hit@10,1,0.9876821989373219,1.0
+MLP (Proposed),CM1,Hit@10,2,1.0062729292622117,1.0
+MLP (Proposed),CM1,Hit@10,3,1.0015062822554053,1.0
+MLP (Proposed),CM1,Hit@10,4,0.9902226461425553,1.0
+MLP (Proposed),CM1,Hit@10,5,1.0143159434025064,1.0
+MLP (Proposed),CM1,ECE,1,0.16786691566972617,0.17
+MLP (Proposed),CM1,ECE,2,0.17083357433687263,0.17
+MLP (Proposed),CM1,ECE,3,0.17179290822019888,0.17
+MLP (Proposed),CM1,ECE,4,0.1697914649957837,0.17
+MLP (Proposed),CM1,ECE,5,0.16971513677741867,0.17
+MLP (Proposed),CM1,Reliability Score,1,0.8075605756893048,0.8
+MLP (Proposed),CM1,Reliability Score,2,0.8101617795781106,0.8
+MLP (Proposed),CM1,Reliability Score,3,0.7985017873550961,0.8
+MLP (Proposed),CM1,Reliability Score,4,0.7939193027303961,0.8
+MLP (Proposed),CM1,Reliability Score,5,0.7898565546470925,0.8
+MLP (Proposed),MC1,AUC mean,1,0.8893066007352216,0.89
+MLP (Proposed),MC1,AUC mean,2,0.9096290275440317,0.89
+MLP (Proposed),MC1,AUC mean,3,0.8792055011603102,0.89
+MLP (Proposed),MC1,AUC mean,4,0.8891430966395933,0.89
+MLP (Proposed),MC1,AUC mean,5,0.8827157739208435,0.89
+MLP (Proposed),MC1,F1 mean,1,0.20850758121625587,0.21
+MLP (Proposed),MC1,F1 mean,2,0.2107623137281131,0.21
+MLP (Proposed),MC1,F1 mean,3,0.2103751548311366,0.21
+MLP (Proposed),MC1,F1 mean,4,0.20965230363629925,0.21
+MLP (Proposed),MC1,F1 mean,5,0.21070264658819496,0.21
+MLP (Proposed),MC1,Precision mean,1,0.21158343540447394,0.21
+MLP (Proposed),MC1,Precision mean,2,0.2077848743186422,0.21
+MLP (Proposed),MC1,Precision mean,3,0.21142276222391024,0.21
+MLP (Proposed),MC1,Precision mean,4,0.20946966546062332,0.21
+MLP (Proposed),MC1,Precision mean,5,0.20973926259235015,0.21
+MLP (Proposed),MC1,Recall mean,1,0.21019684384665208,0.21
+MLP (Proposed),MC1,Recall mean,2,0.20872284318052692,0.21
+MLP (Proposed),MC1,Recall mean,3,0.20751290046499477,0.21
+MLP (Proposed),MC1,Recall mean,4,0.21115877294648497,0.21
+MLP (Proposed),MC1,Recall mean,5,0.21240863956134098,0.21
+MLP (Proposed),MC1,Brier mean,1,0.01991500629316382,0.02
+MLP (Proposed),MC1,Brier mean,2,0.019739001931927135,0.02
+MLP (Proposed),MC1,Brier mean,3,0.02008627952152914,0.02
+MLP (Proposed),MC1,Brier mean,4,0.02026432736591273,0.02
+MLP (Proposed),MC1,Brier mean,5,0.019995384887467167,0.02
+MLP (Proposed),MC1,GLR mean,1,0.17215254358835994,0.17
+MLP (Proposed),MC1,GLR mean,2,0.16865838645694078,0.17
+MLP (Proposed),MC1,GLR mean,3,0.16965325924571417,0.17
+MLP (Proposed),MC1,GLR mean,4,0.16898857066099804,0.17
+MLP (Proposed),MC1,GLR mean,5,0.1705472400479871,0.17
+MLP (Proposed),MC1,Hit@10,1,0.9978174406100122,1.0
+MLP (Proposed),MC1,Hit@10,2,1.0024097125617757,1.0
+MLP (Proposed),MC1,Hit@10,3,0.994850544481321,1.0
+MLP (Proposed),MC1,Hit@10,4,1.0024115292460252,1.0
+MLP (Proposed),MC1,Hit@10,5,1.002510773100866,1.0
+MLP (Proposed),MC1,ECE,1,0.020005363704491116,0.02
+MLP (Proposed),MC1,ECE,2,0.019958423095779047,0.02
+MLP (Proposed),MC1,ECE,3,0.019661092382954118,0.02
+MLP (Proposed),MC1,ECE,4,0.02027319240881099,0.02
+MLP (Proposed),MC1,ECE,5,0.020101928407964716,0.02
+MLP (Proposed),MC1,Reliability Score,1,0.8279054726829006,0.84
+MLP (Proposed),MC1,Reliability Score,2,0.8401287779064438,0.84
+MLP (Proposed),MC1,Reliability Score,3,0.8500018867701724,0.84
+MLP (Proposed),MC1,Reliability Score,4,0.840436902675034,0.84
+MLP (Proposed),MC1,Reliability Score,5,0.8415269599654487,0.84
+MLP (Proposed),MC2,AUC mean,1,0.6949067195493963,0.69
+MLP (Proposed),MC2,AUC mean,2,0.6904563408112655,0.69
+MLP (Proposed),MC2,AUC mean,3,0.6950512808832364,0.69
+MLP (Proposed),MC2,AUC mean,4,0.683447576274554,0.69
+MLP (Proposed),MC2,AUC mean,5,0.6861380824815468,0.69
+MLP (Proposed),MC2,F1 mean,1,0.5446277909295024,0.55
+MLP (Proposed),MC2,F1 mean,2,0.5512770501332523,0.55
+MLP (Proposed),MC2,F1 mean,3,0.5520149325962115,0.55
+MLP (Proposed),MC2,F1 mean,4,0.5506063223570459,0.55
+MLP (Proposed),MC2,F1 mean,5,0.5514739039839883,0.55
+MLP (Proposed),MC2,Precision mean,1,0.6388382474129773,0.65
+MLP (Proposed),MC2,Precision mean,2,0.6495345185309412,0.65
+MLP (Proposed),MC2,Precision mean,3,0.6565166749941723,0.65
+MLP (Proposed),MC2,Precision mean,4,0.6557638241122598,0.65
+MLP (Proposed),MC2,Precision mean,5,0.6493467349496496,0.65
+MLP (Proposed),MC2,Recall mean,1,0.4821197308464225,0.48
+MLP (Proposed),MC2,Recall mean,2,0.47755391689069926,0.48
+MLP (Proposed),MC2,Recall mean,3,0.4815311880847777,0.48
+MLP (Proposed),MC2,Recall mean,4,0.48065786823599116,0.48
+MLP (Proposed),MC2,Recall mean,5,0.47813729594210885,0.48
+MLP (Proposed),MC2,Brier mean,1,0.23739439590680453,0.24
+MLP (Proposed),MC2,Brier mean,2,0.2365629716074051,0.24
+MLP (Proposed),MC2,Brier mean,3,0.2431233956940829,0.24
+MLP (Proposed),MC2,Brier mean,4,0.23939226313430614,0.24
+MLP (Proposed),MC2,Brier mean,5,0.24352697365740125,0.24
+MLP (Proposed),MC2,GLR mean,1,0.030289014770630306,0.03
+MLP (Proposed),MC2,GLR mean,2,0.02992700857752681,0.03
+MLP (Proposed),MC2,GLR mean,3,0.02963083014704873,0.03
+MLP (Proposed),MC2,GLR mean,4,0.029986867846220927,0.03
+MLP (Proposed),MC2,GLR mean,5,0.030166278658573218,0.03
+MLP (Proposed),MC2,Hit@10,1,0.9979454593135638,1.0
+MLP (Proposed),MC2,Hit@10,2,1.0104282368026853,1.0
+MLP (Proposed),MC2,Hit@10,3,1.0008805882678886,1.0
+MLP (Proposed),MC2,Hit@10,4,1.0030755931444564,1.0
+MLP (Proposed),MC2,Hit@10,5,0.9876701224714064,1.0
+MLP (Proposed),MC2,ECE,1,0.14001216984798265,0.14
+MLP (Proposed),MC2,ECE,2,0.13924949162406125,0.14
+MLP (Proposed),MC2,ECE,3,0.13993944280787562,0.14
+MLP (Proposed),MC2,ECE,4,0.13939360520707703,0.14
+MLP (Proposed),MC2,ECE,5,0.14140529051300355,0.14
+MLP (Proposed),MC2,Reliability Score,1,0.8152875393639069,0.82
+MLP (Proposed),MC2,Reliability Score,2,0.8181697740916698,0.82
+MLP (Proposed),MC2,Reliability Score,3,0.8264064327224115,0.82
+MLP (Proposed),MC2,Reliability Score,4,0.821174517940584,0.82
+MLP (Proposed),MC2,Reliability Score,5,0.8189617358814277,0.82
+MLP (Proposed),MW1,AUC mean,1,0.6802515887664954,0.67
+MLP (Proposed),MW1,AUC mean,2,0.6701543240350517,0.67
+MLP (Proposed),MW1,AUC mean,3,0.681659999032094,0.67
+MLP (Proposed),MW1,AUC mean,4,0.6652034130138071,0.67
+MLP (Proposed),MW1,AUC mean,5,0.6527306751525519,0.67
+MLP (Proposed),MW1,F1 mean,1,0.2597012417546421,0.26
+MLP (Proposed),MW1,F1 mean,2,0.25985247394849253,0.26
+MLP (Proposed),MW1,F1 mean,3,0.26347022655540553,0.26
+MLP (Proposed),MW1,F1 mean,4,0.2569817610548572,0.26
+MLP (Proposed),MW1,F1 mean,5,0.25999429668660273,0.26
+MLP (Proposed),MW1,Precision mean,1,0.2672250338824786,0.27
+MLP (Proposed),MW1,Precision mean,2,0.2711763279474945,0.27
+MLP (Proposed),MW1,Precision mean,3,0.2727790745168798,0.27
+MLP (Proposed),MW1,Precision mean,4,0.27077439098278877,0.27
+MLP (Proposed),MW1,Precision mean,5,0.26804517267035854,0.27
+MLP (Proposed),MW1,Recall mean,1,0.27040142915987864,0.27
+MLP (Proposed),MW1,Recall mean,2,0.27351006761461244,0.27
+MLP (Proposed),MW1,Recall mean,3,0.27196569430442524,0.27
+MLP (Proposed),MW1,Recall mean,4,0.26801879271702866,0.27
+MLP (Proposed),MW1,Recall mean,5,0.2661040162040553,0.27
+MLP (Proposed),MW1,Brier mean,1,0.11015032069337125,0.11
+MLP (Proposed),MW1,Brier mean,2,0.11103491778327983,0.11
+MLP (Proposed),MW1,Brier mean,3,0.11039678688408411,0.11
+MLP (Proposed),MW1,Brier mean,4,0.10924986031915099,0.11
+MLP (Proposed),MW1,Brier mean,5,0.10916811432011382,0.11
+MLP (Proposed),MW1,GLR mean,1,0.09078107135962976,0.09
+MLP (Proposed),MW1,GLR mean,2,0.09007074618381936,0.09
+MLP (Proposed),MW1,GLR mean,3,0.0890611046090073,0.09
+MLP (Proposed),MW1,GLR mean,4,0.08945528252183357,0.09
+MLP (Proposed),MW1,GLR mean,5,0.09063179532570999,0.09
+MLP (Proposed),MW1,Hit@10,1,1.0062926962827106,1.0
+MLP (Proposed),MW1,Hit@10,2,0.9973836628034533,1.0
+MLP (Proposed),MW1,Hit@10,3,1.0071395592953336,1.0
+MLP (Proposed),MW1,Hit@10,4,0.9989554889782459,1.0
+MLP (Proposed),MW1,Hit@10,5,0.9902285926402561,1.0
+MLP (Proposed),MW1,ECE,1,0.10025047375927894,0.1
+MLP (Proposed),MW1,ECE,2,0.09907300867085013,0.1
+MLP (Proposed),MW1,ECE,3,0.09890744780149319,0.1
+MLP (Proposed),MW1,ECE,4,0.10120484374631573,0.1
+MLP (Proposed),MW1,ECE,5,0.1005642260220621,0.1
+MLP (Proposed),MW1,Reliability Score,1,0.8139524899330866,0.81
+MLP (Proposed),MW1,Reliability Score,2,0.8000428568284015,0.81
+MLP (Proposed),MW1,Reliability Score,3,0.8180480134413788,0.81
+MLP (Proposed),MW1,Reliability Score,4,0.8111875632877384,0.81
+MLP (Proposed),MW1,Reliability Score,5,0.806769076509395,0.81
+MLP (Proposed),PC1,AUC mean,1,0.7457252515292505,0.76
+MLP (Proposed),PC1,AUC mean,2,0.773408780562954,0.76
+MLP (Proposed),PC1,AUC mean,3,0.7496289608413506,0.76
+MLP (Proposed),PC1,AUC mean,4,0.7705505076357589,0.76
+MLP (Proposed),PC1,AUC mean,5,0.7606864994306862,0.76
+MLP (Proposed),PC1,F1 mean,1,0.2882777284949558,0.29
+MLP (Proposed),PC1,F1 mean,2,0.2930844047898652,0.29
+MLP (Proposed),PC1,F1 mean,3,0.28892319073649586,0.29
+MLP (Proposed),PC1,F1 mean,4,0.2888053890389146,0.29
+MLP (Proposed),PC1,F1 mean,5,0.29090928693976825,0.29
+MLP (Proposed),PC1,Precision mean,1,0.3485440726565535,0.35
+MLP (Proposed),PC1,Precision mean,2,0.3464934104193009,0.35
+MLP (Proposed),PC1,Precision mean,3,0.3500507013733709,0.35
+MLP (Proposed),PC1,Precision mean,4,0.35156150915430534,0.35
+MLP (Proposed),PC1,Precision mean,5,0.3533503063964692,0.35
+MLP (Proposed),PC1,Recall mean,1,0.26757522445551535,0.27
+MLP (Proposed),PC1,Recall mean,2,0.2692802051916118,0.27
+MLP (Proposed),PC1,Recall mean,3,0.2664462878718834,0.27
+MLP (Proposed),PC1,Recall mean,4,0.2733749544910905,0.27
+MLP (Proposed),PC1,Recall mean,5,0.2733233279898988,0.27
+MLP (Proposed),PC1,Brier mean,1,0.09976804646011128,0.1
+MLP (Proposed),PC1,Brier mean,2,0.10166058583343675,0.1
+MLP (Proposed),PC1,Brier mean,3,0.09956541273540431,0.1
+MLP (Proposed),PC1,Brier mean,4,0.0994602854574534,0.1
+MLP (Proposed),PC1,Brier mean,5,0.09954566951359435,0.1
+MLP (Proposed),PC1,GLR mean,1,0.08980602346292585,0.09
+MLP (Proposed),PC1,GLR mean,2,0.09008594988416307,0.09
+MLP (Proposed),PC1,GLR mean,3,0.08952520202533303,0.09
+MLP (Proposed),PC1,GLR mean,4,0.09030999421575214,0.09
+MLP (Proposed),PC1,GLR mean,5,0.09027283041182586,0.09
+MLP (Proposed),PC1,Hit@10,1,1.0104116051451737,1.0
+MLP (Proposed),PC1,Hit@10,2,0.9879169156669811,1.0
+MLP (Proposed),PC1,Hit@10,3,1.0039223030142088,1.0
+MLP (Proposed),PC1,Hit@10,4,0.9946582130449744,1.0
+MLP (Proposed),PC1,Hit@10,5,1.0030909631286629,1.0
+MLP (Proposed),PC1,ECE,1,0.10092293314178667,0.1
+MLP (Proposed),PC1,ECE,2,0.09829347279927023,0.1
+MLP (Proposed),PC1,ECE,3,0.10078663409608314,0.1
+MLP (Proposed),PC1,ECE,4,0.09899672831021064,0.1
+MLP (Proposed),PC1,ECE,5,0.10100023165264924,0.1
+MLP (Proposed),PC1,Reliability Score,1,0.8086707594415861,0.81
+MLP (Proposed),PC1,Reliability Score,2,0.8044415074732848,0.81
+MLP (Proposed),PC1,Reliability Score,3,0.8113504852612602,0.81
+MLP (Proposed),PC1,Reliability Score,4,0.8098392611289996,0.81
+MLP (Proposed),PC1,Reliability Score,5,0.815697986694869,0.81
+MLP (Proposed),PC2,AUC mean,1,0.7820840522952006,0.79
+MLP (Proposed),PC2,AUC mean,2,0.7985109868792413,0.79
+MLP (Proposed),PC2,AUC mean,3,0.7872063584893296,0.79
+MLP (Proposed),PC2,AUC mean,4,0.7922978367129948,0.79
+MLP (Proposed),PC2,AUC mean,5,0.7899007656232335,0.79
+MLP (Proposed),PC2,F1 mean,1,0.049865401676407774,0.05
+MLP (Proposed),PC2,F1 mean,2,0.05013115553641931,0.05
+MLP (Proposed),PC2,F1 mean,3,0.049821119929303624,0.05
+MLP (Proposed),PC2,F1 mean,4,0.0492349102671093,0.05
+MLP (Proposed),PC2,F1 mean,5,0.05094741259076004,0.05
+MLP (Proposed),PC2,Precision mean,1,0.05006185579223067,0.05
+MLP (Proposed),PC2,Precision mean,2,0.0498816193379732,0.05
+MLP (Proposed),PC2,Precision mean,3,0.05049532308260636,0.05
+MLP (Proposed),PC2,Precision mean,4,0.049840841864287964,0.05
+MLP (Proposed),PC2,Precision mean,5,0.04972035992290182,0.05
+MLP (Proposed),PC2,Recall mean,1,0.05046504341051184,0.05
+MLP (Proposed),PC2,Recall mean,2,0.049445931247272444,0.05
+MLP (Proposed),PC2,Recall mean,3,0.050425065195433896,0.05
+MLP (Proposed),PC2,Recall mean,4,0.05070144235629037,0.05
+MLP (Proposed),PC2,Recall mean,5,0.04896251779049147,0.05
+MLP (Proposed),PC2,Brier mean,1,0.009881055832835392,0.01
+MLP (Proposed),PC2,Brier mean,2,0.010028773936673731,0.01
+MLP (Proposed),PC2,Brier mean,3,0.010146655885313025,0.01
+MLP (Proposed),PC2,Brier mean,4,0.009963686141541615,0.01
+MLP (Proposed),PC2,Brier mean,5,0.009979828203636241,0.01
+MLP (Proposed),PC2,GLR mean,1,0.128416316296871,0.13
+MLP (Proposed),PC2,GLR mean,2,0.13192998093501515,0.13
+MLP (Proposed),PC2,GLR mean,3,0.12919078712179108,0.13
+MLP (Proposed),PC2,GLR mean,4,0.12901119170314457,0.13
+MLP (Proposed),PC2,GLR mean,5,0.1314517239431782,0.13
+MLP (Proposed),PC2,Hit@10,1,1.0095614486170128,1.0
+MLP (Proposed),PC2,Hit@10,2,1.0036125509252547,1.0
+MLP (Proposed),PC2,Hit@10,3,0.9919086130499315,1.0
+MLP (Proposed),PC2,Hit@10,4,0.9990302383802651,1.0
+MLP (Proposed),PC2,Hit@10,5,0.995887149027536,1.0
+MLP (Proposed),PC2,ECE,1,0.010000937292996321,0.01
+MLP (Proposed),PC2,ECE,2,0.010141921164841207,0.01
+MLP (Proposed),PC2,ECE,3,0.010075046457022141,0.01
+MLP (Proposed),PC2,ECE,4,0.009901303909718717,0.01
+MLP (Proposed),PC2,ECE,5,0.009880791175421618,0.01
+MLP (Proposed),PC2,Reliability Score,1,0.8570982300149743,0.85
+MLP (Proposed),PC2,Reliability Score,2,0.8589274439510481,0.85
+MLP (Proposed),PC2,Reliability Score,3,0.8483515049232281,0.85
+MLP (Proposed),PC2,Reliability Score,4,0.8456573721023672,0.85
+MLP (Proposed),PC2,Reliability Score,5,0.8399654490083823,0.85
+MLP (Proposed),PC3,AUC mean,1,0.742918606544216,0.74
+MLP (Proposed),PC3,AUC mean,2,0.7411752857341455,0.74
+MLP (Proposed),PC3,AUC mean,3,0.7407194202658122,0.74
+MLP (Proposed),PC3,AUC mean,4,0.7415168866515873,0.74
+MLP (Proposed),PC3,AUC mean,5,0.7336698008042387,0.74
+MLP (Proposed),PC3,F1 mean,1,0.32239695198820306,0.32
+MLP (Proposed),PC3,F1 mean,2,0.3203301588446842,0.32
+MLP (Proposed),PC3,F1 mean,3,0.32048108164816363,0.32
+MLP (Proposed),PC3,F1 mean,4,0.31506662284011344,0.32
+MLP (Proposed),PC3,F1 mean,5,0.32172518467883554,0.32
+MLP (Proposed),PC3,Precision mean,1,0.399417519026745,0.4
+MLP (Proposed),PC3,Precision mean,2,0.4005802150199273,0.4
+MLP (Proposed),PC3,Precision mean,3,0.39332684341389174,0.4
+MLP (Proposed),PC3,Precision mean,4,0.40395058829287844,0.4
+MLP (Proposed),PC3,Precision mean,5,0.4027248342465577,0.4
+MLP (Proposed),PC3,Recall mean,1,0.2785254405383804,0.28
+MLP (Proposed),PC3,Recall mean,2,0.27883942962068264,0.28
+MLP (Proposed),PC3,Recall mean,3,0.2828551602460448,0.28
+MLP (Proposed),PC3,Recall mean,4,0.28046500963175125,0.28
+MLP (Proposed),PC3,Recall mean,5,0.2793149599631412,0.28
+MLP (Proposed),PC3,Brier mean,1,0.11934134309640414,0.12
+MLP (Proposed),PC3,Brier mean,2,0.1197465173139475,0.12
+MLP (Proposed),PC3,Brier mean,3,0.12152491320582623,0.12
+MLP (Proposed),PC3,Brier mean,4,0.11949357586115178,0.12
+MLP (Proposed),PC3,Brier mean,5,0.11989365052267026,0.12
+MLP (Proposed),PC3,GLR mean,1,0.15092657654165617,0.15
+MLP (Proposed),PC3,GLR mean,2,0.15158827196313018,0.15
+MLP (Proposed),PC3,GLR mean,3,0.14902831417833723,0.15
+MLP (Proposed),PC3,GLR mean,4,0.14854490743722634,0.15
+MLP (Proposed),PC3,GLR mean,5,0.14991192987964996,0.15
+MLP (Proposed),PC3,Hit@10,1,1.0012657813678605,1.0
+MLP (Proposed),PC3,Hit@10,2,0.9858855380322833,1.0
+MLP (Proposed),PC3,Hit@10,3,1.0200505085893627,1.0
+MLP (Proposed),PC3,Hit@10,4,0.9888473190636697,1.0
+MLP (Proposed),PC3,Hit@10,5,1.0039508529468237,1.0
+MLP (Proposed),PC3,ECE,1,0.10919470794112496,0.11
+MLP (Proposed),PC3,ECE,2,0.11099482548872772,0.11
+MLP (Proposed),PC3,ECE,3,0.1121729930883753,0.11
+MLP (Proposed),PC3,ECE,4,0.10953794981242515,0.11
+MLP (Proposed),PC3,ECE,5,0.10809952366934697,0.11
+MLP (Proposed),PC3,Reliability Score,1,0.844362178243872,0.84
+MLP (Proposed),PC3,Reliability Score,2,0.8401253630179262,0.84
+MLP (Proposed),PC3,Reliability Score,3,0.8258350848193966,0.84
+MLP (Proposed),PC3,Reliability Score,4,0.8539704457452026,0.84
+MLP (Proposed),PC3,Reliability Score,5,0.8357069281736025,0.84
+MLP (Proposed),PC4,AUC mean,1,0.8858231258396276,0.9
+MLP (Proposed),PC4,AUC mean,2,0.9130116228149066,0.9
+MLP (Proposed),PC4,AUC mean,3,0.898816166377634,0.9
+MLP (Proposed),PC4,AUC mean,4,0.9012454737474057,0.9
+MLP (Proposed),PC4,AUC mean,5,0.9011036112204257,0.9
+MLP (Proposed),PC4,F1 mean,1,0.5127017715758219,0.5
+MLP (Proposed),PC4,F1 mean,2,0.5029670997497622,0.5
+MLP (Proposed),PC4,F1 mean,3,0.4965169277912759,0.5
+MLP (Proposed),PC4,F1 mean,4,0.48847001878078866,0.5
+MLP (Proposed),PC4,F1 mean,5,0.4993441821023511,0.5
+MLP (Proposed),PC4,Precision mean,1,0.5156777335295597,0.51
+MLP (Proposed),PC4,Precision mean,2,0.5042407511725088,0.51
+MLP (Proposed),PC4,Precision mean,3,0.5045607559908081,0.51
+MLP (Proposed),PC4,Precision mean,4,0.5150798143119969,0.51
+MLP (Proposed),PC4,Precision mean,5,0.5104409449951262,0.51
+MLP (Proposed),PC4,Recall mean,1,0.47703066518544934,0.48
+MLP (Proposed),PC4,Recall mean,2,0.48122544172189774,0.48
+MLP (Proposed),PC4,Recall mean,3,0.4797773517125332,0.48
+MLP (Proposed),PC4,Recall mean,4,0.48191840200693437,0.48
+MLP (Proposed),PC4,Recall mean,5,0.48004813937318536,0.48
+MLP (Proposed),PC4,Brier mean,1,0.10006216695385634,0.1
+MLP (Proposed),PC4,Brier mean,2,0.09859507687021596,0.1
+MLP (Proposed),PC4,Brier mean,3,0.10059883662653328,0.1
+MLP (Proposed),PC4,Brier mean,4,0.10032901200550086,0.1
+MLP (Proposed),PC4,Brier mean,5,0.10041490754389364,0.1
+MLP (Proposed),PC4,GLR mean,1,0.13154847943192616,0.13
+MLP (Proposed),PC4,GLR mean,2,0.13066748880073545,0.13
+MLP (Proposed),PC4,GLR mean,3,0.13032447484753001,0.13
+MLP (Proposed),PC4,GLR mean,4,0.12657395204886865,0.13
+MLP (Proposed),PC4,GLR mean,5,0.1308856048709397,0.13
+MLP (Proposed),PC4,Hit@10,1,0.9730451811286915,1.0
+MLP (Proposed),PC4,Hit@10,2,1.0065001242775278,1.0
+MLP (Proposed),PC4,Hit@10,3,1.0099951166665952,1.0
+MLP (Proposed),PC4,Hit@10,4,1.009579640194826,1.0
+MLP (Proposed),PC4,Hit@10,5,1.0008799377323594,1.0
+MLP (Proposed),PC4,ECE,1,0.08018209597028056,0.08
+MLP (Proposed),PC4,ECE,2,0.08058503174936064,0.08
+MLP (Proposed),PC4,ECE,3,0.0793037242559685,0.08
+MLP (Proposed),PC4,ECE,4,0.07941455626683651,0.08
+MLP (Proposed),PC4,ECE,5,0.08051459175755375,0.08
+MLP (Proposed),PC4,Reliability Score,1,0.8386187517291269,0.84
+MLP (Proposed),PC4,Reliability Score,2,0.8568434137380546,0.84
+MLP (Proposed),PC4,Reliability Score,3,0.8348852104664144,0.84
+MLP (Proposed),PC4,Reliability Score,4,0.8399520911000434,0.84
+MLP (Proposed),PC4,Reliability Score,5,0.8297005329663603,0.84
+Random Forest (Proposed),CM1,AUC mean,1,0.7370559967733473,0.73
+Random Forest (Proposed),CM1,AUC mean,2,0.7314543366031754,0.73
+Random Forest (Proposed),CM1,AUC mean,3,0.7229901451661759,0.73
+Random Forest (Proposed),CM1,AUC mean,4,0.7208042475590117,0.73
+Random Forest (Proposed),CM1,AUC mean,5,0.7376952738982898,0.73
+Random Forest (Proposed),CM1,F1 mean,1,0.2279770721489388,0.23
+Random Forest (Proposed),CM1,F1 mean,2,0.22963566872976174,0.23
+Random Forest (Proposed),CM1,F1 mean,3,0.2297274657761774,0.23
+Random Forest (Proposed),CM1,F1 mean,4,0.2288845757539676,0.23
+Random Forest (Proposed),CM1,F1 mean,5,0.23377521759115444,0.23
+Random Forest (Proposed),CM1,Precision mean,1,0.30014239798423825,0.3
+Random Forest (Proposed),CM1,Precision mean,2,0.2990726817688679,0.3
+Random Forest (Proposed),CM1,Precision mean,3,0.2978513696069361,0.3
+Random Forest (Proposed),CM1,Precision mean,4,0.30335890281442407,0.3
+Random Forest (Proposed),CM1,Precision mean,5,0.29957464782553367,0.3
+Random Forest (Proposed),CM1,Recall mean,1,0.24185646556013576,0.24
+Random Forest (Proposed),CM1,Recall mean,2,0.24018146299172524,0.24
+Random Forest (Proposed),CM1,Recall mean,3,0.23777051217046366,0.24
+Random Forest (Proposed),CM1,Recall mean,4,0.2399669451559812,0.24
+Random Forest (Proposed),CM1,Recall mean,5,0.24022461412169416,0.24
+Random Forest (Proposed),CM1,Brier mean,1,0.12879712396140114,0.13
+Random Forest (Proposed),CM1,Brier mean,2,0.1301932947733384,0.13
+Random Forest (Proposed),CM1,Brier mean,3,0.13034039070207568,0.13
+Random Forest (Proposed),CM1,Brier mean,4,0.12998932905798494,0.13
+Random Forest (Proposed),CM1,Brier mean,5,0.13067986150519986,0.13
+Random Forest (Proposed),CM1,GLR mean,1,0.07961890920770921,0.08
+Random Forest (Proposed),CM1,GLR mean,2,0.08099420057435917,0.08
+Random Forest (Proposed),CM1,GLR mean,3,0.08176346729231071,0.08
+Random Forest (Proposed),CM1,GLR mean,4,0.07941177226236351,0.08
+Random Forest (Proposed),CM1,GLR mean,5,0.07821165066325743,0.08
+Random Forest (Proposed),CM1,Hit@10,1,1.0035860384790902,1.0
+Random Forest (Proposed),CM1,Hit@10,2,1.0043185902636451,1.0
+Random Forest (Proposed),CM1,Hit@10,3,1.0013404478892238,1.0
+Random Forest (Proposed),CM1,Hit@10,4,0.9872374431503766,1.0
+Random Forest (Proposed),CM1,Hit@10,5,1.0035174802176645,1.0
+Random Forest (Proposed),CM1,ECE,1,0.11053666124916157,0.11
+Random Forest (Proposed),CM1,ECE,2,0.10869683097673051,0.11
+Random Forest (Proposed),CM1,ECE,3,0.11161380130411269,0.11
+Random Forest (Proposed),CM1,ECE,4,0.10869101104181625,0.11
+Random Forest (Proposed),CM1,ECE,5,0.11046169542817896,0.11
+Random Forest (Proposed),CM1,Reliability Score,1,0.8073025889911216,0.81
+Random Forest (Proposed),CM1,Reliability Score,2,0.7966918777189719,0.81
+Random Forest (Proposed),CM1,Reliability Score,3,0.8084753433966901,0.81
+Random Forest (Proposed),CM1,Reliability Score,4,0.8075443857642872,0.81
+Random Forest (Proposed),CM1,Reliability Score,5,0.8299858041289294,0.81
+Random Forest (Proposed),MC1,AUC mean,1,0.9828924098726177,0.98
+Random Forest (Proposed),MC1,AUC mean,2,0.9909078061357249,0.98
+Random Forest (Proposed),MC1,AUC mean,3,0.9869765643356,0.98
+Random Forest (Proposed),MC1,AUC mean,4,0.9728373891237655,0.98
+Random Forest (Proposed),MC1,AUC mean,5,0.9663858305322925,0.98
+Random Forest (Proposed),MC1,F1 mean,1,0.4675172870875808,0.46
+Random Forest (Proposed),MC1,F1 mean,2,0.4541312479021888,0.46
+Random Forest (Proposed),MC1,F1 mean,3,0.4593990258206874,0.46
+Random Forest (Proposed),MC1,F1 mean,4,0.45649741123259185,0.46
+Random Forest (Proposed),MC1,F1 mean,5,0.4624550279569513,0.46
+Random Forest (Proposed),MC1,Precision mean,1,0.5301383502485488,0.52
+Random Forest (Proposed),MC1,Precision mean,2,0.5186849055291398,0.52
+Random Forest (Proposed),MC1,Precision mean,3,0.5143913081568567,0.52
+Random Forest (Proposed),MC1,Precision mean,4,0.525215668396281,0.52
+Random Forest (Proposed),MC1,Precision mean,5,0.5115697676691742,0.52
+Random Forest (Proposed),MC1,Recall mean,1,0.4317540344209451,0.43
+Random Forest (Proposed),MC1,Recall mean,2,0.42764672775302276,0.43
+Random Forest (Proposed),MC1,Recall mean,3,0.4324760017946017,0.43
+Random Forest (Proposed),MC1,Recall mean,4,0.4321729937716157,0.43
+Random Forest (Proposed),MC1,Recall mean,5,0.4259502422598148,0.43
+Random Forest (Proposed),MC1,Brier mean,1,0.010170865412232187,0.01
+Random Forest (Proposed),MC1,Brier mean,2,0.010122616432440518,0.01
+Random Forest (Proposed),MC1,Brier mean,3,0.009893435195327378,0.01
+Random Forest (Proposed),MC1,Brier mean,4,0.009870254037657445,0.01
+Random Forest (Proposed),MC1,Brier mean,5,0.009942828922342481,0.01
+Random Forest (Proposed),MC1,GLR mean,1,0.21735482138619294,0.22
+Random Forest (Proposed),MC1,GLR mean,2,0.21788857023152866,0.22
+Random Forest (Proposed),MC1,GLR mean,3,0.22255353125277633,0.22
+Random Forest (Proposed),MC1,GLR mean,4,0.22030797528369236,0.22
+Random Forest (Proposed),MC1,GLR mean,5,0.22189510184580968,0.22
+Random Forest (Proposed),MC1,Hit@10,1,1.0164224147170042,1.0
+Random Forest (Proposed),MC1,Hit@10,2,0.9938905094934417,1.0
+Random Forest (Proposed),MC1,Hit@10,3,0.9896695971246903,1.0
+Random Forest (Proposed),MC1,Hit@10,4,0.9946962374559742,1.0
+Random Forest (Proposed),MC1,Hit@10,5,1.0053212412088899,1.0
+Random Forest (Proposed),MC1,ECE,1,0.010121135074657018,0.01
+Random Forest (Proposed),MC1,ECE,2,0.009910235037070407,0.01
+Random Forest (Proposed),MC1,ECE,3,0.01002931745333451,0.01
+Random Forest (Proposed),MC1,ECE,4,0.009949304443990096,0.01
+Random Forest (Proposed),MC1,ECE,5,0.009990007990947968,0.01
+Random Forest (Proposed),MC1,Reliability Score,1,0.8591006266883962,0.87
+Random Forest (Proposed),MC1,Reliability Score,2,0.8769477574265422,0.87
+Random Forest (Proposed),MC1,Reliability Score,3,0.8796468308317504,0.87
+Random Forest (Proposed),MC1,Reliability Score,4,0.8710925501409719,0.87
+Random Forest (Proposed),MC1,Reliability Score,5,0.8632122349123401,0.87
+Random Forest (Proposed),MC2,AUC mean,1,0.7334935544405319,0.73
+Random Forest (Proposed),MC2,AUC mean,2,0.7327382514816785,0.73
+Random Forest (Proposed),MC2,AUC mean,3,0.725640036681099,0.73
+Random Forest (Proposed),MC2,AUC mean,4,0.7264387784555565,0.73
+Random Forest (Proposed),MC2,AUC mean,5,0.7316893789411344,0.73
+Random Forest (Proposed),MC2,F1 mean,1,0.46889347926537683,0.47
+Random Forest (Proposed),MC2,F1 mean,2,0.4673057387679886,0.47
+Random Forest (Proposed),MC2,F1 mean,3,0.47011536588756525,0.47
+Random Forest (Proposed),MC2,F1 mean,4,0.47054341071046024,0.47
+Random Forest (Proposed),MC2,F1 mean,5,0.4731420053686092,0.47
+Random Forest (Proposed),MC2,Precision mean,1,0.5459955624458513,0.54
+Random Forest (Proposed),MC2,Precision mean,2,0.537861569139585,0.54
+Random Forest (Proposed),MC2,Precision mean,3,0.5420582017638224,0.54
+Random Forest (Proposed),MC2,Precision mean,4,0.5435773245599889,0.54
+Random Forest (Proposed),MC2,Precision mean,5,0.5305073420907529,0.54
+Random Forest (Proposed),MC2,Recall mean,1,0.438542113694064,0.44
+Random Forest (Proposed),MC2,Recall mean,2,0.4371163020562167,0.44
+Random Forest (Proposed),MC2,Recall mean,3,0.43968184260552967,0.44
+Random Forest (Proposed),MC2,Recall mean,4,0.4473023072016089,0.44
+Random Forest (Proposed),MC2,Recall mean,5,0.4373574344425806,0.44
+Random Forest (Proposed),MC2,Brier mean,1,0.19079471620836494,0.19
+Random Forest (Proposed),MC2,Brier mean,2,0.1912072854526014,0.19
+Random Forest (Proposed),MC2,Brier mean,3,0.19039410895912015,0.19
+Random Forest (Proposed),MC2,Brier mean,4,0.19041271482909322,0.19
+Random Forest (Proposed),MC2,Brier mean,5,0.18719117455082032,0.19
+Random Forest (Proposed),MC2,GLR mean,1,0.01998749779233808,0.02
+Random Forest (Proposed),MC2,GLR mean,2,0.0200189140041566,0.02
+Random Forest (Proposed),MC2,GLR mean,3,0.01997978967235339,0.02
+Random Forest (Proposed),MC2,GLR mean,4,0.019871172577050563,0.02
+Random Forest (Proposed),MC2,GLR mean,5,0.02014262595410138,0.02
+Random Forest (Proposed),MC2,Hit@10,1,1.0095996074381193,1.0
+Random Forest (Proposed),MC2,Hit@10,2,0.9962444026664288,1.0
+Random Forest (Proposed),MC2,Hit@10,3,1.003740390949504,1.0
+Random Forest (Proposed),MC2,Hit@10,4,0.99531884232156,1.0
+Random Forest (Proposed),MC2,Hit@10,5,0.9950967566243885,1.0
+Random Forest (Proposed),MC2,ECE,1,0.08022339974357728,0.08
+Random Forest (Proposed),MC2,ECE,2,0.08003871249647797,0.08
+Random Forest (Proposed),MC2,ECE,3,0.08096616849869336,0.08
+Random Forest (Proposed),MC2,ECE,4,0.07868238468241144,0.08
+Random Forest (Proposed),MC2,ECE,5,0.08008933457883997,0.08
+Random Forest (Proposed),MC2,Reliability Score,1,0.810225652884682,0.81
+Random Forest (Proposed),MC2,Reliability Score,2,0.8107336459116958,0.81
+Random Forest (Proposed),MC2,Reliability Score,3,0.8117335942246645,0.81
+Random Forest (Proposed),MC2,Reliability Score,4,0.8106994172046094,0.81
+Random Forest (Proposed),MC2,Reliability Score,5,0.8066076897743488,0.81
+Random Forest (Proposed),MW1,AUC mean,1,0.7890099063719718,0.79
+Random Forest (Proposed),MW1,AUC mean,2,0.8030538404596803,0.79
+Random Forest (Proposed),MW1,AUC mean,3,0.775100967188119,0.79
+Random Forest (Proposed),MW1,AUC mean,4,0.7870759089113768,0.79
+Random Forest (Proposed),MW1,AUC mean,5,0.7957593770688522,0.79
+Random Forest (Proposed),MW1,F1 mean,1,0.3271615523821538,0.33
+Random Forest (Proposed),MW1,F1 mean,2,0.33143660858947604,0.33
+Random Forest (Proposed),MW1,F1 mean,3,0.32746090113492954,0.33
+Random Forest (Proposed),MW1,F1 mean,4,0.3351963737465342,0.33
+Random Forest (Proposed),MW1,F1 mean,5,0.3287445641469064,0.33
+Random Forest (Proposed),MW1,Precision mean,1,0.33908639805751906,0.34
+Random Forest (Proposed),MW1,Precision mean,2,0.3405195721256241,0.34
+Random Forest (Proposed),MW1,Precision mean,3,0.343154631647334,0.34
+Random Forest (Proposed),MW1,Precision mean,4,0.33958483867754924,0.34
+Random Forest (Proposed),MW1,Precision mean,5,0.337654559491974,0.34
+Random Forest (Proposed),MW1,Recall mean,1,0.3505608431853798,0.35
+Random Forest (Proposed),MW1,Recall mean,2,0.34788320625181895,0.35
+Random Forest (Proposed),MW1,Recall mean,3,0.35101328142684846,0.35
+Random Forest (Proposed),MW1,Recall mean,4,0.35111454072320697,0.35
+Random Forest (Proposed),MW1,Recall mean,5,0.34942812841274573,0.35
+Random Forest (Proposed),MW1,Brier mean,1,0.08022619159329006,0.08
+Random Forest (Proposed),MW1,Brier mean,2,0.08053794978038593,0.08
+Random Forest (Proposed),MW1,Brier mean,3,0.07825933213803186,0.08
+Random Forest (Proposed),MW1,Brier mean,4,0.08118468604068907,0.08
+Random Forest (Proposed),MW1,Brier mean,5,0.07979184044760305,0.08
+Random Forest (Proposed),MW1,GLR mean,1,0.020099014991234107,0.02
+Random Forest (Proposed),MW1,GLR mean,2,0.01976885559903443,0.02
+Random Forest (Proposed),MW1,GLR mean,3,0.019627312682754885,0.02
+Random Forest (Proposed),MW1,GLR mean,4,0.02041095969250986,0.02
+Random Forest (Proposed),MW1,GLR mean,5,0.020093857034466707,0.02
+Random Forest (Proposed),MW1,Hit@10,1,1.0107735993510278,1.0
+Random Forest (Proposed),MW1,Hit@10,2,1.0051464485890098,1.0
+Random Forest (Proposed),MW1,Hit@10,3,0.9872333308210888,1.0
+Random Forest (Proposed),MW1,Hit@10,4,0.9975050873034198,1.0
+Random Forest (Proposed),MW1,Hit@10,5,0.9993415339354533,1.0
+Random Forest (Proposed),MW1,ECE,1,0.09023489722595436,0.09
+Random Forest (Proposed),MW1,ECE,2,0.09012335628527399,0.09
+Random Forest (Proposed),MW1,ECE,3,0.09088834822900309,0.09
+Random Forest (Proposed),MW1,ECE,4,0.08943915280455386,0.09
+Random Forest (Proposed),MW1,ECE,5,0.08931424545521476,0.09
+Random Forest (Proposed),MW1,Reliability Score,1,0.806438385649793,0.81
+Random Forest (Proposed),MW1,Reliability Score,2,0.8126042978010638,0.81
+Random Forest (Proposed),MW1,Reliability Score,3,0.8051168378764366,0.81
+Random Forest (Proposed),MW1,Reliability Score,4,0.8083851089625101,0.81
+Random Forest (Proposed),MW1,Reliability Score,5,0.8174553697101969,0.81
+Random Forest (Proposed),PC1,AUC mean,1,0.8824714619678947,0.87
+Random Forest (Proposed),PC1,AUC mean,2,0.8725254744889887,0.87
+Random Forest (Proposed),PC1,AUC mean,3,0.8527211915134761,0.87
+Random Forest (Proposed),PC1,AUC mean,4,0.8660912318235691,0.87
+Random Forest (Proposed),PC1,AUC mean,5,0.8761906402060718,0.87
+Random Forest (Proposed),PC1,F1 mean,1,0.42212449978312633,0.42
+Random Forest (Proposed),PC1,F1 mean,2,0.41601010625931717,0.42
+Random Forest (Proposed),PC1,F1 mean,3,0.4219448523915435,0.42
+Random Forest (Proposed),PC1,F1 mean,4,0.4181191857746972,0.42
+Random Forest (Proposed),PC1,F1 mean,5,0.4218013557913155,0.42
+Random Forest (Proposed),PC1,Precision mean,1,0.43610925326183725,0.44
+Random Forest (Proposed),PC1,Precision mean,2,0.4407522302403037,0.44
+Random Forest (Proposed),PC1,Precision mean,3,0.440854646273462,0.44
+Random Forest (Proposed),PC1,Precision mean,4,0.44368934532821264,0.44
+Random Forest (Proposed),PC1,Precision mean,5,0.43859452489618445,0.44
+Random Forest (Proposed),PC1,Recall mean,1,0.4246270980521367,0.42
+Random Forest (Proposed),PC1,Recall mean,2,0.41878165936660994,0.42
+Random Forest (Proposed),PC1,Recall mean,3,0.4220148375905286,0.42
+Random Forest (Proposed),PC1,Recall mean,4,0.4136394945990303,0.42
+Random Forest (Proposed),PC1,Recall mean,5,0.42093691039169445,0.42
+Random Forest (Proposed),PC1,Brier mean,1,0.06932918298088833,0.07
+Random Forest (Proposed),PC1,Brier mean,2,0.07042846402005164,0.07
+Random Forest (Proposed),PC1,Brier mean,3,0.06959071849101785,0.07
+Random Forest (Proposed),PC1,Brier mean,4,0.07034245702020912,0.07
+Random Forest (Proposed),PC1,Brier mean,5,0.07030917748783304,0.07
+Random Forest (Proposed),PC1,GLR mean,1,0.009956349775155431,0.01
+Random Forest (Proposed),PC1,GLR mean,2,0.010013786030876907,0.01
+Random Forest (Proposed),PC1,GLR mean,3,0.010207437867582117,0.01
+Random Forest (Proposed),PC1,GLR mean,4,0.009951096160435127,0.01
+Random Forest (Proposed),PC1,GLR mean,5,0.009871330165950414,0.01
+Random Forest (Proposed),PC1,Hit@10,1,0.9940852182922412,1.0
+Random Forest (Proposed),PC1,Hit@10,2,1.0028863579999698,1.0
+Random Forest (Proposed),PC1,Hit@10,3,1.0050126288115382,1.0
+Random Forest (Proposed),PC1,Hit@10,4,0.9986948289035965,1.0
+Random Forest (Proposed),PC1,Hit@10,5,0.9993209659926545,1.0
+Random Forest (Proposed),PC1,ECE,1,0.07011389897774406,0.07
+Random Forest (Proposed),PC1,ECE,2,0.06847439203011171,0.07
+Random Forest (Proposed),PC1,ECE,3,0.07058030293043235,0.07
+Random Forest (Proposed),PC1,ECE,4,0.07031310171874776,0.07
+Random Forest (Proposed),PC1,ECE,5,0.0705183043429641,0.07
+Random Forest (Proposed),PC1,Reliability Score,1,0.8141953884168847,0.81
+Random Forest (Proposed),PC1,Reliability Score,2,0.8119371844432209,0.81
+Random Forest (Proposed),PC1,Reliability Score,3,0.8151288535886279,0.81
+Random Forest (Proposed),PC1,Reliability Score,4,0.8065559961845906,0.81
+Random Forest (Proposed),PC1,Reliability Score,5,0.8021825773666764,0.81
+Random Forest (Proposed),PC2,AUC mean,1,0.9046774268559901,0.9
+Random Forest (Proposed),PC2,AUC mean,2,0.8856243070716283,0.9
+Random Forest (Proposed),PC2,AUC mean,3,0.9102908526820668,0.9
+Random Forest (Proposed),PC2,AUC mean,4,0.8964602617114777,0.9
+Random Forest (Proposed),PC2,AUC mean,5,0.9029471516788372,0.9
+Random Forest (Proposed),PC2,F1 mean,1,0.029924940377464505,0.03
+Random Forest (Proposed),PC2,F1 mean,2,0.030137272954906563,0.03
+Random Forest (Proposed),PC2,F1 mean,3,0.030377365210720278,0.03
+Random Forest (Proposed),PC2,F1 mean,4,0.029829227551222835,0.03
+Random Forest (Proposed),PC2,F1 mean,5,0.02973119390568581,0.03
+Random Forest (Proposed),PC2,Precision mean,1,0.019968819196028876,0.02
+Random Forest (Proposed),PC2,Precision mean,2,0.019808746277905978,0.02
+Random Forest (Proposed),PC2,Precision mean,3,0.020285140859443797,0.02
+Random Forest (Proposed),PC2,Precision mean,4,0.019954768119283626,0.02
+Random Forest (Proposed),PC2,Precision mean,5,0.01998252554733773,0.02
+Random Forest (Proposed),PC2,Recall mean,1,0.039816265906366374,0.04
+Random Forest (Proposed),PC2,Recall mean,2,0.03947553855502786,0.04
+Random Forest (Proposed),PC2,Recall mean,3,0.039465159583853424,0.04
+Random Forest (Proposed),PC2,Recall mean,4,0.04068199684956639,0.04
+Random Forest (Proposed),PC2,Recall mean,5,0.04056103910518598,0.04
+Random Forest (Proposed),PC2,Brier mean,1,0.00998185629861121,0.01
+Random Forest (Proposed),PC2,Brier mean,2,0.010027115002789567,0.01
+Random Forest (Proposed),PC2,Brier mean,3,0.010087726257195707,0.01
+Random Forest (Proposed),PC2,Brier mean,4,0.009980602070227863,0.01
+Random Forest (Proposed),PC2,Brier mean,5,0.009922700371175654,0.01
+Random Forest (Proposed),PC2,GLR mean,1,0.11919282999828794,0.12
+Random Forest (Proposed),PC2,GLR mean,2,0.1197000940483631,0.12
+Random Forest (Proposed),PC2,GLR mean,3,0.12065646911472774,0.12
+Random Forest (Proposed),PC2,GLR mean,4,0.12095978212515436,0.12
+Random Forest (Proposed),PC2,GLR mean,5,0.11949082471346681,0.12
+Random Forest (Proposed),PC2,Hit@10,1,1.001654378990277,1.0
+Random Forest (Proposed),PC2,Hit@10,2,0.9960624315233071,1.0
+Random Forest (Proposed),PC2,Hit@10,3,1.0101050046169515,1.0
+Random Forest (Proposed),PC2,Hit@10,4,0.9851358706741141,1.0
+Random Forest (Proposed),PC2,Hit@10,5,1.0070423141953504,1.0
+Random Forest (Proposed),PC2,ECE,1,0.009881617138219563,0.01
+Random Forest (Proposed),PC2,ECE,2,0.010040500535082111,0.01
+Random Forest (Proposed),PC2,ECE,3,0.010099328845248712,0.01
+Random Forest (Proposed),PC2,ECE,4,0.010002990840687585,0.01
+Random Forest (Proposed),PC2,ECE,5,0.00997556264076202,0.01
+Random Forest (Proposed),PC2,Reliability Score,1,0.8598576028224468,0.85
+Random Forest (Proposed),PC2,Reliability Score,2,0.8528645520281594,0.85
+Random Forest (Proposed),PC2,Reliability Score,3,0.845563927604829,0.85
+Random Forest (Proposed),PC2,Reliability Score,4,0.8449574277032615,0.85
+Random Forest (Proposed),PC2,Reliability Score,5,0.846756489841303,0.85
+Random Forest (Proposed),PC3,AUC mean,1,0.8449397057756696,0.84
+Random Forest (Proposed),PC3,AUC mean,2,0.8317921362076603,0.84
+Random Forest (Proposed),PC3,AUC mean,3,0.8460854912633103,0.84
+Random Forest (Proposed),PC3,AUC mean,4,0.8337704434205269,0.84
+Random Forest (Proposed),PC3,AUC mean,5,0.8434122233328333,0.84
+Random Forest (Proposed),PC3,F1 mean,1,0.3886568425181637,0.39
+Random Forest (Proposed),PC3,F1 mean,2,0.3883749383231958,0.39
+Random Forest (Proposed),PC3,F1 mean,3,0.3912587946032354,0.39
+Random Forest (Proposed),PC3,F1 mean,4,0.38890170287470993,0.39
+Random Forest (Proposed),PC3,F1 mean,5,0.39280772168069517,0.39
+Random Forest (Proposed),PC3,Precision mean,1,0.3815460511284674,0.38
+Random Forest (Proposed),PC3,Precision mean,2,0.3766753743817993,0.38
+Random Forest (Proposed),PC3,Precision mean,3,0.37632111854574746,0.38
+Random Forest (Proposed),PC3,Precision mean,4,0.3783649210457726,0.38
+Random Forest (Proposed),PC3,Precision mean,5,0.3870925348982134,0.38
+Random Forest (Proposed),PC3,Recall mean,1,0.4118263428522224,0.41
+Random Forest (Proposed),PC3,Recall mean,2,0.40696283681219075,0.41
+Random Forest (Proposed),PC3,Recall mean,3,0.4096290991308729,0.41
+Random Forest (Proposed),PC3,Recall mean,4,0.4154549224571549,0.41
+Random Forest (Proposed),PC3,Recall mean,5,0.40612679874755886,0.41
+Random Forest (Proposed),PC3,Brier mean,1,0.09082180983179565,0.09
+Random Forest (Proposed),PC3,Brier mean,2,0.09106462998960085,0.09
+Random Forest (Proposed),PC3,Brier mean,3,0.08906611795476273,0.09
+Random Forest (Proposed),PC3,Brier mean,4,0.0901473085960277,0.09
+Random Forest (Proposed),PC3,Brier mean,5,0.08890013362781303,0.09
+Random Forest (Proposed),PC3,GLR mean,1,-0.020208705348833518,-0.02
+Random Forest (Proposed),PC3,GLR mean,2,-0.019937148853388556,-0.02
+Random Forest (Proposed),PC3,GLR mean,3,-0.01977988577545302,-0.02
+Random Forest (Proposed),PC3,GLR mean,4,-0.020057080723809236,-0.02
+Random Forest (Proposed),PC3,GLR mean,5,-0.020017179298515674,-0.02
+Random Forest (Proposed),PC3,Hit@10,1,1.0027856325550426,1.0
+Random Forest (Proposed),PC3,Hit@10,2,0.9853320561266335,1.0
+Random Forest (Proposed),PC3,Hit@10,3,1.018109189305653,1.0
+Random Forest (Proposed),PC3,Hit@10,4,1.0031448596159778,1.0
+Random Forest (Proposed),PC3,Hit@10,5,0.9906282623966929,1.0
+Random Forest (Proposed),PC3,ECE,1,0.08103296273418577,0.08
+Random Forest (Proposed),PC3,ECE,2,0.07994185122208648,0.08
+Random Forest (Proposed),PC3,ECE,3,0.07921878383241497,0.08
+Random Forest (Proposed),PC3,ECE,4,0.07958230818127841,0.08
+Random Forest (Proposed),PC3,ECE,5,0.08022409403003437,0.08
+Random Forest (Proposed),PC3,Reliability Score,1,0.8007445336693058,0.8
+Random Forest (Proposed),PC3,Reliability Score,2,0.801018042630093,0.8
+Random Forest (Proposed),PC3,Reliability Score,3,0.7992047478111405,0.8
+Random Forest (Proposed),PC3,Reliability Score,4,0.8031055189235896,0.8
+Random Forest (Proposed),PC3,Reliability Score,5,0.7959271569658715,0.8
+Random Forest (Proposed),PC4,AUC mean,1,0.9386030791924067,0.94
+Random Forest (Proposed),PC4,AUC mean,2,0.9404642764425212,0.94
+Random Forest (Proposed),PC4,AUC mean,3,0.9517806790124581,0.94
+Random Forest (Proposed),PC4,AUC mean,4,0.9436373763223095,0.94
+Random Forest (Proposed),PC4,AUC mean,5,0.9255145890303041,0.94
+Random Forest (Proposed),PC4,F1 mean,1,0.6254949563282772,0.63
+Random Forest (Proposed),PC4,F1 mean,2,0.6262403588341829,0.63
+Random Forest (Proposed),PC4,F1 mean,3,0.6330865605598487,0.63
+Random Forest (Proposed),PC4,F1 mean,4,0.6426806666341636,0.63
+Random Forest (Proposed),PC4,F1 mean,5,0.622497457643528,0.63
+Random Forest (Proposed),PC4,Precision mean,1,0.5938381316213964,0.6
+Random Forest (Proposed),PC4,Precision mean,2,0.5942759623190892,0.6
+Random Forest (Proposed),PC4,Precision mean,3,0.6032117115084116,0.6
+Random Forest (Proposed),PC4,Precision mean,4,0.6000922996383982,0.6
+Random Forest (Proposed),PC4,Precision mean,5,0.6085818949127049,0.6
+Random Forest (Proposed),PC4,Recall mean,1,0.6491416534613528,0.66
+Random Forest (Proposed),PC4,Recall mean,2,0.6636671615161419,0.66
+Random Forest (Proposed),PC4,Recall mean,3,0.6571765879185706,0.66
+Random Forest (Proposed),PC4,Recall mean,4,0.6683970721601586,0.66
+Random Forest (Proposed),PC4,Recall mean,5,0.6616175249437757,0.66
+Random Forest (Proposed),PC4,Brier mean,1,0.06986864887890307,0.07
+Random Forest (Proposed),PC4,Brier mean,2,0.0694354389650885,0.07
+Random Forest (Proposed),PC4,Brier mean,3,0.07118958039648268,0.07
+Random Forest (Proposed),PC4,Brier mean,4,0.0700238838748833,0.07
+Random Forest (Proposed),PC4,Brier mean,5,0.06948244788464247,0.07
+Random Forest (Proposed),PC4,GLR mean,1,0.059633450827147425,0.06
+Random Forest (Proposed),PC4,GLR mean,2,0.06023235734117434,0.06
+Random Forest (Proposed),PC4,GLR mean,3,0.06029722112148188,0.06
+Random Forest (Proposed),PC4,GLR mean,4,0.059796193974273014,0.06
+Random Forest (Proposed),PC4,GLR mean,5,0.060040776735923354,0.06
+Random Forest (Proposed),PC4,Hit@10,1,0.999680253175078,1.0
+Random Forest (Proposed),PC4,Hit@10,2,1.0153796501741503,1.0
+Random Forest (Proposed),PC4,Hit@10,3,0.9969517066354557,1.0
+Random Forest (Proposed),PC4,Hit@10,4,0.9951467956308686,1.0
+Random Forest (Proposed),PC4,Hit@10,5,0.992841594384447,1.0
+Random Forest (Proposed),PC4,ECE,1,0.049707426195684815,0.05
+Random Forest (Proposed),PC4,ECE,2,0.05024872366354217,0.05
+Random Forest (Proposed),PC4,ECE,3,0.04984919478467651,0.05
+Random Forest (Proposed),PC4,ECE,4,0.049821920712379356,0.05
+Random Forest (Proposed),PC4,ECE,5,0.050372734643717214,0.05
+Random Forest (Proposed),PC4,Reliability Score,1,0.8319707728828929,0.83
+Random Forest (Proposed),PC4,Reliability Score,2,0.827293435364315,0.83
+Random Forest (Proposed),PC4,Reliability Score,3,0.8416763894450244,0.83
+Random Forest (Proposed),PC4,Reliability Score,4,0.8130948262962145,0.83
+Random Forest (Proposed),PC4,Reliability Score,5,0.8359645760115525,0.83
+XGBoost (Proposed),CM1,AUC mean,1,0.7728657430728615,0.77
+XGBoost (Proposed),CM1,AUC mean,2,0.7577161514560434,0.77
+XGBoost (Proposed),CM1,AUC mean,3,0.77660667013501,0.77
+XGBoost (Proposed),CM1,AUC mean,4,0.776572437717289,0.77
+XGBoost (Proposed),CM1,AUC mean,5,0.7662389976187962,0.77
+XGBoost (Proposed),CM1,F1 mean,1,0.33765941790593335,0.34
+XGBoost (Proposed),CM1,F1 mean,2,0.3384917311001502,0.34
+XGBoost (Proposed),CM1,F1 mean,3,0.34496062084753654,0.34
+XGBoost (Proposed),CM1,F1 mean,4,0.34206499913395133,0.34
+XGBoost (Proposed),CM1,F1 mean,5,0.3368232310124285,0.34
+XGBoost (Proposed),CM1,Precision mean,1,0.3944783758797,0.39
+XGBoost (Proposed),CM1,Precision mean,2,0.392508566747573,0.39
+XGBoost (Proposed),CM1,Precision mean,3,0.3842061829656386,0.39
+XGBoost (Proposed),CM1,Precision mean,4,0.38992829238352167,0.39
+XGBoost (Proposed),CM1,Precision mean,5,0.3888785820235668,0.39
+XGBoost (Proposed),CM1,Recall mean,1,0.3589424619460086,0.36
+XGBoost (Proposed),CM1,Recall mean,2,0.3610253177375819,0.36
+XGBoost (Proposed),CM1,Recall mean,3,0.36016560454514585,0.36
+XGBoost (Proposed),CM1,Recall mean,4,0.36185311854420327,0.36
+XGBoost (Proposed),CM1,Recall mean,5,0.35801349722705994,0.36
+XGBoost (Proposed),CM1,Brier mean,1,0.13017245864005292,0.13
+XGBoost (Proposed),CM1,Brier mean,2,0.1304342988491352,0.13
+XGBoost (Proposed),CM1,Brier mean,3,0.12687864669302035,0.13
+XGBoost (Proposed),CM1,Brier mean,4,0.130271815590214,0.13
+XGBoost (Proposed),CM1,Brier mean,5,0.13224278022757766,0.13
+XGBoost (Proposed),CM1,GLR mean,1,0.22824918559204224,0.23
+XGBoost (Proposed),CM1,GLR mean,2,0.22673786836952445,0.23
+XGBoost (Proposed),CM1,GLR mean,3,0.23088557721217579,0.23
+XGBoost (Proposed),CM1,GLR mean,4,0.23538696898075764,0.23
+XGBoost (Proposed),CM1,GLR mean,5,0.2287403998454998,0.23
+XGBoost (Proposed),CM1,Hit@10,1,1.0088507888111453,1.0
+XGBoost (Proposed),CM1,Hit@10,2,0.9995894101846785,1.0
+XGBoost (Proposed),CM1,Hit@10,3,0.9917238340482257,1.0
+XGBoost (Proposed),CM1,Hit@10,4,0.9998214185074656,1.0
+XGBoost (Proposed),CM1,Hit@10,5,1.0000145484484841,1.0
+XGBoost (Proposed),CM1,ECE,1,0.11058324257471516,0.11
+XGBoost (Proposed),CM1,ECE,2,0.10969158615926669,0.11
+XGBoost (Proposed),CM1,ECE,3,0.1095003727716738,0.11
+XGBoost (Proposed),CM1,ECE,4,0.10934844175995583,0.11
+XGBoost (Proposed),CM1,ECE,5,0.11087635673438855,0.11
+XGBoost (Proposed),CM1,Reliability Score,1,0.829422308997013,0.83
+XGBoost (Proposed),CM1,Reliability Score,2,0.8374015051105371,0.83
+XGBoost (Proposed),CM1,Reliability Score,3,0.8366675910313364,0.83
+XGBoost (Proposed),CM1,Reliability Score,4,0.822256270838694,0.83
+XGBoost (Proposed),CM1,Reliability Score,5,0.8242523240224197,0.83
+XGBoost (Proposed),MC1,AUC mean,1,0.9745431865183664,0.97
+XGBoost (Proposed),MC1,AUC mean,2,0.9683211242302125,0.97
+XGBoost (Proposed),MC1,AUC mean,3,0.9761938521525261,0.97
+XGBoost (Proposed),MC1,AUC mean,4,0.9667967169670139,0.97
+XGBoost (Proposed),MC1,AUC mean,5,0.9641451201318813,0.97
+XGBoost (Proposed),MC1,F1 mean,1,0.4826357768197701,0.48
+XGBoost (Proposed),MC1,F1 mean,2,0.4788424163320689,0.48
+XGBoost (Proposed),MC1,F1 mean,3,0.4752110736205341,0.48
+XGBoost (Proposed),MC1,F1 mean,4,0.48148341608222694,0.48
+XGBoost (Proposed),MC1,F1 mean,5,0.48182731714539967,0.48
+XGBoost (Proposed),MC1,Precision mean,1,0.5674955575714067,0.56
+XGBoost (Proposed),MC1,Precision mean,2,0.5575195387778341,0.56
+XGBoost (Proposed),MC1,Precision mean,3,0.5606978035755557,0.56
+XGBoost (Proposed),MC1,Precision mean,4,0.5576908040819811,0.56
+XGBoost (Proposed),MC1,Precision mean,5,0.5565962959932222,0.56
+XGBoost (Proposed),MC1,Recall mean,1,0.44334359569635484,0.44
+XGBoost (Proposed),MC1,Recall mean,2,0.44099011944835553,0.44
+XGBoost (Proposed),MC1,Recall mean,3,0.43463497227102327,0.44
+XGBoost (Proposed),MC1,Recall mean,4,0.439260054786177,0.44
+XGBoost (Proposed),MC1,Recall mean,5,0.44177125779808935,0.44
+XGBoost (Proposed),MC1,Brier mean,1,0.009970543710992883,0.01
+XGBoost (Proposed),MC1,Brier mean,2,0.009981013366374936,0.01
+XGBoost (Proposed),MC1,Brier mean,3,0.010215864100097062,0.01
+XGBoost (Proposed),MC1,Brier mean,4,0.009905223429884738,0.01
+XGBoost (Proposed),MC1,Brier mean,5,0.009927355392650382,0.01
+XGBoost (Proposed),MC1,GLR mean,1,0.07093769972052429,0.07
+XGBoost (Proposed),MC1,GLR mean,2,0.0700118244488107,0.07
+XGBoost (Proposed),MC1,GLR mean,3,0.0698294301592881,0.07
+XGBoost (Proposed),MC1,GLR mean,4,0.06906854504202548,0.07
+XGBoost (Proposed),MC1,GLR mean,5,0.07015250062935151,0.07
+XGBoost (Proposed),MC1,Hit@10,1,1.0000072944125193,1.0
+XGBoost (Proposed),MC1,Hit@10,2,1.0058357947554672,1.0
+XGBoost (Proposed),MC1,Hit@10,3,1.007560315541873,1.0
+XGBoost (Proposed),MC1,Hit@10,4,0.9981788312085079,1.0
+XGBoost (Proposed),MC1,Hit@10,5,0.9884177640816317,1.0
+XGBoost (Proposed),MC1,ECE,1,0.0,0.0
+XGBoost (Proposed),MC1,ECE,2,0.0,0.0
+XGBoost (Proposed),MC1,ECE,3,0.0,0.0
+XGBoost (Proposed),MC1,ECE,4,0.0,0.0
+XGBoost (Proposed),MC1,ECE,5,0.0,0.0
+XGBoost (Proposed),MC1,Reliability Score,1,0.8343453491700473,0.84
+XGBoost (Proposed),MC1,Reliability Score,2,0.8480617642352454,0.84
+XGBoost (Proposed),MC1,Reliability Score,3,0.8360198595551737,0.84
+XGBoost (Proposed),MC1,Reliability Score,4,0.8470374188008042,0.84
+XGBoost (Proposed),MC1,Reliability Score,5,0.8345356082387295,0.84
+XGBoost (Proposed),MC2,AUC mean,1,0.7446629559803446,0.75
+XGBoost (Proposed),MC2,AUC mean,2,0.7462062607242556,0.75
+XGBoost (Proposed),MC2,AUC mean,3,0.7623583896228597,0.75
+XGBoost (Proposed),MC2,AUC mean,4,0.7499807535137137,0.75
+XGBoost (Proposed),MC2,AUC mean,5,0.746791640158826,0.75
+XGBoost (Proposed),MC2,F1 mean,1,0.5284340649599085,0.53
+XGBoost (Proposed),MC2,F1 mean,2,0.5331646039344574,0.53
+XGBoost (Proposed),MC2,F1 mean,3,0.5301270387184679,0.53
+XGBoost (Proposed),MC2,F1 mean,4,0.525966052041303,0.53
+XGBoost (Proposed),MC2,F1 mean,5,0.5323082403458637,0.53
+XGBoost (Proposed),MC2,Precision mean,1,0.5978162796537508,0.59
+XGBoost (Proposed),MC2,Precision mean,2,0.5931666959500462,0.59
+XGBoost (Proposed),MC2,Precision mean,3,0.5923295035387033,0.59
+XGBoost (Proposed),MC2,Precision mean,4,0.5837995816250543,0.59
+XGBoost (Proposed),MC2,Precision mean,5,0.5828879392324448,0.59
+XGBoost (Proposed),MC2,Recall mean,1,0.5120957862314928,0.52
+XGBoost (Proposed),MC2,Recall mean,2,0.5252331468657113,0.52
+XGBoost (Proposed),MC2,Recall mean,3,0.5190131805155999,0.52
+XGBoost (Proposed),MC2,Recall mean,4,0.5195514115145314,0.52
+XGBoost (Proposed),MC2,Recall mean,5,0.5241064748726645,0.52
+XGBoost (Proposed),MC2,Brier mean,1,0.21857295834227278,0.22
+XGBoost (Proposed),MC2,Brier mean,2,0.22321035307526618,0.22
+XGBoost (Proposed),MC2,Brier mean,3,0.21745246457374245,0.22
+XGBoost (Proposed),MC2,Brier mean,4,0.21757778813843776,0.22
+XGBoost (Proposed),MC2,Brier mean,5,0.2231864358702807,0.22
+XGBoost (Proposed),MC2,GLR mean,1,0.14026199586205454,0.14
+XGBoost (Proposed),MC2,GLR mean,2,0.14007749296981056,0.14
+XGBoost (Proposed),MC2,GLR mean,3,0.1370846280681742,0.14
+XGBoost (Proposed),MC2,GLR mean,4,0.14088561380562456,0.14
+XGBoost (Proposed),MC2,GLR mean,5,0.14169026929433629,0.14
+XGBoost (Proposed),MC2,Hit@10,1,1.000341160930153,1.0
+XGBoost (Proposed),MC2,Hit@10,2,0.99943161507268,1.0
+XGBoost (Proposed),MC2,Hit@10,3,1.0215611715189936,1.0
+XGBoost (Proposed),MC2,Hit@10,4,0.9960032366140453,1.0
+XGBoost (Proposed),MC2,Hit@10,5,0.9826628158641274,1.0
+XGBoost (Proposed),MC2,ECE,1,0.1811091969963206,0.18
+XGBoost (Proposed),MC2,ECE,2,0.17875094800168606,0.18
+XGBoost (Proposed),MC2,ECE,3,0.18150596899713822,0.18
+XGBoost (Proposed),MC2,ECE,4,0.17894282790283672,0.18
+XGBoost (Proposed),MC2,ECE,5,0.17969105810201833,0.18
+XGBoost (Proposed),MC2,Reliability Score,1,0.7976647956020979,0.8
+XGBoost (Proposed),MC2,Reliability Score,2,0.7953394213878682,0.8
+XGBoost (Proposed),MC2,Reliability Score,3,0.8015414749622244,0.8
+XGBoost (Proposed),MC2,Reliability Score,4,0.812584775753013,0.8
+XGBoost (Proposed),MC2,Reliability Score,5,0.7928695322947963,0.8
+XGBoost (Proposed),MW1,AUC mean,1,0.7922416806011713,0.79
+XGBoost (Proposed),MW1,AUC mean,2,0.7845538761907496,0.79
+XGBoost (Proposed),MW1,AUC mean,3,0.7880891082185804,0.79
+XGBoost (Proposed),MW1,AUC mean,4,0.7957805492374517,0.79
+XGBoost (Proposed),MW1,AUC mean,5,0.7893347857520475,0.79
+XGBoost (Proposed),MW1,F1 mean,1,0.31607787595473136,0.31
+XGBoost (Proposed),MW1,F1 mean,2,0.3064203737701713,0.31
+XGBoost (Proposed),MW1,F1 mean,3,0.30555600593953675,0.31
+XGBoost (Proposed),MW1,F1 mean,4,0.3101489615212122,0.31
+XGBoost (Proposed),MW1,F1 mean,5,0.31179678281434847,0.31
+XGBoost (Proposed),MW1,Precision mean,1,0.40391061951394386,0.4
+XGBoost (Proposed),MW1,Precision mean,2,0.3970642734665541,0.4
+XGBoost (Proposed),MW1,Precision mean,3,0.39954623464674727,0.4
+XGBoost (Proposed),MW1,Precision mean,4,0.39593835497702373,0.4
+XGBoost (Proposed),MW1,Precision mean,5,0.40354051739573077,0.4
+XGBoost (Proposed),MW1,Recall mean,1,0.3027738122263763,0.3
+XGBoost (Proposed),MW1,Recall mean,2,0.30077564937248386,0.3
+XGBoost (Proposed),MW1,Recall mean,3,0.29972047779978134,0.3
+XGBoost (Proposed),MW1,Recall mean,4,0.2998264093072335,0.3
+XGBoost (Proposed),MW1,Recall mean,5,0.29690365129412494,0.3
+XGBoost (Proposed),MW1,Brier mean,1,0.07883446585638176,0.08
+XGBoost (Proposed),MW1,Brier mean,2,0.08076714434784696,0.08
+XGBoost (Proposed),MW1,Brier mean,3,0.08046364503578267,0.08
+XGBoost (Proposed),MW1,Brier mean,4,0.08037130052917169,0.08
+XGBoost (Proposed),MW1,Brier mean,5,0.07956344423081688,0.08
+XGBoost (Proposed),MW1,GLR mean,1,0.1480402780960829,0.15
+XGBoost (Proposed),MW1,GLR mean,2,0.15090581200325429,0.15
+XGBoost (Proposed),MW1,GLR mean,3,0.15014908217189862,0.15
+XGBoost (Proposed),MW1,GLR mean,4,0.14936485916606443,0.15
+XGBoost (Proposed),MW1,GLR mean,5,0.1515399685626997,0.15
+XGBoost (Proposed),MW1,Hit@10,1,1.0079278339954647,1.0
+XGBoost (Proposed),MW1,Hit@10,2,1.0075540998393346,1.0
+XGBoost (Proposed),MW1,Hit@10,3,0.9868537610347146,1.0
+XGBoost (Proposed),MW1,Hit@10,4,0.9970175195068,1.0
+XGBoost (Proposed),MW1,Hit@10,5,1.0006467856236858,1.0
+XGBoost (Proposed),MW1,ECE,1,0.07852670839416875,0.08
+XGBoost (Proposed),MW1,ECE,2,0.08170818327092398,0.08
+XGBoost (Proposed),MW1,ECE,3,0.07919994487960388,0.08
+XGBoost (Proposed),MW1,ECE,4,0.08034372750711727,0.08
+XGBoost (Proposed),MW1,ECE,5,0.08022143594818613,0.08
+XGBoost (Proposed),MW1,Reliability Score,1,0.8393410122395654,0.83
+XGBoost (Proposed),MW1,Reliability Score,2,0.8281407891307612,0.83
+XGBoost (Proposed),MW1,Reliability Score,3,0.821733874457524,0.83
+XGBoost (Proposed),MW1,Reliability Score,4,0.8296777754577145,0.83
+XGBoost (Proposed),MW1,Reliability Score,5,0.8311065487144348,0.83
+XGBoost (Proposed),PC1,AUC mean,1,0.8309506989657419,0.84
+XGBoost (Proposed),PC1,AUC mean,2,0.8511821672358622,0.84
+XGBoost (Proposed),PC1,AUC mean,3,0.8226875271806268,0.84
+XGBoost (Proposed),PC1,AUC mean,4,0.8453319684920854,0.84
+XGBoost (Proposed),PC1,AUC mean,5,0.8498476381256833,0.84
+XGBoost (Proposed),PC1,F1 mean,1,0.37020255527536483,0.37
+XGBoost (Proposed),PC1,F1 mean,2,0.3659854245775301,0.37
+XGBoost (Proposed),PC1,F1 mean,3,0.3716569694226132,0.37
+XGBoost (Proposed),PC1,F1 mean,4,0.3715517831101506,0.37
+XGBoost (Proposed),PC1,F1 mean,5,0.37060326761434126,0.37
+XGBoost (Proposed),PC1,Precision mean,1,0.41453005290169415,0.42
+XGBoost (Proposed),PC1,Precision mean,2,0.43191082798891145,0.42
+XGBoost (Proposed),PC1,Precision mean,3,0.4191249775027791,0.42
+XGBoost (Proposed),PC1,Precision mean,4,0.4171341206717711,0.42
+XGBoost (Proposed),PC1,Precision mean,5,0.4173000209348444,0.42
+XGBoost (Proposed),PC1,Recall mean,1,0.3726376423659428,0.37
+XGBoost (Proposed),PC1,Recall mean,2,0.37095987499350114,0.37
+XGBoost (Proposed),PC1,Recall mean,3,0.36553280250731024,0.37
+XGBoost (Proposed),PC1,Recall mean,4,0.3688045958980973,0.37
+XGBoost (Proposed),PC1,Recall mean,5,0.3720650842351482,0.37
+XGBoost (Proposed),PC1,Brier mean,1,0.0693306020506823,0.07
+XGBoost (Proposed),PC1,Brier mean,2,0.07022909959461608,0.07
+XGBoost (Proposed),PC1,Brier mean,3,0.06989525059187474,0.07
+XGBoost (Proposed),PC1,Brier mean,4,0.07033632134938145,0.07
+XGBoost (Proposed),PC1,Brier mean,5,0.0702087264134455,0.07
+XGBoost (Proposed),PC1,GLR mean,1,0.07057257625101176,0.07
+XGBoost (Proposed),PC1,GLR mean,2,0.07135520141012386,0.07
+XGBoost (Proposed),PC1,GLR mean,3,0.06926506221164723,0.07
+XGBoost (Proposed),PC1,GLR mean,4,0.0691497038666408,0.07
+XGBoost (Proposed),PC1,GLR mean,5,0.06965745626057641,0.07
+XGBoost (Proposed),PC1,Hit@10,1,0.9985255724762747,1.0
+XGBoost (Proposed),PC1,Hit@10,2,0.9999882876874948,1.0
+XGBoost (Proposed),PC1,Hit@10,3,0.983810967822901,1.0
+XGBoost (Proposed),PC1,Hit@10,4,1.0155810145767346,1.0
+XGBoost (Proposed),PC1,Hit@10,5,1.0020941574365951,1.0
+XGBoost (Proposed),PC1,ECE,1,0.0602786815666274,0.06
+XGBoost (Proposed),PC1,ECE,2,0.05948265427268681,0.06
+XGBoost (Proposed),PC1,ECE,3,0.06000445263957884,0.06
+XGBoost (Proposed),PC1,ECE,4,0.0599119555737941,0.06
+XGBoost (Proposed),PC1,ECE,5,0.06032225594731285,0.06
+XGBoost (Proposed),PC1,Reliability Score,1,0.8274844064889008,0.82
+XGBoost (Proposed),PC1,Reliability Score,2,0.8192243576273613,0.82
+XGBoost (Proposed),PC1,Reliability Score,3,0.8121649742298453,0.82
+XGBoost (Proposed),PC1,Reliability Score,4,0.8213479053289355,0.82
+XGBoost (Proposed),PC1,Reliability Score,5,0.8197783563249573,0.82
+XGBoost (Proposed),PC2,AUC mean,1,0.7516941294755047,0.75
+XGBoost (Proposed),PC2,AUC mean,2,0.7583851784150105,0.75
+XGBoost (Proposed),PC2,AUC mean,3,0.7451264164229658,0.75
+XGBoost (Proposed),PC2,AUC mean,4,0.7585695982775524,0.75
+XGBoost (Proposed),PC2,AUC mean,5,0.7362246774089666,0.75
+XGBoost (Proposed),PC2,F1 mean,1,0.03980935600380736,0.04
+XGBoost (Proposed),PC2,F1 mean,2,0.04029843144764862,0.04
+XGBoost (Proposed),PC2,F1 mean,3,0.03976093962180964,0.04
+XGBoost (Proposed),PC2,F1 mean,4,0.040057526367069586,0.04
+XGBoost (Proposed),PC2,F1 mean,5,0.0400737465596648,0.04
+XGBoost (Proposed),PC2,Precision mean,1,0.040156839421277554,0.04
+XGBoost (Proposed),PC2,Precision mean,2,0.039755957573926436,0.04
+XGBoost (Proposed),PC2,Precision mean,3,0.0397530699020331,0.04
+XGBoost (Proposed),PC2,Precision mean,4,0.03992005805447665,0.04
+XGBoost (Proposed),PC2,Precision mean,5,0.040414075048286265,0.04
+XGBoost (Proposed),PC2,Recall mean,1,0.04036690453721012,0.04
+XGBoost (Proposed),PC2,Recall mean,2,0.039570829295479455,0.04
+XGBoost (Proposed),PC2,Recall mean,3,0.03970536418824467,0.04
+XGBoost (Proposed),PC2,Recall mean,4,0.039820247439203676,0.04
+XGBoost (Proposed),PC2,Recall mean,5,0.04053665453986209,0.04
+XGBoost (Proposed),PC2,Brier mean,1,0.00995418247111292,0.01
+XGBoost (Proposed),PC2,Brier mean,2,0.010119190455224485,0.01
+XGBoost (Proposed),PC2,Brier mean,3,0.009977883621072861,0.01
+XGBoost (Proposed),PC2,Brier mean,4,0.009984195291428405,0.01
+XGBoost (Proposed),PC2,Brier mean,5,0.009964548161161327,0.01
+XGBoost (Proposed),PC2,GLR mean,1,0.27081833290051915,0.27
+XGBoost (Proposed),PC2,GLR mean,2,0.2683525033275484,0.27
+XGBoost (Proposed),PC2,GLR mean,3,0.27097495526821275,0.27
+XGBoost (Proposed),PC2,GLR mean,4,0.2687227840006031,0.27
+XGBoost (Proposed),PC2,GLR mean,5,0.27113142450311684,0.27
+XGBoost (Proposed),PC2,Hit@10,1,0.9913578291420844,1.0
+XGBoost (Proposed),PC2,Hit@10,2,1.0038666001775858,1.0
+XGBoost (Proposed),PC2,Hit@10,3,1.0074853630978875,1.0
+XGBoost (Proposed),PC2,Hit@10,4,1.0056242261587285,1.0
+XGBoost (Proposed),PC2,Hit@10,5,0.9916659814237131,1.0
+XGBoost (Proposed),PC2,ECE,1,0.009939626595631905,0.01
+XGBoost (Proposed),PC2,ECE,2,0.009771191890654278,0.01
+XGBoost (Proposed),PC2,ECE,3,0.0101264490971873,0.01
+XGBoost (Proposed),PC2,ECE,4,0.010056247472499266,0.01
+XGBoost (Proposed),PC2,ECE,5,0.010106484944027256,0.01
+XGBoost (Proposed),PC2,Reliability Score,1,0.8764972865847926,0.88
+XGBoost (Proposed),PC2,Reliability Score,2,0.8596236262337722,0.88
+XGBoost (Proposed),PC2,Reliability Score,3,0.8926291507304506,0.88
+XGBoost (Proposed),PC2,Reliability Score,4,0.8785428422499197,0.88
+XGBoost (Proposed),PC2,Reliability Score,5,0.8927070942010649,0.88
+XGBoost (Proposed),PC3,AUC mean,1,0.8412081571957233,0.83
+XGBoost (Proposed),PC3,AUC mean,2,0.8338801308795273,0.83
+XGBoost (Proposed),PC3,AUC mean,3,0.8223963849740799,0.83
+XGBoost (Proposed),PC3,AUC mean,4,0.8234984898078889,0.83
+XGBoost (Proposed),PC3,AUC mean,5,0.8290168371427802,0.83
+XGBoost (Proposed),PC3,F1 mean,1,0.37757495323371976,0.38
+XGBoost (Proposed),PC3,F1 mean,2,0.37683393926762593,0.38
+XGBoost (Proposed),PC3,F1 mean,3,0.3784365118889516,0.38
+XGBoost (Proposed),PC3,F1 mean,4,0.38283541105757507,0.38
+XGBoost (Proposed),PC3,F1 mean,5,0.38431918455212766,0.38
+XGBoost (Proposed),PC3,Precision mean,1,0.44212768175264366,0.45
+XGBoost (Proposed),PC3,Precision mean,2,0.45172129887503637,0.45
+XGBoost (Proposed),PC3,Precision mean,3,0.45398630597759476,0.45
+XGBoost (Proposed),PC3,Precision mean,4,0.45023123698752854,0.45
+XGBoost (Proposed),PC3,Precision mean,5,0.45193347640719667,0.45
+XGBoost (Proposed),PC3,Recall mean,1,0.32904110178014134,0.33
+XGBoost (Proposed),PC3,Recall mean,2,0.331575412537592,0.33
+XGBoost (Proposed),PC3,Recall mean,3,0.33080372543287095,0.33
+XGBoost (Proposed),PC3,Recall mean,4,0.3289510948274915,0.33
+XGBoost (Proposed),PC3,Recall mean,5,0.3296286654219044,0.33
+XGBoost (Proposed),PC3,Brier mean,1,0.09050314263684829,0.09
+XGBoost (Proposed),PC3,Brier mean,2,0.08981308901425976,0.09
+XGBoost (Proposed),PC3,Brier mean,3,0.09005682110739563,0.09
+XGBoost (Proposed),PC3,Brier mean,4,0.0899262258590434,0.09
+XGBoost (Proposed),PC3,Brier mean,5,0.08970072138245289,0.09
+XGBoost (Proposed),PC3,GLR mean,1,0.18935727840960093,0.19
+XGBoost (Proposed),PC3,GLR mean,2,0.18904331455648724,0.19
+XGBoost (Proposed),PC3,GLR mean,3,0.19179854151124318,0.19
+XGBoost (Proposed),PC3,GLR mean,4,0.19069711005481993,0.19
+XGBoost (Proposed),PC3,GLR mean,5,0.18910375546784874,0.19
+XGBoost (Proposed),PC3,Hit@10,1,0.9958311587842154,1.0
+XGBoost (Proposed),PC3,Hit@10,2,1.0055647763348448,1.0
+XGBoost (Proposed),PC3,Hit@10,3,1.0066244988643303,1.0
+XGBoost (Proposed),PC3,Hit@10,4,0.984951939907485,1.0
+XGBoost (Proposed),PC3,Hit@10,5,1.0070276261091236,1.0
+XGBoost (Proposed),PC3,ECE,1,0.07877942241667091,0.08
+XGBoost (Proposed),PC3,ECE,2,0.07979669695529516,0.08
+XGBoost (Proposed),PC3,ECE,3,0.08097914716698751,0.08
+XGBoost (Proposed),PC3,ECE,4,0.0794277496693043,0.08
+XGBoost (Proposed),PC3,ECE,5,0.0810169837917421,0.08
+XGBoost (Proposed),PC3,Reliability Score,1,0.8347795265673834,0.84
+XGBoost (Proposed),PC3,Reliability Score,2,0.8494678111478894,0.84
+XGBoost (Proposed),PC3,Reliability Score,3,0.8470431420624966,0.84
+XGBoost (Proposed),PC3,Reliability Score,4,0.8369430287229401,0.84
+XGBoost (Proposed),PC3,Reliability Score,5,0.8317664914992902,0.84
+XGBoost (Proposed),PC4,AUC mean,1,0.9560802531575252,0.95
+XGBoost (Proposed),PC4,AUC mean,2,0.9473847074829628,0.95
+XGBoost (Proposed),PC4,AUC mean,3,0.9511640956553871,0.95
+XGBoost (Proposed),PC4,AUC mean,4,0.9487867132689229,0.95
+XGBoost (Proposed),PC4,AUC mean,5,0.946584230435202,0.95
+XGBoost (Proposed),PC4,F1 mean,1,0.6328625171454595,0.64
+XGBoost (Proposed),PC4,F1 mean,2,0.6457200792133168,0.64
+XGBoost (Proposed),PC4,F1 mean,3,0.6359327465456824,0.64
+XGBoost (Proposed),PC4,F1 mean,4,0.6490524918937433,0.64
+XGBoost (Proposed),PC4,F1 mean,5,0.6364321652017983,0.64
+XGBoost (Proposed),PC4,Precision mean,1,0.6578911655806645,0.66
+XGBoost (Proposed),PC4,Precision mean,2,0.6671578371137805,0.66
+XGBoost (Proposed),PC4,Precision mean,3,0.6598075786848613,0.66
+XGBoost (Proposed),PC4,Precision mean,4,0.6516283973714717,0.66
+XGBoost (Proposed),PC4,Precision mean,5,0.6635150212492222,0.66
+XGBoost (Proposed),PC4,Recall mean,1,0.6070721513598633,0.61
+XGBoost (Proposed),PC4,Recall mean,2,0.6119063134752097,0.61
+XGBoost (Proposed),PC4,Recall mean,3,0.6048635304984185,0.61
+XGBoost (Proposed),PC4,Recall mean,4,0.6092319842239349,0.61
+XGBoost (Proposed),PC4,Recall mean,5,0.6169260204425738,0.61
+XGBoost (Proposed),PC4,Brier mean,1,0.06940150632120819,0.07
+XGBoost (Proposed),PC4,Brier mean,2,0.07097095220701695,0.07
+XGBoost (Proposed),PC4,Brier mean,3,0.0703182384264065,0.07
+XGBoost (Proposed),PC4,Brier mean,4,0.06983238385214698,0.07
+XGBoost (Proposed),PC4,Brier mean,5,0.06947691919322142,0.07
+XGBoost (Proposed),PC4,GLR mean,1,0.11892932574693868,0.12
+XGBoost (Proposed),PC4,GLR mean,2,0.12040883056810453,0.12
+XGBoost (Proposed),PC4,GLR mean,3,0.11963624547563559,0.12
+XGBoost (Proposed),PC4,GLR mean,4,0.1200094971134084,0.12
+XGBoost (Proposed),PC4,GLR mean,5,0.12101610109591278,0.12
+XGBoost (Proposed),PC4,Hit@10,1,0.9994351188829859,1.0
+XGBoost (Proposed),PC4,Hit@10,2,1.0095471013292834,1.0
+XGBoost (Proposed),PC4,Hit@10,3,0.9834562047845411,1.0
+XGBoost (Proposed),PC4,Hit@10,4,1.0165846387602158,1.0
+XGBoost (Proposed),PC4,Hit@10,5,0.9909769362429746,1.0
+XGBoost (Proposed),PC4,ECE,1,0.049795514186328355,0.05
+XGBoost (Proposed),PC4,ECE,2,0.05000526978035117,0.05
+XGBoost (Proposed),PC4,ECE,3,0.05002592560081453,0.05
+XGBoost (Proposed),PC4,ECE,4,0.050066757581122286,0.05
+XGBoost (Proposed),PC4,ECE,5,0.05010653285138369,0.05
+XGBoost (Proposed),PC4,Reliability Score,1,0.8545122336081884,0.84
+XGBoost (Proposed),PC4,Reliability Score,2,0.8483694674976415,0.84
+XGBoost (Proposed),PC4,Reliability Score,3,0.8428954795104632,0.84
+XGBoost (Proposed),PC4,Reliability Score,4,0.8215177693328133,0.84
+XGBoost (Proposed),PC4,Reliability Score,5,0.8327050500508942,0.84

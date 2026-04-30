@@ -1,0 +1,513 @@
+Model,Dataset,BaselineMetric,ProposedMetric,W_min_scipy,W_plus,W_minus,W_signed,p_value,significant_0.05,significant_0.01,effect_size_r
+Adaboost,MC1,AUC mean,AUC mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+Adaboost,MC1,F1 mean,F1 mean,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+Adaboost,MC1,Precision mean,Precision mean,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+Adaboost,MC1,Recall mean,Recall mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+Adaboost,MC1,Generalizability mean,GLR mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+Adaboost,MC1,Concordance mean,Hit@10,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+Adaboost,MC1,Stability,ECE,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+Adaboost,MC1,Reliability Index,Reliability Score,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+Adaboost,MC2,AUC mean,AUC mean,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+Adaboost,MC2,F1 mean,F1 mean,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+Adaboost,MC2,Precision mean,Precision mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+Adaboost,MC2,Recall mean,Recall mean,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+Adaboost,MC2,Generalizability mean,GLR mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+Adaboost,MC2,Concordance mean,Hit@10,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+Adaboost,MC2,Stability,ECE,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+Adaboost,MC2,Reliability Index,Reliability Score,2.0,2.0,13.0,-11.0,0.1875,False,False,-0.7333333333333333
+Adaboost,MW1,AUC mean,AUC mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+Adaboost,MW1,F1 mean,F1 mean,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+Adaboost,MW1,Precision mean,Precision mean,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+Adaboost,MW1,Recall mean,Recall mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+Adaboost,MW1,Generalizability mean,GLR mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+Adaboost,MW1,Concordance mean,Hit@10,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+Adaboost,MW1,Stability,ECE,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+Adaboost,MW1,Reliability Index,Reliability Score,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+Adaboost,CM1,AUC mean,AUC mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+Adaboost,CM1,F1 mean,F1 mean,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+Adaboost,CM1,Precision mean,Precision mean,6.0,6.0,9.0,-3.0,0.8125,False,False,-0.2
+Adaboost,CM1,Recall mean,Recall mean,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+Adaboost,CM1,Generalizability mean,GLR mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+Adaboost,CM1,Concordance mean,Hit@10,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+Adaboost,CM1,Stability,ECE,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+Adaboost,CM1,Reliability Index,Reliability Score,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+Adaboost,PC1,AUC mean,AUC mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+Adaboost,PC1,F1 mean,F1 mean,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+Adaboost,PC1,Precision mean,Precision mean,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+Adaboost,PC1,Recall mean,Recall mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+Adaboost,PC1,Generalizability mean,GLR mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+Adaboost,PC1,Concordance mean,Hit@10,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+Adaboost,PC1,Stability,ECE,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+Adaboost,PC1,Reliability Index,Reliability Score,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+Adaboost,PC2,AUC mean,AUC mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+Adaboost,PC2,F1 mean,F1 mean,7.0,7.0,8.0,-1.0,1.0,False,False,-0.06666666666666667
+Adaboost,PC2,Precision mean,Precision mean,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+Adaboost,PC2,Recall mean,Recall mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+Adaboost,PC2,Generalizability mean,GLR mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+Adaboost,PC2,Concordance mean,Hit@10,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+Adaboost,PC2,Stability,ECE,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+Adaboost,PC2,Reliability Index,Reliability Score,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+Adaboost,PC3,AUC mean,AUC mean,7.0,8.0,7.0,1.0,1.0,False,False,0.06666666666666667
+Adaboost,PC3,F1 mean,F1 mean,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+Adaboost,PC3,Precision mean,Precision mean,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+Adaboost,PC3,Recall mean,Recall mean,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+Adaboost,PC3,Generalizability mean,GLR mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+Adaboost,PC3,Concordance mean,Hit@10,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+Adaboost,PC3,Stability,ECE,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+Adaboost,PC3,Reliability Index,Reliability Score,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+Adaboost,PC4,AUC mean,AUC mean,7.0,8.0,7.0,1.0,1.0,False,False,0.06666666666666667
+Adaboost,PC4,F1 mean,F1 mean,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+Adaboost,PC4,Precision mean,Precision mean,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+Adaboost,PC4,Recall mean,Recall mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+Adaboost,PC4,Generalizability mean,GLR mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+Adaboost,PC4,Concordance mean,Hit@10,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+Adaboost,PC4,Stability,ECE,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+Adaboost,PC4,Reliability Index,Reliability Score,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+CatBoost,MC1,AUC mean,AUC mean,6.0,6.0,9.0,-3.0,0.8125,False,False,-0.2
+CatBoost,MC1,F1 mean,F1 mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+CatBoost,MC1,Precision mean,Precision mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+CatBoost,MC1,Recall mean,Recall mean,7.0,7.0,8.0,-1.0,1.0,False,False,-0.06666666666666667
+CatBoost,MC1,Generalizability mean,GLR mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+CatBoost,MC1,Concordance mean,Hit@10,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+CatBoost,MC1,Stability,ECE,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+CatBoost,MC1,Reliability Index,Reliability Score,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+CatBoost,MC2,AUC mean,AUC mean,2.0,13.0,2.0,11.0,0.1875,False,False,0.7333333333333333
+CatBoost,MC2,F1 mean,F1 mean,7.0,8.0,7.0,1.0,1.0,False,False,0.06666666666666667
+CatBoost,MC2,Precision mean,Precision mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+CatBoost,MC2,Recall mean,Recall mean,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+CatBoost,MC2,Generalizability mean,GLR mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+CatBoost,MC2,Concordance mean,Hit@10,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+CatBoost,MC2,Stability,ECE,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+CatBoost,MC2,Reliability Index,Reliability Score,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+CatBoost,MW1,AUC mean,AUC mean,2.0,2.0,13.0,-11.0,0.1875,False,False,-0.7333333333333333
+CatBoost,MW1,F1 mean,F1 mean,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+CatBoost,MW1,Precision mean,Precision mean,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+CatBoost,MW1,Recall mean,Recall mean,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+CatBoost,MW1,Generalizability mean,GLR mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+CatBoost,MW1,Concordance mean,Hit@10,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+CatBoost,MW1,Stability,ECE,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+CatBoost,MW1,Reliability Index,Reliability Score,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+CatBoost,CM1,AUC mean,AUC mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+CatBoost,CM1,F1 mean,F1 mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+CatBoost,CM1,Precision mean,Precision mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+CatBoost,CM1,Recall mean,Recall mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+CatBoost,CM1,Generalizability mean,GLR mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+CatBoost,CM1,Concordance mean,Hit@10,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+CatBoost,CM1,Stability,ECE,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+CatBoost,CM1,Reliability Index,Reliability Score,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+CatBoost,PC1,AUC mean,AUC mean,2.0,13.0,2.0,11.0,0.1875,False,False,0.7333333333333333
+CatBoost,PC1,F1 mean,F1 mean,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+CatBoost,PC1,Precision mean,Precision mean,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+CatBoost,PC1,Recall mean,Recall mean,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+CatBoost,PC1,Generalizability mean,GLR mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+CatBoost,PC1,Concordance mean,Hit@10,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+CatBoost,PC1,Stability,ECE,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+CatBoost,PC1,Reliability Index,Reliability Score,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+CatBoost,PC2,AUC mean,AUC mean,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+CatBoost,PC2,F1 mean,F1 mean,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+CatBoost,PC2,Precision mean,Precision mean,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+CatBoost,PC2,Recall mean,Recall mean,7.0,7.0,8.0,-1.0,1.0,False,False,-0.06666666666666667
+CatBoost,PC2,Generalizability mean,GLR mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+CatBoost,PC2,Concordance mean,Hit@10,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+CatBoost,PC2,Stability,ECE,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+CatBoost,PC2,Reliability Index,Reliability Score,3.0,12.0,3.0,9.0,0.3125,False,False,0.6
+CatBoost,PC3,AUC mean,AUC mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+CatBoost,PC3,F1 mean,F1 mean,5.0,10.0,5.0,5.0,0.625,False,False,0.3333333333333333
+CatBoost,PC3,Precision mean,Precision mean,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+CatBoost,PC3,Recall mean,Recall mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+CatBoost,PC3,Generalizability mean,GLR mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+CatBoost,PC3,Concordance mean,Hit@10,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+CatBoost,PC3,Stability,ECE,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+CatBoost,PC3,Reliability Index,Reliability Score,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+CatBoost,PC4,AUC mean,AUC mean,7.0,7.0,8.0,-1.0,1.0,False,False,-0.06666666666666667
+CatBoost,PC4,F1 mean,F1 mean,7.0,8.0,7.0,1.0,1.0,False,False,0.06666666666666667
+CatBoost,PC4,Precision mean,Precision mean,6.0,9.0,6.0,3.0,0.8125,False,False,0.2
+CatBoost,PC4,Recall mean,Recall mean,7.0,7.0,8.0,-1.0,1.0,False,False,-0.06666666666666667
+CatBoost,PC4,Generalizability mean,GLR mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+CatBoost,PC4,Concordance mean,Hit@10,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+CatBoost,PC4,Stability,ECE,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+CatBoost,PC4,Reliability Index,Reliability Score,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+Extra Trees,MC1,AUC mean,AUC mean,1.0,1.0,14.0,-13.0,0.125,False,False,-0.8666666666666667
+Extra Trees,MC1,F1 mean,F1 mean,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+Extra Trees,MC1,Precision mean,Precision mean,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+Extra Trees,MC1,Recall mean,Recall mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+Extra Trees,MC1,Generalizability mean,GLR mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+Extra Trees,MC1,Concordance mean,Hit@10,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+Extra Trees,MC1,Stability,ECE,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+Extra Trees,MC1,Reliability Index,Reliability Score,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+Extra Trees,MC2,AUC mean,AUC mean,7.0,8.0,7.0,1.0,1.0,False,False,0.06666666666666667
+Extra Trees,MC2,F1 mean,F1 mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+Extra Trees,MC2,Precision mean,Precision mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+Extra Trees,MC2,Recall mean,Recall mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+Extra Trees,MC2,Generalizability mean,GLR mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+Extra Trees,MC2,Concordance mean,Hit@10,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+Extra Trees,MC2,Stability,ECE,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+Extra Trees,MC2,Reliability Index,Reliability Score,7.0,7.0,8.0,-1.0,1.0,False,False,-0.06666666666666667
+Extra Trees,MW1,AUC mean,AUC mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+Extra Trees,MW1,F1 mean,F1 mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+Extra Trees,MW1,Precision mean,Precision mean,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+Extra Trees,MW1,Recall mean,Recall mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+Extra Trees,MW1,Generalizability mean,GLR mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+Extra Trees,MW1,Concordance mean,Hit@10,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+Extra Trees,MW1,Stability,ECE,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+Extra Trees,MW1,Reliability Index,Reliability Score,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+Extra Trees,CM1,AUC mean,AUC mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+Extra Trees,CM1,F1 mean,F1 mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+Extra Trees,CM1,Precision mean,Precision mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+Extra Trees,CM1,Recall mean,Recall mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+Extra Trees,CM1,Generalizability mean,GLR mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+Extra Trees,CM1,Concordance mean,Hit@10,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+Extra Trees,CM1,Stability,ECE,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+Extra Trees,CM1,Reliability Index,Reliability Score,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+Extra Trees,PC1,AUC mean,AUC mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+Extra Trees,PC1,F1 mean,F1 mean,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+Extra Trees,PC1,Precision mean,Precision mean,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+Extra Trees,PC1,Recall mean,Recall mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+Extra Trees,PC1,Generalizability mean,GLR mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+Extra Trees,PC1,Concordance mean,Hit@10,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+Extra Trees,PC1,Stability,ECE,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+Extra Trees,PC1,Reliability Index,Reliability Score,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+Extra Trees,PC2,AUC mean,AUC mean,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+Extra Trees,PC2,F1 mean,F1 mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+Extra Trees,PC2,Precision mean,Precision mean,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+Extra Trees,PC2,Recall mean,Recall mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+Extra Trees,PC2,Generalizability mean,GLR mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+Extra Trees,PC2,Concordance mean,Hit@10,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+Extra Trees,PC2,Stability,ECE,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+Extra Trees,PC2,Reliability Index,Reliability Score,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+Extra Trees,PC3,AUC mean,AUC mean,1.0,14.0,1.0,13.0,0.125,False,False,0.8666666666666667
+Extra Trees,PC3,F1 mean,F1 mean,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+Extra Trees,PC3,Precision mean,Precision mean,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+Extra Trees,PC3,Recall mean,Recall mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+Extra Trees,PC3,Generalizability mean,GLR mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+Extra Trees,PC3,Concordance mean,Hit@10,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+Extra Trees,PC3,Stability,ECE,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+Extra Trees,PC3,Reliability Index,Reliability Score,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+Extra Trees,PC4,AUC mean,AUC mean,1.0,14.0,1.0,13.0,0.125,False,False,0.8666666666666667
+Extra Trees,PC4,F1 mean,F1 mean,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+Extra Trees,PC4,Precision mean,Precision mean,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+Extra Trees,PC4,Recall mean,Recall mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+Extra Trees,PC4,Generalizability mean,GLR mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+Extra Trees,PC4,Concordance mean,Hit@10,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+Extra Trees,PC4,Stability,ECE,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+Extra Trees,PC4,Reliability Index,Reliability Score,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+Gradient Boosting,MC1,AUC mean,AUC mean,7.0,8.0,7.0,1.0,1.0,False,False,0.06666666666666667
+Gradient Boosting,MC1,F1 mean,F1 mean,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+Gradient Boosting,MC1,Precision mean,Precision mean,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+Gradient Boosting,MC1,Recall mean,Recall mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+Gradient Boosting,MC1,Generalizability mean,GLR mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+Gradient Boosting,MC1,Concordance mean,Hit@10,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+Gradient Boosting,MC1,Stability,ECE,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+Gradient Boosting,MC1,Reliability Index,Reliability Score,5.0,10.0,5.0,5.0,0.625,False,False,0.3333333333333333
+Gradient Boosting,MC2,AUC mean,AUC mean,7.0,8.0,7.0,1.0,1.0,False,False,0.06666666666666667
+Gradient Boosting,MC2,F1 mean,F1 mean,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+Gradient Boosting,MC2,Precision mean,Precision mean,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+Gradient Boosting,MC2,Recall mean,Recall mean,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+Gradient Boosting,MC2,Generalizability mean,GLR mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+Gradient Boosting,MC2,Concordance mean,Hit@10,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+Gradient Boosting,MC2,Stability,ECE,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+Gradient Boosting,MC2,Reliability Index,Reliability Score,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+Gradient Boosting,MW1,AUC mean,AUC mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+Gradient Boosting,MW1,F1 mean,F1 mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+Gradient Boosting,MW1,Precision mean,Precision mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+Gradient Boosting,MW1,Recall mean,Recall mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+Gradient Boosting,MW1,Generalizability mean,GLR mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+Gradient Boosting,MW1,Concordance mean,Hit@10,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+Gradient Boosting,MW1,Stability,ECE,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+Gradient Boosting,MW1,Reliability Index,Reliability Score,7.0,8.0,7.0,1.0,1.0,False,False,0.06666666666666667
+Gradient Boosting,CM1,AUC mean,AUC mean,1.0,14.0,1.0,13.0,0.125,False,False,0.8666666666666667
+Gradient Boosting,CM1,F1 mean,F1 mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+Gradient Boosting,CM1,Precision mean,Precision mean,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+Gradient Boosting,CM1,Recall mean,Recall mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+Gradient Boosting,CM1,Generalizability mean,GLR mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+Gradient Boosting,CM1,Concordance mean,Hit@10,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+Gradient Boosting,CM1,Stability,ECE,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+Gradient Boosting,CM1,Reliability Index,Reliability Score,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+Gradient Boosting,PC1,AUC mean,AUC mean,3.0,12.0,3.0,9.0,0.3125,False,False,0.6
+Gradient Boosting,PC1,F1 mean,F1 mean,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+Gradient Boosting,PC1,Precision mean,Precision mean,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+Gradient Boosting,PC1,Recall mean,Recall mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+Gradient Boosting,PC1,Generalizability mean,GLR mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+Gradient Boosting,PC1,Concordance mean,Hit@10,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+Gradient Boosting,PC1,Stability,ECE,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+Gradient Boosting,PC1,Reliability Index,Reliability Score,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+Gradient Boosting,PC2,AUC mean,AUC mean,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+Gradient Boosting,PC2,F1 mean,F1 mean,7.0,8.0,7.0,1.0,1.0,False,False,0.06666666666666667
+Gradient Boosting,PC2,Precision mean,Precision mean,6.0,6.0,9.0,-3.0,0.8125,False,False,-0.2
+Gradient Boosting,PC2,Recall mean,Recall mean,6.0,9.0,6.0,3.0,0.8125,False,False,0.2
+Gradient Boosting,PC2,Generalizability mean,GLR mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+Gradient Boosting,PC2,Concordance mean,Hit@10,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+Gradient Boosting,PC2,Stability,ECE,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+Gradient Boosting,PC2,Reliability Index,Reliability Score,1.0,14.0,1.0,13.0,0.125,False,False,0.8666666666666667
+Gradient Boosting,PC3,AUC mean,AUC mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+Gradient Boosting,PC3,F1 mean,F1 mean,5.0,10.0,5.0,5.0,0.625,False,False,0.3333333333333333
+Gradient Boosting,PC3,Precision mean,Precision mean,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+Gradient Boosting,PC3,Recall mean,Recall mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+Gradient Boosting,PC3,Generalizability mean,GLR mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+Gradient Boosting,PC3,Concordance mean,Hit@10,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+Gradient Boosting,PC3,Stability,ECE,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+Gradient Boosting,PC3,Reliability Index,Reliability Score,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+Gradient Boosting,PC4,AUC mean,AUC mean,7.0,8.0,7.0,1.0,1.0,False,False,0.06666666666666667
+Gradient Boosting,PC4,F1 mean,F1 mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+Gradient Boosting,PC4,Precision mean,Precision mean,1.0,14.0,1.0,13.0,0.125,False,False,0.8666666666666667
+Gradient Boosting,PC4,Recall mean,Recall mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+Gradient Boosting,PC4,Generalizability mean,GLR mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+Gradient Boosting,PC4,Concordance mean,Hit@10,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+Gradient Boosting,PC4,Stability,ECE,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+Gradient Boosting,PC4,Reliability Index,Reliability Score,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+LightGBM,MC1,AUC mean,AUC mean,7.0,8.0,7.0,1.0,1.0,False,False,0.06666666666666667
+LightGBM,MC1,F1 mean,F1 mean,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+LightGBM,MC1,Precision mean,Precision mean,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+LightGBM,MC1,Recall mean,Recall mean,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+LightGBM,MC1,Generalizability mean,GLR mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+LightGBM,MC1,Concordance mean,Hit@10,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+LightGBM,MC1,Stability,ECE,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+LightGBM,MC1,Reliability Index,Reliability Score,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+LightGBM,MC2,AUC mean,AUC mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+LightGBM,MC2,F1 mean,F1 mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+LightGBM,MC2,Precision mean,Precision mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+LightGBM,MC2,Recall mean,Recall mean,6.0,9.0,6.0,3.0,0.8125,False,False,0.2
+LightGBM,MC2,Generalizability mean,GLR mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+LightGBM,MC2,Concordance mean,Hit@10,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+LightGBM,MC2,Stability,ECE,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+LightGBM,MC2,Reliability Index,Reliability Score,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+LightGBM,MW1,AUC mean,AUC mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+LightGBM,MW1,F1 mean,F1 mean,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+LightGBM,MW1,Precision mean,Precision mean,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+LightGBM,MW1,Recall mean,Recall mean,7.0,8.0,7.0,1.0,1.0,False,False,0.06666666666666667
+LightGBM,MW1,Generalizability mean,GLR mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+LightGBM,MW1,Concordance mean,Hit@10,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+LightGBM,MW1,Stability,ECE,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+LightGBM,MW1,Reliability Index,Reliability Score,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+LightGBM,CM1,AUC mean,AUC mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+LightGBM,CM1,F1 mean,F1 mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+LightGBM,CM1,Precision mean,Precision mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+LightGBM,CM1,Recall mean,Recall mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+LightGBM,CM1,Generalizability mean,GLR mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+LightGBM,CM1,Concordance mean,Hit@10,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+LightGBM,CM1,Stability,ECE,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+LightGBM,CM1,Reliability Index,Reliability Score,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+LightGBM,PC1,AUC mean,AUC mean,4.0,11.0,4.0,7.0,0.4375,False,False,0.4666666666666667
+LightGBM,PC1,F1 mean,F1 mean,5.0,5.0,10.0,-5.0,0.625,False,False,-0.3333333333333333
+LightGBM,PC1,Precision mean,Precision mean,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+LightGBM,PC1,Recall mean,Recall mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+LightGBM,PC1,Generalizability mean,GLR mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+LightGBM,PC1,Concordance mean,Hit@10,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+LightGBM,PC1,Stability,ECE,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+LightGBM,PC1,Reliability Index,Reliability Score,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+LightGBM,PC2,AUC mean,AUC mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+LightGBM,PC2,F1 mean,F1 mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+LightGBM,PC2,Precision mean,Precision mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+LightGBM,PC2,Recall mean,Recall mean,7.0,8.0,7.0,1.0,1.0,False,False,0.06666666666666667
+LightGBM,PC2,Generalizability mean,GLR mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+LightGBM,PC2,Concordance mean,Hit@10,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+LightGBM,PC2,Stability,ECE,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+LightGBM,PC2,Reliability Index,Reliability Score,1.0,14.0,1.0,13.0,0.125,False,False,0.8666666666666667
+LightGBM,PC3,AUC mean,AUC mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+LightGBM,PC3,F1 mean,F1 mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+LightGBM,PC3,Precision mean,Precision mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+LightGBM,PC3,Recall mean,Recall mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+LightGBM,PC3,Generalizability mean,GLR mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+LightGBM,PC3,Concordance mean,Hit@10,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+LightGBM,PC3,Stability,ECE,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+LightGBM,PC3,Reliability Index,Reliability Score,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+LightGBM,PC4,AUC mean,AUC mean,7.0,7.0,8.0,-1.0,1.0,False,False,-0.06666666666666667
+LightGBM,PC4,F1 mean,F1 mean,4.0,11.0,4.0,7.0,0.4375,False,False,0.4666666666666667
+LightGBM,PC4,Precision mean,Precision mean,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+LightGBM,PC4,Recall mean,Recall mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+LightGBM,PC4,Generalizability mean,GLR mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+LightGBM,PC4,Concordance mean,Hit@10,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+LightGBM,PC4,Stability,ECE,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+LightGBM,PC4,Reliability Index,Reliability Score,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+MLP,MC1,AUC mean,AUC mean,4.0,11.0,4.0,7.0,0.4375,False,False,0.4666666666666667
+MLP,MC1,F1 mean,F1 mean,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+MLP,MC1,Precision mean,Precision mean,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+MLP,MC1,Recall mean,Recall mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+MLP,MC1,Generalizability mean,GLR mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+MLP,MC1,Concordance mean,Hit@10,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+MLP,MC1,Stability,ECE,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+MLP,MC1,Reliability Index,Reliability Score,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+MLP,MC2,AUC mean,AUC mean,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+MLP,MC2,F1 mean,F1 mean,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+MLP,MC2,Precision mean,Precision mean,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+MLP,MC2,Recall mean,Recall mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+MLP,MC2,Generalizability mean,GLR mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+MLP,MC2,Concordance mean,Hit@10,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+MLP,MC2,Stability,ECE,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+MLP,MC2,Reliability Index,Reliability Score,7.0,7.0,8.0,-1.0,1.0,False,False,-0.06666666666666667
+MLP,MW1,AUC mean,AUC mean,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+MLP,MW1,F1 mean,F1 mean,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+MLP,MW1,Precision mean,Precision mean,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+MLP,MW1,Recall mean,Recall mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+MLP,MW1,Generalizability mean,GLR mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+MLP,MW1,Concordance mean,Hit@10,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+MLP,MW1,Stability,ECE,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+MLP,MW1,Reliability Index,Reliability Score,1.0,1.0,14.0,-13.0,0.125,False,False,-0.8666666666666667
+MLP,CM1,AUC mean,AUC mean,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+MLP,CM1,F1 mean,F1 mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+MLP,CM1,Precision mean,Precision mean,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+MLP,CM1,Recall mean,Recall mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+MLP,CM1,Generalizability mean,GLR mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+MLP,CM1,Concordance mean,Hit@10,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+MLP,CM1,Stability,ECE,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+MLP,CM1,Reliability Index,Reliability Score,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+MLP,PC1,AUC mean,AUC mean,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+MLP,PC1,F1 mean,F1 mean,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+MLP,PC1,Precision mean,Precision mean,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+MLP,PC1,Recall mean,Recall mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+MLP,PC1,Generalizability mean,GLR mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+MLP,PC1,Concordance mean,Hit@10,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+MLP,PC1,Stability,ECE,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+MLP,PC1,Reliability Index,Reliability Score,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+MLP,PC2,AUC mean,AUC mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+MLP,PC2,F1 mean,F1 mean,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+MLP,PC2,Precision mean,Precision mean,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+MLP,PC2,Recall mean,Recall mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+MLP,PC2,Generalizability mean,GLR mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+MLP,PC2,Concordance mean,Hit@10,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+MLP,PC2,Stability,ECE,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+MLP,PC2,Reliability Index,Reliability Score,7.0,7.0,8.0,-1.0,1.0,False,False,-0.06666666666666667
+MLP,PC3,AUC mean,AUC mean,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+MLP,PC3,F1 mean,F1 mean,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+MLP,PC3,Precision mean,Precision mean,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+MLP,PC3,Recall mean,Recall mean,7.0,8.0,7.0,1.0,1.0,False,False,0.06666666666666667
+MLP,PC3,Generalizability mean,GLR mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+MLP,PC3,Concordance mean,Hit@10,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+MLP,PC3,Stability,ECE,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+MLP,PC3,Reliability Index,Reliability Score,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+MLP,PC4,AUC mean,AUC mean,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+MLP,PC4,F1 mean,F1 mean,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+MLP,PC4,Precision mean,Precision mean,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+MLP,PC4,Recall mean,Recall mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+MLP,PC4,Generalizability mean,GLR mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+MLP,PC4,Concordance mean,Hit@10,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+MLP,PC4,Stability,ECE,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+MLP,PC4,Reliability Index,Reliability Score,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+Random Forest,MC1,AUC mean,AUC mean,7.0,8.0,7.0,1.0,1.0,False,False,0.06666666666666667
+Random Forest,MC1,F1 mean,F1 mean,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+Random Forest,MC1,Precision mean,Precision mean,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+Random Forest,MC1,Recall mean,Recall mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+Random Forest,MC1,Generalizability mean,GLR mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+Random Forest,MC1,Concordance mean,Hit@10,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+Random Forest,MC1,Stability,ECE,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+Random Forest,MC1,Reliability Index,Reliability Score,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+Random Forest,MC2,AUC mean,AUC mean,7.0,7.0,8.0,-1.0,1.0,False,False,-0.06666666666666667
+Random Forest,MC2,F1 mean,F1 mean,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+Random Forest,MC2,Precision mean,Precision mean,6.0,9.0,6.0,3.0,0.8125,False,False,0.2
+Random Forest,MC2,Recall mean,Recall mean,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+Random Forest,MC2,Generalizability mean,GLR mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+Random Forest,MC2,Concordance mean,Hit@10,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+Random Forest,MC2,Stability,ECE,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+Random Forest,MC2,Reliability Index,Reliability Score,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+Random Forest,MW1,AUC mean,AUC mean,6.0,9.0,6.0,3.0,0.8125,False,False,0.2
+Random Forest,MW1,F1 mean,F1 mean,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+Random Forest,MW1,Precision mean,Precision mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+Random Forest,MW1,Recall mean,Recall mean,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+Random Forest,MW1,Generalizability mean,GLR mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+Random Forest,MW1,Concordance mean,Hit@10,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+Random Forest,MW1,Stability,ECE,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+Random Forest,MW1,Reliability Index,Reliability Score,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+Random Forest,CM1,AUC mean,AUC mean,1.0,1.0,14.0,-13.0,0.125,False,False,-0.8666666666666667
+Random Forest,CM1,F1 mean,F1 mean,7.0,7.0,8.0,-1.0,1.0,False,False,-0.06666666666666667
+Random Forest,CM1,Precision mean,Precision mean,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+Random Forest,CM1,Recall mean,Recall mean,5.0,10.0,5.0,5.0,0.625,False,False,0.3333333333333333
+Random Forest,CM1,Generalizability mean,GLR mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+Random Forest,CM1,Concordance mean,Hit@10,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+Random Forest,CM1,Stability,ECE,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+Random Forest,CM1,Reliability Index,Reliability Score,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+Random Forest,PC1,AUC mean,AUC mean,2.0,13.0,2.0,11.0,0.1875,False,False,0.7333333333333333
+Random Forest,PC1,F1 mean,F1 mean,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+Random Forest,PC1,Precision mean,Precision mean,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+Random Forest,PC1,Recall mean,Recall mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+Random Forest,PC1,Generalizability mean,GLR mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+Random Forest,PC1,Concordance mean,Hit@10,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+Random Forest,PC1,Stability,ECE,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+Random Forest,PC1,Reliability Index,Reliability Score,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+Random Forest,PC2,AUC mean,AUC mean,6.0,9.0,6.0,3.0,0.8125,False,False,0.2
+Random Forest,PC2,F1 mean,F1 mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+Random Forest,PC2,Precision mean,Precision mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+Random Forest,PC2,Recall mean,Recall mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+Random Forest,PC2,Generalizability mean,GLR mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+Random Forest,PC2,Concordance mean,Hit@10,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+Random Forest,PC2,Stability,ECE,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+Random Forest,PC2,Reliability Index,Reliability Score,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+Random Forest,PC3,AUC mean,AUC mean,7.0,8.0,7.0,1.0,1.0,False,False,0.06666666666666667
+Random Forest,PC3,F1 mean,F1 mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+Random Forest,PC3,Precision mean,Precision mean,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+Random Forest,PC3,Recall mean,Recall mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+Random Forest,PC3,Generalizability mean,GLR mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+Random Forest,PC3,Concordance mean,Hit@10,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+Random Forest,PC3,Stability,ECE,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+Random Forest,PC3,Reliability Index,Reliability Score,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+Random Forest,PC4,AUC mean,AUC mean,4.0,11.0,4.0,7.0,0.4375,False,False,0.4666666666666667
+Random Forest,PC4,F1 mean,F1 mean,7.0,7.0,8.0,-1.0,1.0,False,False,-0.06666666666666667
+Random Forest,PC4,Precision mean,Precision mean,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+Random Forest,PC4,Recall mean,Recall mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+Random Forest,PC4,Generalizability mean,GLR mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+Random Forest,PC4,Concordance mean,Hit@10,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+Random Forest,PC4,Stability,ECE,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+Random Forest,PC4,Reliability Index,Reliability Score,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+XGBoost,MC1,AUC mean,AUC mean,7.0,7.0,8.0,-1.0,1.0,False,False,-0.06666666666666667
+XGBoost,MC1,F1 mean,F1 mean,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+XGBoost,MC1,Precision mean,Precision mean,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+XGBoost,MC1,Recall mean,Recall mean,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+XGBoost,MC1,Generalizability mean,GLR mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+XGBoost,MC1,Concordance mean,Hit@10,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+XGBoost,MC1,Stability,ECE,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+XGBoost,MC1,Reliability Index,Reliability Score,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+XGBoost,MC2,AUC mean,AUC mean,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+XGBoost,MC2,F1 mean,F1 mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+XGBoost,MC2,Precision mean,Precision mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+XGBoost,MC2,Recall mean,Recall mean,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+XGBoost,MC2,Generalizability mean,GLR mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+XGBoost,MC2,Concordance mean,Hit@10,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+XGBoost,MC2,Stability,ECE,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+XGBoost,MC2,Reliability Index,Reliability Score,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+XGBoost,MW1,AUC mean,AUC mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+XGBoost,MW1,F1 mean,F1 mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+XGBoost,MW1,Precision mean,Precision mean,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+XGBoost,MW1,Recall mean,Recall mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+XGBoost,MW1,Generalizability mean,GLR mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+XGBoost,MW1,Concordance mean,Hit@10,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+XGBoost,MW1,Stability,ECE,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+XGBoost,MW1,Reliability Index,Reliability Score,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+XGBoost,CM1,AUC mean,AUC mean,7.0,8.0,7.0,1.0,1.0,False,False,0.06666666666666667
+XGBoost,CM1,F1 mean,F1 mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+XGBoost,CM1,Precision mean,Precision mean,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+XGBoost,CM1,Recall mean,Recall mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+XGBoost,CM1,Generalizability mean,GLR mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+XGBoost,CM1,Concordance mean,Hit@10,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+XGBoost,CM1,Stability,ECE,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+XGBoost,CM1,Reliability Index,Reliability Score,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+XGBoost,PC1,AUC mean,AUC mean,7.0,8.0,7.0,1.0,1.0,False,False,0.06666666666666667
+XGBoost,PC1,F1 mean,F1 mean,7.0,7.0,8.0,-1.0,1.0,False,False,-0.06666666666666667
+XGBoost,PC1,Precision mean,Precision mean,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+XGBoost,PC1,Recall mean,Recall mean,5.0,10.0,5.0,5.0,0.625,False,False,0.3333333333333333
+XGBoost,PC1,Generalizability mean,GLR mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+XGBoost,PC1,Concordance mean,Hit@10,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+XGBoost,PC1,Stability,ECE,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+XGBoost,PC1,Reliability Index,Reliability Score,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+XGBoost,PC2,AUC mean,AUC mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+XGBoost,PC2,F1 mean,F1 mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+XGBoost,PC2,Precision mean,Precision mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+XGBoost,PC2,Recall mean,Recall mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+XGBoost,PC2,Generalizability mean,GLR mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+XGBoost,PC2,Concordance mean,Hit@10,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+XGBoost,PC2,Stability,ECE,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+XGBoost,PC2,Reliability Index,Reliability Score,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+XGBoost,PC3,AUC mean,AUC mean,7.0,8.0,7.0,1.0,1.0,False,False,0.06666666666666667
+XGBoost,PC3,F1 mean,F1 mean,7.0,8.0,7.0,1.0,1.0,False,False,0.06666666666666667
+XGBoost,PC3,Precision mean,Precision mean,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+XGBoost,PC3,Recall mean,Recall mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+XGBoost,PC3,Generalizability mean,GLR mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+XGBoost,PC3,Concordance mean,Hit@10,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+XGBoost,PC3,Stability,ECE,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+XGBoost,PC3,Reliability Index,Reliability Score,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+XGBoost,PC4,AUC mean,AUC mean,5.0,10.0,5.0,5.0,0.625,False,False,0.3333333333333333
+XGBoost,PC4,F1 mean,F1 mean,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+XGBoost,PC4,Precision mean,Precision mean,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+XGBoost,PC4,Recall mean,Recall mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+XGBoost,PC4,Generalizability mean,GLR mean,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+XGBoost,PC4,Concordance mean,Hit@10,0.0,15.0,0.0,15.0,0.0625,False,False,1.0
+XGBoost,PC4,Stability,ECE,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
+XGBoost,PC4,Reliability Index,Reliability Score,0.0,0.0,15.0,-15.0,0.0625,False,False,-1.0
